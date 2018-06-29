@@ -1,0 +1,848 @@
+Volume 42, Number 21 Pages 1575–1634 
+November 1, 2017 
+SALUS POPULI SUPREMA LEX ESTO “The welfare of the people shall be the supreme law.” 
+John R. Ashcroft Secretary of State 
+MISSOURI REGISTER 
+ 
+The Missouri Register is an official publication of the state of Missouri, under the authority granted to the secretary of state by sections 536.015 and 536.033, RSMo 2016. Reproduction of rules is allowed; however, no reproduction shall bear the name Missouri Register or “official” without the express per- mission of the secretary of state. 
+The Missouri Register is published semi-monthly by SECRETARY OF STATE 
+John R. Ashcroft 
+Administrative Rules Division James C. Kirkpatrick State Information Center 
+600 W. Main Jefferson City, MO 65101 (573) 751-4015 
+EDITOR-IN-CHIEF CURTIS W. TREAT 
+· MANAGING EDITOR 
+AMANDA MCKAY 
+· EDITOR 
+VONNE KILBOURN 
+· ASSOCIATE EDITOR 
+MARTY SPANN 
+· PUBLICATION SPECIALIST 
+JACQUELINE D. WHITE 
+· ADMINISTRATIVE AIDE 
+ALISHA DUDENHOEFFER 
+ISSN 0149-2942, USPS 320-630; periodical postage paid at Jefferson City, MO Subscription fee: $56.00 per year 
+POSTMASTER: Send change of address notices and undelivered copies to: 
+MISSOURI REGISTER Office of the Secretary of State Administrative Rules Division PO Box 1767 Jefferson City, MO 65102 
+The Missouri Register and Code of State Regulations (CSR) are available on the Internet. The Register address is www.sos.mo.gov/adrules/moreg/moreg and the CSR is www.sos.mo.gov/adrules/csr/csr. These websites contain rulemakings and regu- lations as they appear in the paper copies of the Registers and CSR. The Administrative Rules Division may be contacted by email at rules@sos.mo.gov. 
+The secretary of state’s office makes every effort to provide program accessibility to all citizens without regard to disability. If you desire this publication in alternate form because of a disability, please contact the Division of Administrative Rules, PO Box 1767, Jefferson City, MO 65102, (573) 751-4015. Hearing impaired citizens should contact the director through Missouri relay, (800) 735-2966. 
+  
+
+MISSOURI REGISTER 
+November 1, 2017 
+IN THIS ISSUE: 
+Vol. 42 No. 21 Pages 1575–1634 
+EXECUTIVE ORDERS . . . . . . . . . . . . . . . . . . .1579 
+PROPOSED RULES 
+Department of Elementary and Secondary Education 
+Division of Learning Services . . . . . . . . . . . . . . . . . . .1581 
+Department of Natural Resources 
+Land Survey . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1584 
+Department of Social Services 
+IN ADDITIONS 
+Department of Health and Senior Services 
+Missouri Health Facilities Review Committee . . . . . . . . .1612 DISSOLUTIONS . . . . . . . . . . . . . . . . . . . . . . . . .1613 
+SOURCE GUIDES 
+RULE CHANGES SINCE UPDATE . . . . . . . . . . . . . . . .1621 EMERGENCY RULES IN EFFECT . . . . . . . . . . . . . . .1625 EXECUTIVE ORDERS . . . . . . . . . . . . . . . . . . . . . . . .1627 
+Family Support Division 
+MO HealthNet Division 
+Retirement Systems 
+. . . . . . . . . . . . . . . . . . . . . .1587 . . . . . . . . . . . . . . . . . . . . . .1589 
+The County Employees’ Retirement Fund . . . . . . . . . . .1591 
+Department of Insurance, Financial Institutions and Professional Registration 
+State Committee for Social Workers . . . . . . . . . . . . . . .1592 
+ORDERS OF RULEMAKING 
+Department of Agriculture 
+Missouri Agricultural and Small Business Development Authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1607 
+Department of Public Safety 
+Peace Officer Standards and Training Program . . . . . . . .1607 
+Elected Officials 
+State Auditor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1607 Attorney General . . . . . . . . . . . . . . . . . . . . . . . . . . .1611 
+REGISTER INDEX 
+. . . . . . . . . . . . . . . . . . . . . . . . . .1629 
+ 
+Register Filing Deadlines 
+July 3, 2017 July 17, 2017 
+August 1, 2017 August 15, 2017 
+September 1, 2017 September 15, 2017 
+October 2, 2017 October 16, 2017 
+November 1, 2017 November 15, 2017 
+December 1, 2017 December 15, 2017 
+January 2, 2018 January 16, 2018 
+February 1, 2018 February 15, 2018 
+March 1, 2018 March 15, 2018 
+Register Publication Date 
+August 1, 2017 August 15, 2017 
+September 1, 2017 September 15, 2017 
+October 2, 2017 October 16, 2017 
+November 1, 2017 November 15, 2017 
+December 1, 2017 December 15, 2017 
+January 2, 2018 January 16, 2018 
+February 1, 2018 February 15, 2018 
+March 1, 2018 March 15, 2018 
+April 2, 2018 April 16, 2018 
+Code Publication Date 
+August 31, 2017 August 31, 2017 
+September 30, 2017 September 30, 2017 
+October 31, 2017 October 31, 2017 
+November 30, 2017 November 30, 2017 
+December 31, 2017 December 31, 2017 
+January 29, 2018 January 29, 2018 
+February 28, 2018 February 28, 2018 
+March 31, 2018 March 31, 2018 
+April 30, 2018 April 30, 2018 
+Code Effective Date 
+September 30, 2017 September 30, 2017 
+October 30, 2017 October 30, 2017 
+November 30, 2017 November 30, 2017 
+December 30, 2017 December 30, 2017 
+January 30, 2018 January 30, 2018 
+February 28, 2018 February 28, 2018 
+March 30, 2018 March 30, 2018 
+April 30, 2018 April 30, 2018 
+May 30, 2018 May 30, 2018 
+Documents will be accepted for filing on all regular workdays from 8:00 a.m. until 5:00 p.m. We encourage early filings to facilitate the timely publication of the Missouri Register. Orders of Rulemaking appearing in the Missouri Register will be published in the Code of State Regulations and become effective as listed in the chart above. Advance notice of large volume filings will facilitate their timely publication. We reserve the right to change the schedule due to special circumstances. Please check the latest publication to verify that no changes have been made in this schedule. To review the entire year’s schedule, please check out the website at www.sos.mo.gov/adrules/pubsched. 
+ 
+HOW TO CITE RULES AND RSMO 
+RULES 
+The rules are codified in the Code of State Regulations in this system– 
+Title Division Chapter Rule 
+3 CSR 10- 4 .115 Department Code of Agency General area Specific area 
+State Division regulated regulated Regulations 
+and should be cited in this manner: 3 CSR 10-4.115. 
+Each department of state government is assigned a title. Each agency or division in the department is assigned a division number. The agency then groups its rules into general subject matter areas called chapters and specific areas called rules. Within a rule, the first breakdown is called a section and is designated as (1). Subsection is (A) with further breakdown into paragraphs 1., subparagraphs A., parts (I), subparts (a), items I. and subitems a. 
+The rule is properly cited by using the full citation, for example, 3 CSR 10-4.115 NOT Rule 10-4.115. Citations of RSMo are to the Missouri Revised Statutes as of the date indicated. 
+Code and Register on the Internet 
+The Code of State Regulations and Missouri Register are available on the Internet. The Code address is www.sos.mo.gov/adrules/csr/csr The Register address is www.sos.mo.gov/adrules/moreg/moreg These websites contain rulemakings and regulations as they appear in the Code and Registers. 
+  
+November 1, 2017 Vol. 42, No. 21 
+Executive Orders 
+MISSOURI REGISTER 
+
+The Secretary of State shall publish all executive orders beginning January 1, 2003, pursuant to section 536.035.2, RSMo 2016. 
+ 
+1579 
+
+Page 1580 
+November 1, 2017 Vol. 42, No. 21 
+
+Executive Orders 
+  
+November 1, 2017 Vol. 42, No. 21 
+Proposed Rules 
+MISSOURI REGISTER 
+
+Under this heading will appear the text of proposed rules and changes. The notice of proposed rulemaking is required to contain an explanation of any new rule or any change in an existing rule and the reasons therefor. This is set out in the Purpose section with each rule. Also required is a citation to the legal authority to make rules. This appears fol- lowing the text of the rule, after the word “Authority.” Entirely new rules are printed without any special symbol- 
+ogy under the heading of proposed rule. If an existing rule is to be amended or rescinded, it will have a heading of proposed amendment or proposed rescission. Rules which are proposed to be amended will have new matter printed in boldface type and matter to be deleted placed in brackets. An important function of the Missouri Register is to solicit 
+and encourage public participation in the rulemaking process. The law provides that for every proposed rule, amendment, or rescission there must be a notice that anyone may comment on the proposed action. This comment may take different forms. If an agency is required by statute to hold a public hearing 
+before making any new rules, then a Notice of Public Hearing will appear following the text of the rule. Hearing dates must be at least thirty (30) days after publication of the notice in the Missouri Register. If no hearing is planned or required, the agency must give a Notice to Submit Comments. This allows anyone to file statements in support of or in opposition to the proposed action with the agency within a specified time, no less than thirty (30) days after pub- lication of the notice in the Missouri Register. 
+An agency may hold a public hearing on a rule even though not required by law to hold one. If an agency allows comments to be received following the hearing date, the close of comments date will be used as the beginning day in the ninety- (90-) day-count necessary for the filing of the order of rulemaking. 
+If an agency decides to hold a public hearing after planning not to, it must withdraw the earlier notice and file a new notice of proposed rulemaking and schedule a hearing for a date not less than thirty (30) days from the date of publication of the new notice. 
+Proposed Amendment Text Reminder: Boldface text indicates new matter. [Bracketed text indicates matter being deleted.] 
+Title 5—DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION Division 20—Division of Learning Services Chapter 400—Office of Educator Quality 
+PROPOSED AMENDMENT 
+5 CSR 20-400.640 Certification Requirements for Initial Student Services Certificate. The State Board of Education is proposing to amend sections (1) and (2). 
+PURPOSE: This amendment updates the Initial Student Services Certificate for School Psychological Examiner (Kindergarten-Grade 12) and removes the issuance of an Initial Student Services Certificate for the area of Speech-Language Pathologist. 
+(1) An applicant for a Missouri Initial Student Services Certificate, valid for a period of four (4) years, may be granted an Initial Student 
+(II) Field and Clinical Experience (minimum of three hun- dred (300) clock hours)— 
+(a) Culminating Clinical Experience. This refers to a secondary school placement(s) in which candidates actively partici- pate and complete class assignments and work with students as requested while under the supervision of a counselor. The candidate should experience a wide range of class settings and have opportuni- ties to collaborate with the supervising counselor, preparation pro- gram supervisors, and/or other stakeholders working to improve stu- dent learning[.]; 
+B. A master’s degree or higher degree in education, school counseling, counseling, counseling psychology, rehabilitation coun- seling, or a closely-related mental health discipline; and completed additional graduate coursework specific to school counseling, as des- ignated by the recommending certification official approved by the department; along with the following: 
+(I) Possess a bachelor’s degree in education from [a] an educator preparation program approved by the department; or 
+Services Certificate subject to the certification requirements found in 5 CSR 20-400.500 and the following additional requirements: 
+(C) The Initial Student Services Certificate for Secondary Counselor (Grades 7-12), valid for a period of four (4) years from the effective date of the certificate, will be issued to those persons meeting the following requirements: 
+1. Recommendation for certification from the designated offi- cial of an approved counselor preparation program; 
+2. Completion of a course in Psychology/Education of the Exceptional Child; and 
+3. The applicant must possess either— A. A master’s degree with a major emphasis in guidance and 
+counseling from a college or university meeting approval of the department based upon the completion of a planned program of at least forty-two (42) semester hours of approved graduate credit in courses in guidance and counseling with at least twelve (12) semester hours focused upon guidance in secondary schools— 
+areas: 
+and 
+(I) Knowledge and/or competency in each of the following 
+(a) Student Development— I. Human Growth and Development; II. Counseling Theories and Interventions; III. Helping Relationships; IV. Social and Cultural Diversity; V. Appraisal of Student Growth and Achievement; 
+VI. Career Development and Planning; (b) Program Implementation— 
+I. Structural Components; II. Program Components; III. Technology; and IV. Program, Personnel, and Results Evaluation; 
+(c) Professional Relationships— I. Interpersonal Skills; II. Collaboration; III. Consultation Theories and Strategies; and IV. School and Community Involvement; 
+(d) Leadership and Advocacy— I. Personal Well-Being; II. Leadership and Professionalism; III. Student Advocacy; IV. Program Leadership; and V. School Climate and Culture; and 
+(e) Ethical and Professional Conduct— I. Ethical Standards; II. Professional Standards; III. District and School Policies; and IV. Legal Requirements; and 
+1581 
+
+Page 1582 
+(II) Complete a curriculum in teaching methods and prac- tices, classroom management, and the psychology of the exceptional child, as specified by the recommending certification officer of a pro- gram approved by the department; and 
+(III) Field and Clinical Experience (minimum of three hun- dred (300) clock hours)— 
+(a) Culminating Clinical Experience. This refers to an elementary school placement(s) in which candidates actively partici- pate and complete class assignments and work with students as requested while under the supervision of a counselor. The candidate should experience a wide range of class settings and have opportuni- ties to collaborate with the supervising counselor, preparation pro- gram supervisors, and/or other stakeholders working to improve stu- dent learning; 
+4. Must achieve a score equal to or in excess of the qualifying score of any assessment(s) required by the board. The official score report shall be submitted to the department; 
+(D) The Initial Student Services Certificate for School Psychological Examiner (Kindergarten – Grade 12), valid for a peri- od of four (4) years from the effective date of the certificate, will be issued to those persons meeting the following requirements: 
+1. The applicant shall hold a valid Missouri professional teach- ing certificate or student services certificate of license to teach as an elementary or secondary school counselor; 
+[A. Counseling Psychology; B. Educational Psychology; C. School Counseling; and D. Education;] 
+2. Completion of a master’s degree from a college or univer- sity meeting approval of the Missouri Department of Elementary and Secondary Education in one (1) of the following areas: 
+A. Counseling Psychology; B. Educational Psychology; C. School Counseling; and D. Education; 
+[2.]3. Recommendation for certification from the designated official of an approved Psychological Examiner preparation program; [3.]4. Completion of a course in Psychology/Education of the 
+Exceptional Child; [and] 5. The applicant must achieve a score equal to or in excess 
+of the qualifying score on the required exit assessment(s) as defined in 5 CSR 20-400.310 and 5 CSR 20-400.440. The official score shall be submitted to the department; and 
+[4.]6. A minimum of twenty-four (24) semester hours of pro- fessional preparation at the graduate level with competencies demon- strated in all areas listed to the satisfaction of an approved prepara- tion program— 
+A. Course[s] Areas— (I) Psychological Development: Child, Adolescent, or 
+Developmental Psychology; (II) Psychology of Education; 
+(III) Statistical Methods; 
+(IV) [Mental Hygiene or] Psychology of Personality or Psychodiagnostics; 
+(V) Psychological Tests and Measures for the Analysis of Student Performance; 
+(VI) Individual Intelligence Tests; and 
+(VII) Individual Diagnostic Assessments (other than the Wechsler [Intelligence] Scales [for Children] and the Stanford- Binet Intelligence Scale); 
+B. Competencies— (I) Applying Methods and/or Techniques of Interpretation 
+of Tests; (II) [Analysis] Analyzing and [Diagnosis of Learning 
+Problems, including special consideration of low-incidence populations] Identifying Differences to include tiered systems for supporting instruction and behavior; 
+Diagnostic Assessments and [their Application for Prescriptive Instruction] Applying to Guide Interventions; 
+(IV) [Utilization of] Utilizing Knowledge of Classroom Environment, Psychological Principles, and [Test Date] Data to [Plan for Management of Special Needs Children] assist in the development of student educational plans; 
+(V) Applying Diagnostic Interviewing Techniques; 
+(VI) [Process of Staffing] Collaborating and Consulting with Other Professionals to [Develop] Identify Instructional Strategies; [and] 
+(VII) [Administration and Interpretation of] Administering and Interpreting the Wechsler [Intelligence] Scales [for Children and], the Stanford-Binet Intelligence Scale, and other psychoeducational instruments; and 
+(VIII) Providing services consistent with ethical, legal, and professional standards; and 
+C. Field and Clinical Experiences (minimum of one hundred fifty (150) clock hours)— 
+(I) Culminating Clinical Experience. This culminating clinical experience must be in an educational [or clinical] setting with children and youth of school [and the] age. The culminating clinical experience must include the administration and interpreta- tion of individual intelligence tests, formal and informal diagnostic procedures, and the application of the information to develop instruc- tional strategies. 
+(E) The Initial Student Services Certificate for School Psychologist, valid for a period of four (4) years from the effective date of the cer- tificate, will be issued to those persons meeting the following require- ments: 
+1. Completion of a specialist or higher degree with a major emphasis in school psychology from an approved School Psychologist preparation program; 
+2. Recommendation for certification from the designated offi- cial of a School Psychologist preparation program approved by the department; 
+3. A minimum of sixty (60) semester hours of professional preparation at the graduate level with competencies demonstrated in all areas listed to the satisfaction of an approved School Psychologist preparation program— 
+A. Psychological Foundations— (I) Biological Bases of Behavior; (II) Human Learning; (III) Social and Cultural Bases of Behavior; (IV) Child and Adolescent Development; (V) Individual Differences, including human exceptionali- 
+ties; and (VI) Developmental Psychology; 
+B. Educational Foundations— (I) Instructional Design; and (II) Organization and Operations of Schools; 
+C. Interventions/Problem Solving— (I) Diverse Methods and Models of Assessment; (II) Linked to Direct Interventions; and (III) Linked to Indirect Interventions; 
+D. Statistics and Research Methodologies— (I) Statistics; (II) Research and Evaluation Methods; and (III) Measurement; and 
+E. Professional School Psychology— (I) History and Foundations of School Psychology; (II) Legal and Ethical Issues; (III) Professional Issues and Standards; (IV) Alternative Models for Delivery of School 
+Psychological Services; (V) Emergent Technologies; and 
+(VI) Roles and Functions of the School Psychologist; 4. Competencies— 
+(III) [Interpretation of] Interpreting Formal and Informal 
+A. Data-Based Decision Making and Accountability. School 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1583 
+
+psychologists have knowledge of varied models and methods of assessment and data collection methods for identifying strengths and needs, developing effective services and programs, and measuring progress and outcomes. As part of a systematic and comprehensive process of effective decision making and problem solving that per- meates all aspects of service delivery, school psychologists demon- strate skills to use psychological and educational assessment, data collection strategies, and technology resources and apply results to design, implement, and evaluate response to services and programs; 
+B. Consultation and Collaboration. School psychologists have knowledge of varied models and strategies of consultation, collabo- ration, and communication applicable to individuals, families, groups, and systems and methods to promote effective implementa- tion of services. As part of a systematic and comprehensive process of effective decision making and problem solving that permeates all aspects of service delivery, school psychologists demonstrate skills to consult, collaborate, and communicate effectively with others; 
+C. Interventions and Instructional Support to Develop Academic Skills. School psychologists have knowledge of biological, cultural, and social influences on academic skills; human learning, cognitive, and developmental processes; and evidence-based curric- ula and instructional strategies. School psychologists, in collabora- tion with others, demonstrate skills to use assessment and data col- lection methods and to implement and evaluate services that support cognitive and academic skills; 
+D. Interventions and Mental Health Services to Develop Social and Life Skills. School psychologists have knowledge of bio- logical, cultural, developmental, and social influences on behavior and mental health, behavioral and emotional impacts on learning and life skills, and evidence-based strategies to promote social–emotional functioning and mental health. School psychologists, in collaboration with others, demonstrate skills to use assessment and data-collection methods and to implement and evaluate services that support social- ization, learning, and mental health; 
+E. School-Wide Practices to Promote Learning. School psy- chologists have knowledge of school and systems structure, organiza- tion, and theory; general and special education; technology resources; and evidence-based school practices that promote learning and mental health. School psychologists, in collaboration with oth- ers, demonstrate skills to develop and implement practices and strate- gies to create and maintain effective and supportive learning environ- ments for children and others; 
+F. Preventive and Responsive Services. School psychologists have knowledge of principles and research related to resilience and risk factors in learning and mental health, services in schools and communities to support multi-tiered prevention, and evidence-based strategies for effective crisis response. School psychologists, in col- laboration with others, demonstrate skills to promote services that enhance learning, mental health, safety, and physical well-being through protective and adaptive factors and to implement effective crisis preparation, response, and recovery; 
+G. Family–School Collaboration Services. School psycholo- gists have knowledge of principles and research related to family sys- tems, strengths, needs, and culture; evidence-based strategies to sup- port family influences on children’s learning and mental health; and strategies to develop collaboration between families and schools. School psychologists, in collaboration with others, demonstrate skills to design, implement, and evaluate services that respond to culture and context and facilitate family and school partnerships and interac- tions with community agencies for enhancement of academic and social–behavioral outcomes for children; 
+H. Diversity in Development and Learning. School psychol- ogists have knowledge of individual diversity factors for children, families, and schools, including factors related to culture, context, and individual and role differences; and evidence-based strategies to enhance services and address potential influences related to diversity. School psychologists demonstrate skills to provide effective profes- sional services that promote effective functioning for individuals, 
+families, and schools with diverse characteristics, cultures, and back- grounds and across multiple contexts, with recognition that an under- standing and respect for diversity in development and learning and advocacy for social justice are foundations for all aspects of service delivery; 
+I. Research and Program Evaluation. School psychologists have knowledge of research design, statistics, measurement, varied data collection and analysis techniques, and program evaluation suf- ficient for understanding research and interpreting data in applied settings. School psychologists demonstrate skills to evaluate and apply research as a foundation for service delivery and, in collabo- ration with others, use various techniques and technology resources for data collection, measurement, and analysis to support effective practices at the individual, group, and/or systems levels; 
+J. Legal, Ethical, and Professional Practice. School psychol- ogists have knowledge of the history and foundations of school psy- chology; multiple service models and methods; ethical, legal, and professional standards; and other factors related to professional iden- tity and effective practice as school psychologists. School psycholo- gists demonstrate skills to provide services consistent with ethical, legal, and professional standards; engage in responsive ethical and professional decision-making; collaborate with other professionals; and apply professional work characteristics needed for effective prac- tice as school psychologists, including respect for human diversity and social justice, communication skills, effective interpersonal skills, responsibility, adaptability, initiative, dependability, and tech- nology skills; and 
+K. Information and Technology. Demonstrate an understand- ing of information sources and technology relevant to their work; 
+5. The applicant must achieve a score equal to or in excess of the qualifying score on the required exit assessment(s) as defined in 5 CSR 20-400.310 and 5 CSR 20-400.440. The official score shall be submitted to the department; and 
+6. Field and Clinical Experiences (minimum of one (1) year or one thousand two hundred (1,200) clock hours)— 
+A. Culminating Clinical Experience. This culminating clini- cal experience must be a planned program of experiences and super- vised internship designed to achieve these competencies as part of an approved graduate degree program in school psychology. At least half of the internship must be completed in an educational setting. This internship experience will include opportunities to demonstrate skills learned in all coursework[; and]. 
+[(F) The Initial Student Services Certificate for Speech- Language Pathologist (Birth - Grade 12), valid for a period of four (4) years from the effective date of the certificate, will be issued to those persons meeting the following require- ments: 
+1. Professional Requirements— A. Possession of a master’s or higher degree in 
+Speech-Language Pathology from an accredited college or university; and 
+B. Possession of a valid, unencumbered, undisciplined Missouri license in Speech-Language Pathology from the Missouri Board of Registration for the Healing Arts.] 
+(2) The requirements of this rule shall become effective August 1, 201[7]8. 
+AUTHORITY: [sections 168.011, 168.405, and 168.409, RSMo 2000, and] sections 161.092, 168.011, 168.021, 168.071, 168.081, [and] 168.400, 168.405, and 168.409, RSMo [Supp. 2013] 2016. Original rule filed Oct. 29, 2013, effective May 30, 2014. Amended: Filed Sept. 27, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+
+Page 1584 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the Department of Elementary and Secondary Education, Attention: Dr. Paul Katnik, Assistant Commissioner, Office of Educator Quality, PO Box 480, Jefferson City, MO 65102-0480 or by email to educa- torquality@dese.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 1—Organization and Description 
+PROPOSED RESCISSION 
+10 CSR 30-1.010 General Organization. The purpose of this rule was to comply with section 536.023, RSMo 2016 which required each agency to adopt as a rule a description of its operation and the methods where the public may obtain information or make submis- sions or requests. 
+PURPOSE: 10 CSR 30 Chapter 1 needs to be rescinded as this rule is now incorporated into MDA’s 2 CSR 90 Chapter 1. State land sur- vey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: section 60.510(7), RSMo 1986. Original rule filed June 14, 1976, effective Nov. 15, 1976. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.010 Application of Standards. These minimum stan- dards provided the surveyor and recipient of boundary surveys with a realistic guideline for adequate survey performance. This rule described the types of surveys to which these minimum standards applied. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7) and 60.550, RSMo 1986 and 448.2- 109, RSMo Supp. 1988. Original rule filed Dec. 8, 1975, effective Dec. 18, 1975. For intervening history, please consult the Code of State Regulations. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 10 CSR 30-2.020 Definitions. This rule defined the various techni- 
+cal and legal terms used in this chapter. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7), 60.550 and 448.2-109, RSMo 2000. Original rule filed May 3, 1994, effective Dec. 30, 1994. Amended: Filed March 20, 2003, effective Oct. 30, 2003. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1585 
+
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.030 General Land Surveying Requirements. This rule described standards that applied to all property boundary sur- veys. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7), 60.550 and 448.2-109, RSMo 2000. Original rule filed May 3, 1994, effective Dec. 30, 1994. Amended: Filed March 20, 2003, effective Oct. 30, 2003. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.040 Accuracy Standards for Property Boundary Surveys. This rule prescribed the accuracy standards for all property boundary surveys. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7), 60.550, 448.2-109, RSMo 2000. Original rule filed May 3, 1994, effective Dec. 30, 1994. Amended: Filed March 20, 2003, effective Oct. 30, 2003. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.050 Use of Missouri Coordinate System, 1983. This rule designated how state coordinates should have been obtained and shown on plats. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7) and 60.550, RSMo 1986 and 448.2- 109, RSMo Supp. 1988. Original rule filed May 3, 1994, effective Dec. 30, 1994. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.060 Approved Monumentation. This rule prescribed the approved type of monumentation to be used on property bound- ary surveys. 
+
+Page 1586 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7), 60.550 and 448.2-109, RSMo 2000. Original rule filed May 3, 1994, effective Dec. 30, 1994. Amended: Filed March 20, 2003, effective Oct. 30, 2003. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 10 CSR 30-2.070 Detail Requirements for Resurveys. This rule 
+provided specific detail requirements that applied only to resurveys. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7), 60.550, and 448.2-109, RSMo 2000. Original rule filed May 3, 1994, effective Dec. 30, 1994. Amended: Filed March 20, 2003, effective Oct. 30, 2003. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.080 Detail Requirements for Original Surveys. This rule provided specific detail requirements that applied only to origi- nal surveys. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7), 60.550 and 448.2-109, RSMo 2000. Original rule filed May 3, 1994, effective Dec. 30, 1994. Amended: Filed March 20, 2003, effective Oct. 30, 2003. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.090 Detail Requirements for Subdivision Surveys. This rule provided specific detail requirements that applied to subdi- vision surveys. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7), 60.550 and 448.2-109, RSMo 2000. Original rule filed May 3, 1994, effective Dec. 30, 1994. Amended: Filed March 20, 2003, effective Oct. 30, 2003. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1587 
+
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.100 Detail Requirements for Condominium Surveys. This rule provided specific detail requirements that applied to condominium surveys. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7), 60.550 and 448.2-109, RSMo 2000. Original rule filed May 3, 1994, effective Dec. 30, 1994. Amended: Filed March 20, 2003, effective Oct. 30, 2003. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 10—DEPARTMENT OF NATURAL RESOURCES Division 30—Land Survey Chapter 2—Missouri Minimum Standards for Property Boundary Surveys 
+PROPOSED RESCISSION 
+10 CSR 30-2.110 Location of Improvements and Easements. This rule designated how and what improvements and easements had to be located and shown on a property boundary survey. 
+PURPOSE: This rule needs to be rescinded as it is now incorporated into MDA’s 2 CSR 90 Chapter 60. State land survey authority no longer exists within Department of Natural Resources, but now resides in Department of Agriculture. This change is pursuant to H.B. 28 (2013). 
+AUTHORITY: sections 60.510(7) and 60.550, RSMo 1986 and 448.2- 109, RSMo Supp. 1988. Original rule filed May 3, 1994, effective Dec. 30, 1994. Rescinded: Filed Sept. 20, 2017. 
+PUBLIC COST: This proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, PO Box 630, Jefferson City, MO 65102. Hand carried copies may be delivered to the Missouri Department of Agriculture, Weights, Measures and Consumer Protection Division, Mr. Ronald G. Hayes, Division Director, 1616 Missouri Blvd., Jefferson City, MO 65109. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 13—DEPARTMENT OF SOCIAL SERVICES Division 40—Family Support Division Chapter 2—Income Maintenance 
+PROPOSED AMENDMENT 
+13 CSR 40-2.080 Definitions Relating to Institutions. The depart- ment is amending the purpose, deleting sections (1)–(4), and adding new sections (1)–(3). 
+PURPOSE: The department is amending this regulation by defining the scope of the rule, adding definitions, identifying the specific pro- grams to which the rule applies, clarifying and updating language, and removing sections that are no longer applicable. The amendment adds a new section (1) defining the scope of the amendment, adds section (2), definitions. Section (3) limits applicability of eligibility to patients in a medical institution only. Section (4) limits the applic- ability of eligibility to Blind Pension only. 
+PURPOSE: [This rule defines institutions for the purpose of establishing eligibility for Income Maintenance programs.] This rule defines institutions for the purpose of establishing eligi- bility for Blind Pension pursuant to Chapter 209, RSMo, MO HealthNet pursuant to Chapter 208, RSMo, and Supplemental Payment programs pursuant to section 208.030, RSMo. 
+[(1) For the purpose of the administration of public assis- tance and Blind Pension, a public institution is defined as an institution which provides shelter or care to persons and is managed or controlled, in whole or in part, by or through any public instrumentality, official or employee acting in an offi- cial capacity. This does not include controls a designated public official exerts over all institutions, including private or a similar character. Publicly-owned property under formal lease to a private individual or corporation which vests full control of the property in the lessee will not be considered a public institution nor will the fact that the public authority contracts for and makes payments from public funds to, or 
+
+Page 1588 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+in support of, individuals in these institutions be considered as governmental participation in financial support of the institution or control of the institution. (Original rule filed May 13, 1948, effective May 23, 1948. Amended: Nov. 4, 1954, effective Nov. 14, 1954.) 
+(2) A person living in or planning to enter an institution under private management is eligible for public assistance or Blind Pension, provided s/he meets all eligibility requirements in the same manner as a person not living in an institution. However, s/he will not be eligible if one (1) or more of the following conditions are present: 
+(A) If s/he is entitled to care in the institution because of membership in the group operating the institution (fraternal organization, lodge, union, religious group, and the like); 
+(B) If s/he has made a lump sum payment or has trans- ferred property or other resources in exchange for lifetime care; 
+(C) If the institution is meeting and will continue to meet the essential needs of the applicant or recipient; and 
+(D) If the recipient becomes a patient in a private institu- tion for tuberculosis or mental diseases or in a private med- ical institution as a result of a diagnosis of tuberculosis or psychosis. (Original rule filed May 13, 1948, effective May 23, 1948. Amended: Nov. 4, 1954, effective Nov. 14, 1954.) 
+(3) A patient is an individual who is one or a combination of the following: 
+(A) Admitted to a medical institution because of illness and for whom there is planned, continuing medical treat- ment, including nursing care, directed toward improvement in health or for whom palliative medical measures are required though improvement in health or recovery cannot be expected; 
+(B) Receiving professional medical treatment; or 
+(C) Free to leave at the conclusion of treatment or any other time upon his/her own decision. (Original rule filed Sept. 26, 1951, effective Oct. 6, 1951.) 
+(4) A public medical institution is one which meets the fol- lowing criteria: 
+(A) It is organized to provide medical care, including nurs- ing and convalescent care; has the necessary professional personnel, equipment and facilities to manage the medical and health needs of patients on a continuing basis and is authorized under state law to provide medical services; and 
+(B) It is staffed by professional medical or professional nursing personnel who have clear and definite responsibility to the institution in the provision of medical services to patients. The term staffed by means that the establishment or facility provides for the patients adequate continual med- ical care and supervision by a physician; has sufficient reg- istered nurse or licensed practical nurse supervision and ser- vices and nurse’s aid services to meet nursing care needs and has appropriate guidance by a physician(s) on the tech- nical aspects of operating the establishment or facility. (Original rule filed Sept. 26, 1951, effective Oct. 6, 1951. Amended: July 24, 1953, effective Aug. 4, 1953. Amended: Nov. 20, 1967, effective Nov. 30, 1967.] 
+(1) Definitions— (A) “Public institution” shall be defined according to the def- 
+inition in 42 CFR section 435.1010; (B) “Inmate or resident of a public institution” shall be 
+defined according to the definition of “inmate of a public institu- tion” in 42 CFR section 435.1010. 
+1. This definition includes, but is not limited to, an inmate 
+serving time for a criminal offense, or who is being confined in a local, state, or federal prison, jail, detention facility, or other penal facility, regardless of adjudication status; 
+(C) “Patient” shall be defined according to the definition in 42 CFR section 435.1010; 
+(D) “Medical institution” shall be defined according to the def- inition in 42 CFR section 435.1010; 
+(E) “Maintained” shall mean, for purposes of this regulation, a blind person who is “maintained” in a private institution that provides food and shelter to four (4) or more persons unrelated to the proprietor; and 
+(F) “Private institution” shall mean an “institution,” as defined in 42 CFR section 435.1010, that does not meet the definition of a public institution. 
+(2) Any claimant who is an inmate or resident of a public insti- tution, except as a patient in a medical institution, shall not be eligible for Blind Pension, MO HealthNet, and Supplemental Payment programs. 
+(3) For purposes of Blind Pension only: Blind persons who are maintained in private or endowed institutions shall not be eligible for the Blind Pension cash payment; however, these persons may qualify for Mo HealthNet if they are otherwise eligible for Blind Pension. 
+AUTHORITY: section 207.02[0]2, RSMo [1986] 2016. [Filing dates for original rules are shown in the text of the rule. This version filed March 24, 1976.] Original rule filed May 13, 1948, effective May 23, 1948. Amended: Filed Nov. 4, 1954, effec- tive Nov. 14, 1954; Original rule filed May 13, 1948, effective May 23, 1948. Amended: Filed Nov. 4, 1954, effective Nov. 14, 1954; Original rule filed Sept. 26, 1951, effective Oct. 6, 1951 and orig- inal rule filed Sept. 26, 1951, effective Oct. 6, 1951. Amended: Filed July 24, 1953, effective Oct. 4, 1953. Amended: Filed Nov. 20, 1967, effective Nov. 30, 1967. Combining these four (4) rules filed March 24, 1976. Amended: Filed Sept. 22, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the Department of Social Services, Legal Services Division-Rulemaking, PO Box 1527, Jefferson City, MO 65102-1527, or by email to Rules.Comment@dss.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 13—DEPARTMENT OF SOCIAL SERVICES Division 40—Family Support Division Chapter 34—Homeless, Dependent and Neglected Children 
+PROPOSED RESCISSION 
+13 CSR 40-34.070 Payment to School Districts for Special Education Services for Children in the Custody of the Division of Family Services and Placed in Residential Treatment Facilities. This rule established criteria for payment to school districts which are not the domicile school district for special education services provided to children in residential treatment facilities and in Division of Family Services custody. 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1589 
+
+PURPOSE: This rule is being rescinded as it has been incorporated into the Department of Elementary and Secondary Education’s regu- lations, specifically 5 CSR 20-300.130 under the authority of section 167.126, RSMo. 
+AUTHORITY: sections 162.970 and 207.020, RSMo 1986. This rule was previously filed as 13 CSR 40-34.020. Original rule filed Sept. 6, 1989, effective Dec. 28, 1989. Rescinded: Filed Sept. 22, 2017. 
+PUBLIC COST: The proposed rescission will not cost state agencies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: The proposed rescission will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rescission with the Department of Social Services, Legal Services Division-Rulemaking, PO Box 1527, Jefferson City, MO 65102-1527, or by email to Rules.Comment@dss.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 13—DEPARTMENT OF SOCIAL SERVICES Division 70—MO HealthNet Division Chapter 3—Conditions of Provider Participation, Reimbursement and Procedure of General Applicability 
+PROPOSED AMENDMENT 
+13 CSR 70-3.030 Sanctions for False or Fraudulent Claims for MO HealthNet Services. The division is amending sections (1), (3), and (4). 
+PURPOSE: This amendment updates the incorporated by reference material dates in sections (1), (3), and updates language in section (4). 
+(1) Administration. (A) The MO HealthNet program shall be administered by the 
+Department of Social Services, MO HealthNet Division. The ser- vices covered and not covered, the limitations under which services are covered, and the maximum allowable fees for all covered services shall be determined by the division and shall be included in the MO HealthNet provider manuals, which are incorporated by reference and made a part of this rule as published by the Department of Social Services, MO HealthNet Division, 615 Howerton Court, Jefferson City, MO 65109, at its website dss.mo.gov/mhd, [November 16, 2015] October 1, 2017. This rule does not incorporate any subse- quent amendments or additions. 
+(3) Program Violations. (A) Sanctions may be imposed by the MO HealthNet agency 
+against a provider for any one (1) or more of the following reasons: 1. Presenting, or causing to be presented, for payment any false or fraudulent claim for services or merchandise in the course of busi- 
+ness related to MO HealthNet; 2. Submitting, or causing to be submitted, false information for 
+the purpose of obtaining greater compensation than that to which the provider is entitled under applicable MO HealthNet program policies or rules, including, but not limited to, the billing or coding of ser- vices which results in payments in excess of the fee schedule for the service actually provided or billing or coding of services which results in payments in excess of the provider’s charges to the general public for the same services or billing for higher level of service or increased number of units from those actually ordered or performed 
+or both, or altering or falsifying medical records to obtain or verify a greater payment than authorized by a fee schedule or reimburse- ment plan; 
+3. Submitting, or causing to be submitted, false information for the purpose of meeting prior authorization requirements or for the purpose of obtaining payments in order to avoid the effect of those changes; 
+4. Failing to make available, and disclosing to the MO HealthNet agency or its authorized agents, all records relating to services provid- ed to MO HealthNet participants or records relating to MO HealthNet payments, whether or not the records are commingled with non-Title XIX (Medicaid) records. All records must be kept a minimum of five (5) years from the date of service unless a more specific provider reg- ulation applies. The minimum five- (5-) year retention of records requirement continues to apply in the event of a change of ownership or discontinuing enrollment in MO HealthNet. Services billed to the MO HealthNet agency that are not adequately documented in the patient’s medical records or for which there is no record that services were performed shall be considered a violation of this section. Copies of records must be provided upon request of the MO HealthNet agency or its authorized agents, regardless of the media in which they are kept. Failure to make these records available on a timely basis at the same site at which the services were rendered or at the provider’s address of record with the MO HealthNet agency, or failure to provide copies as requested, or failure to keep and make available adequate records which adequately document the services and payments shall constitute a violation of this section and shall be a reason for sanction. Failure to send records, which have been requested via mail, within the specified time frame shall constitute a violation of this section and shall be a reason for sanction; 
+5. Failing to provide and maintain quality, necessary, and appro- priate services, including adequate staffing for long-term care facility MO HealthNet participants, within accepted medical community stan- dards as adjudged by a body of peers, as set forth in both federal and state statutes or regulations. Failure shall be documented by repeat dis- crepancies. The discrepancies may be determined by a peer review committee, medical review teams, independent professional review teams, utilization review committees, or by Professional Standards Review Organizations (PSRO). The medical review may be conducted by qualified peers employed by the single state agency; 
+6. Engaging in conduct or performing an act deemed improper or abusive of the MO HealthNet program or continuing the conduct following notification that the conduct should cease. This will include inappropriate or improper actions relating to the management of participants’ personal funds or other funds; 
+7. Breaching of the terms of the MO HealthNet provider agree- ment of any current written and published policies and procedures of the MO HealthNet program (Such policies and procedures are con- tained in provider manuals or bulletins which are incorporated by ref- erence and made a part of this rule as published by the Department of Social Services, MO HealthNet Division, 615 Howerton Court, Jefferson City, MO 65109, at its website www.dss.mo.gov/mhd, [November 16, 2015] October 1, 2017. This rule does not incor- porate any subsequent amendments or additions.[)] or fail[ing] to comply with the terms of the provider certification on the MO HealthNet claim form; 
+8. Utilizing or abusing the MO HealthNet program as evidenced by a documented pattern of inducing, furnishing, or otherwise caus- ing a participant to receive services or merchandise not otherwise required or requested by the participant, attending physician, or appropriate utilization review team; a documented pattern of per- forming and billing tests, examinations, patient visits, surgeries, drugs, or merchandise that exceed limits or frequencies determined by the department for like practitioners for which there is no demon- strable need, or for which the provider has created the need through ineffective services or merchandise previously rendered; 
+9. Rebating or accepting a fee or portion of a fee or charge for a MO HealthNet patient referral; or collecting a portion of the service 
+
+Page 1590 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+fee from the participant, except this shall not apply to MO HealthNet services for which participants are responsible for payment of a copayment or coinsurance in accordance with 13 CSR 70-4.050 and 13 CSR 70-4.051; 
+10. Violating any provision of the State Medical Assistance Act or any corresponding rule; 
+11. Submitting a false or fraudulent application for provider sta- tus which misrepresents material facts. This shall include conceal- ment or misrepresentation of material facts required on any provider agreements or questionnaires submitted by affiliates when the provider knew, or should have known, the contents of the submitted documents; 
+12. Violating any laws, regulations, or code of ethics governing the conduct of occupations or professions or regulated industries. In addition to all other laws which would commonly be understood to govern or regulate the conduct of occupations, professions, or regu- lated industries, this provision shall include any violations of the civil or criminal laws of the United States, of Missouri, or any other state or territory, where the violation is reasonably related to the provider’s qualifications, functions, or duties in any licensed or reg- ulated profession or where an element of the violation is fraud, dis- honesty, moral turpitude, or an act of violence; 
+13. Failing to meet standards required by state or federal law for participation (for example, licensure); 
+14. Exclusion from the Medicare program or any other federal health care program; 
+15. Failing to accept MO HealthNet payment as payment in full for covered services or collecting additional payment from a partici- pant or responsible person, except this shall not apply to MO HealthNet services for which participants are responsible for pay- ment of a copayment or coinsurance in accordance with 13 CSR 70- 4.050 and 13 CSR 70-4.051; 
+16. Refusing to execute a new provider agreement when request- ed to do so by the single state agency in order to preserve the single state agency’s compliance with federal and state requirements; or fail- ure to execute an agreement within twenty (20) days for compliance purposes; 
+17. Failing to correct deficiencies in provider operations within ten (10) days or date specified after receiving written notice of these deficiencies from the single state agency or within the time frame provided from any other agency having licensing or certification authority; 
+18. Being formally reprimanded or censured by a board of licen- sure or an association of the provider’s peers for unethical, unlawful, or unprofessional conduct; any termination, removal, suspension, revocation, denial, probation, consented surrender, or other disquali- fication of all or part of any license, permit, certificate, or registration related to the provider’s business or profession in Missouri or any other state or territory of the United States; 
+19. Being suspended or terminated from participation in another governmental medical program such as Workers’ Compensation, Crippled Children’s Services, Rehabilitation Services, Title XX Social Service Block Grant, or Medicare; 
+20. Using fraudulent billing practices arising from billings to third parties for costs of services or merchandise or for negligent practice resulting in death or injury or substandard care to persons including, but not limited to, the provider’s patients; 
+21. Failing to repay or make arrangements for the repayment of identified overpayments or otherwise erroneous payments prior to the allowed forty-five (45) days which the provider has to refund the requested amount; 
+22. Billing the MO HealthNet program more than once for the same service when the billings were not caused by the single state agency or its agents; 
+23. Billing the state MO HealthNet program for services not provided prior to the date of billing (prebilling), except in the case of prepaid health plans or pharmacy claims submitted by point-of-ser- vice technology; whether or not the prebilling causes loss or harm to 
+the MO HealthNet program; 24. Failing to reverse or credit back to the medical assistance 
+program (MO HealthNet) within thirty (30) days any pharmacy claims submitted to the agency that represent products or services not received by the participant; for example, prescriptions that were returned to stock because they were not picked up; 
+25. Conducting any action resulting in a reduction or depletion of a long-term care facility MO HealthNet participant’s personal funds or reserve account, unless specifically authorized in writing by the participant, relative, or responsible person; 
+26. Submitting claims for services not personally rendered by the individually enrolled provider, except for the provisions specified in the MO HealthNet dental, physician, or nurse midwife programs where such claims may be submitted only if the individually enrolled provider directly supervised the person who actually performed the service and the person was employed by the enrolled provider at the time the service was rendered. All claims for psychiatric, psycholog- ical counseling, speech therapy, physical therapy, and occupational therapy services may only be billed by the individually enrolled provider who actually performs the service, as supervision is non- covered for these services. Services performed by a nonenrolled per- son due to MO HealthNet sanction, whether or not the person was under supervision of the enrolled provider, is a noncovered service; 
+27. Making any payment to any person in return for referring an individual to the provider for the delivery of any goods or services for which payment may be made in whole or in part under MO HealthNet. Soliciting or receiving any payment from any person in return for referring an individual to another supplier of goods or ser- vices regardless of whether the supplier is a MO HealthNet provider for the delivery of any goods or services for which payment may be made in whole or in part under MO HealthNet is also prohibited. Payment includes, without limitation, any kickback, bribe, or rebate made, either directly or indirectly, in cash or in-kind; 
+28. Billing for services through an agent, which were upgraded from those actually ordered, performed; or billing or coding ser- vices, either directly or through an agent, in a manner that services are paid for as separate procedures when, in fact, the services were performed concurrently or sequentially and should have been billed or coded as integral components of a total service as prescribed in MO HealthNet policy for payment in a total payment less than the aggregate of the improperly separated services; or billing a higher level of service than is documented in the patient/client record; or unbundling procedure codes; 
+29. Conducting civil or criminal fraud against the MO HealthNet program or any other state Medicaid (medical assistance) program, or any criminal fraud related to the conduct of the provider’s profession or business; 
+30. Having sanctions or any other adverse action invoked by another state Medicaid program; 
+31. Failing to take reasonable measures to review claims for payment for accuracy, duplication, or other errors caused or commit- ted by employees when the failure allows material errors in billing to occur. This includes failure to review remittance advice statements provided which results in payments which do not correspond with the actual services rendered; 
+32. Submitting improper or false claims to the state or its fiscal agent by an agent or employee of the provider; 
+33. For providers other than long-term care facilities, failing to retain in legible form for at least five (5) years from the date of ser- vice, worksheets, financial records, appointment books, appointment calendars (for those providers who schedule patient/client appoint- ments), adequate documentation of the service, and other documents and records verifying data transmitted to a billing intermediary, whether the intermediary is owned by the provider or not. For long- term care providers, failing to retain in legible form, for at least seven (7) years from the date of service, worksheets, financial records, ade- quate documentation for the service(s), and other documents and records verifying data transmitted to a billing intermediary, whether 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1591 
+
+the intermediary is owned by the provider or not. The documentation must be maintained so as to protect it from damage or loss by fire, water, computer failure, theft, or any other cause; 
+34. Removing or coercing from the possession or control of a participant any item of durable medical equipment which has reached MO HealthNet-defined purchase price through MO HealthNet rental payments or otherwise become the property of the participant with- out paying fair market value to the participant; 
+35. Failing to timely submit civil rights compliance data or information or failure to timely take corrective action for civil rights compliance deficiencies within thirty (30) days after notification of these deficiencies or failure to cooperate or supply information required or requested by civil rights compliance officers of the single state agency; 
+36. Billing the MO HealthNet program for services rendered to a participant in a long-term care facility when the resident resided in a portion of the facility which was not MO HealthNet-certified or properly licensed or was placed in a nonlicensed or MO HealthNet- noncertified bed; 
+37. Failure to comply with the provisions of the Missouri Department of Social Services, MO HealthNet Division Title XIX Participation Agreement with the provider relating to health care ser- vices; 
+38. Failure to maintain documentation which is to be made con- temporaneously to the date of service; 
+39. Failure to maintain records for services provided and all billing done under his/her provider number regardless to whom the reimbursement is paid and regardless of whom in his/her employ or service produced or submitted the MO HealthNet claim or both; 
+40. Failure to submit proper diagnosis codes, procedure codes, billing codes regardless to whom the reimbursement is paid and regardless of whom in his/her employ or service produced or submit- ted the MO HealthNet claim; 
+41. Failure to submit and document, as defined in subsection (2)(A) the length of time (begin and end clock time) actually spent providing a service, except for services as specified under 13 CSR 70-91.010(4)(A) Personal Care Program, regardless to whom the reimbursement is paid and regardless of whom in his/her employ or service produced or submitted the MO HealthNet claim or both; 
+42. Billing for the same service as another provider when the service is performed or attended by more than one (1) enrolled provider. MO HealthNet will reimburse only one (1) provider for the exact same service; 
+43. Failing to make an annual attestation of compliance with the provisions of Section 6032 of the federal Deficit Reduction Act of 2005 by March 1 of each year, or failing to provide a requested copy of an attestation, or failing to provide written notification of having more than one (1) federal tax identification number by September 30 of each year, or failing to provide requested proof of a claimed exemption from the provisions of section 6032 of the federal Deficit Reduction Act of 2005; and 
+44. Failing to advise the single state agency, in writing, on enrollment forms specified by the single state agency, of any changes affecting the provider’s enrollment records within ninety (90) days of the change, with the exception of change of ownership or control of any provider which must be reported within thirty (30) days. 
+(4) Any one (1) or more of the following sanctions may be invoked against providers for any one (1) or more of the program violations specified in section (3) of this rule: 
+(N) Denial of payment for any new admission to a skilled nursing facility (SNF), intermediate care facility (ICF), or ICF/[mentally retarded (MR)] individuals with intellectual disabilities (IID) that no longer meets the applicable conditions of participation (for SNFs) or standards (for ICFs and ICF/[MRs]IIDs) if the facility’s deficien- cies do not pose immediate jeopardy to patients’ health and safety. Imposition of this sanction must be in accordance with all applicable federal statutes and regulations. 
+AUTHORITY: sections 208.153, 208.201, and 660.017, RSMo 2016. This rule was previously filed as 13 CSR 40-81.160. Original rule filed Sept. 22, 1979, effective Feb. 11, 1980. For intervening history, please consult the Code of State Regulations. Amended: Filed Sept. 22, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the Department of Social Services, Legal Services Division-Rulemaking, PO Box 1527, Jefferson City, MO 65102-1527, or by email to Rules.Comment@dss.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 16—RETIREMENT SYSTEMS Division 50—The County Employees’ Retirement Fund Chapter 2—Membership and Benefits 
+PROPOSED AMENDMENT 16 CSR 50-2.010 Definitions. The board is amending subsection 
+(1)(C). 
+PURPOSE: This amendment revises the definition of actuarial equiv- alence for the plan. 
+(1) When used in these regulations or in sections 50.1000 to 50.1300, RSMo, the words and phrases defined hereinafter shall have the fol- lowing meanings unless a different meaning is clearly required by the context of the plan: 
+(C) Actuarial equivalence means equality in value of the aggregate amounts expected to be received under different forms of payment. Such equality in value shall be based on assumptions as to the occur- rence of future events. The future events to be taken into account are mortality for participants, mortality for a beneficiary, and an interest discount for the time value of money. [For this plan, the actuarial assumptions are as follows:] Actuarial assumptions shall be specified in writing by the board or its designee, which, for the avoidance of doubt may include an actuary, and such writing shall be considered a part of the plan or an amendment thereto. 
+[1. Mortality: the 1983 Group Annuity Mortality Table, weighted sixty-six and two-thirds percent (66 2/3%) male and thirty-three and one-third percent (33 1/3%) female; 
+2. Interest discount assumption: eight percent (8%), com- pounded annually;] 
+AUTHORITY: section 50.1032, RSMo [2000] 2016. Original rule filed Oct. 11, 1995, effective May 30, 1996. For intervening history, please consult the Code of State Regulations. Amended: Filed Sept. 28, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the 
+
+Page 1592 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+County Employees’ Retirement Fund, 2121 Schotthill Woods Drive, Jefferson City, MO 65101. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 16—RETIREMENT SYSTEMS Division 50—The County Employees’ Retirement Fund Chapter 2—Membership and Benefits 
+PROPOSED AMENDMENT 16 CSR 50-2.030 Eligibility and Participation. The board is amend- 
+ing subsection (4)(C). 
+PURPOSE: This amendment revises the crediting of hours of service under the plan. 
+(4) A participant shall be credited with hours of service for a calen- dar year in accordance with the following rules: 
+(C) [No hours will be credited for unpaid sick leave] For purposes other than vesting, hours will be credited for unpaid absences for sickness and injury of up to twelve (12) months. For this purpose, a participant will be deemed to be absent for sick- ness and injury only to the extent certified by the county clerk, on a form provided by the board or its designee, to be on an approved leave of absence for medical reasons under the written policies of an employer; and 
+AUTHORITY: section 50.1032, RSMo [2000] 2016. Original rule filed Oct. 11, 1995, effective May 30, 1996. For intervening history, please consult the Code of State Regulations. Amended: Filed Sept. 28, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the County Employees’ Retirement Fund, 2121 Schotthill Woods Drive, Jefferson City, MO 65101. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2263—State Committee for Social Workers Chapter 2—Licensure Requirements 
+PROPOSED AMENDMENT 
+20 CSR 2263-2.050 Application for Licensure as a Social Worker. The committee is amending section (4), deleting section (5), renum- bering old section (6), and adding new section (6). 
+PURPOSE: This amendment establishes a one- (1-) year time period to complete the licensure process. Section (5) is deleted as those requirements are covered in 20 CSR 2263-2.085. 
+(4) The following documents shall be on file for an application to be considered complete and officially filed: 
+(D) Verification of a passing score, as determined by the commit- tee, on the examination administered by the Association of Social Work Boards (ASWB). Verification of score(s) shall be sent directly to the committee office by the ASWB. The required examinations are— 
+1. Licensed baccalaureate social worker—bachelors examina- 
+tion; 2. Licensed baccalaureate social worker independent practice— 
+bachelors examination; 3. Licensed master social worker—masters examination. 
+A. A clinical examination taken by a person who has regis- tered supervision before April 30, 2010, and has not been issued a provisional licensed clinical social worker license is acceptable; 
+4. Licensed advanced macro social worker—advanced generalist examination. 
+A. An examination taken before the completion of at least two thousand two hundred fifty (2,250) hours and eighteen (18) months of the supervised work experience is not acceptable; and 
+5. Licensed clinical social worker—clinical examination. A. An examination taken before the completion of at least two thousand two hundred fifty (2,250) hours and eighteen (18) 
+months of the supervised work experience is not acceptable; and 
+[(5) A person who has previously held a license as a social worker, whose license had either expired or been revoked, shall submit evidence of competency. Evidence of compe- tency in this case shall be the same as the evidence required of an inactive licensee who desires to return to active status as stated in 20 CSR 2263-2.090.] 
+[(6)](5) Following the committee’s review process, the applicant will be informed by letter of licensure denial. The denial letter will iden- tify the reasons for denial and the appeal process. 
+(6) Any applicant for licensure shall complete and officially file the application for licensure within an application window of one (1) year from the date the application form is initially submitted to the committee. 
+(A) If an applicant fails to submit all requirements needed for approval to take the exam within the one- (1-) year period, then the application will be voided. 
+(B) Upon completion of the application for licensure, the com- mittee will either approve or disapprove the applicant to sit for the applicable examination. 
+AUTHORITY: sections 337.600, 337.612, 337.615, 337.627, and 337.630, RSMo [Supp. 2010] 2016. This rule originally filed as 4 CSR 263-2.050. Original rule filed Sept. 18, 1990, effective Feb. 14, 1991. For intervening history, please consult the Code of State Regulations. Amended: Filed Sept. 27, 2017. 
+PUBLIC COST: This proposed amendment will cost state agencies or political subdivisions approximately thirteen dollars and sixty-two cents ($13.62) to fourteen dollars ($14.00) annually for the life of the rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate pro- jected by the Legislative Oversight Committee. 
+PRIVATE COST: This proposed amendment will cost private entities seventy-two dollars and ninety-five cents ($72.95) to one hundred two dollars and ninety-five cents ($102.95) annually for the life of the rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate pro- jected by the Legislative Oversight Committee. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the State Committee for Social Workers, Tom Reichard, Executive Director, 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1593 
+
+PO Box 1335, Jefferson City, MO 65102, by fax at (573) 526-3489, or via email at lcsw@pr.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Page 1594 Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+
+ 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1595 
+  
+
+Page 1596 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2263—State Committee for Social Workers Chapter 2—Licensure Requirements 
+PROPOSED RULE 20 CSR 2263-2.051 Reexamination 
+PURPOSE: This rule establishes an end date for initial applications for license. 
+(1) Any applicant must pass the required examination within two (2) calendar years from the date the applicant was approved to take the examination. Failure to complete the examination within this time frame will result in the expiration of the application. Any applicant whose application has expired may choose to reapply for licensure and for approval to sit for the examination. 
+AUTHORITY: sections 337.600, 337.612, 337.615, 337.627, and 337.630, RSMo 2016. Original rule filed Sept. 27, 2017. 
+PUBLIC COST: This proposed rule will cost state agencies or polit- ical subdivisions approximately thirteen dollars and sixty-two cents ($13.62) to fourteen dollars ($14.00) annually for the life of the rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate projected by the Legislative Oversight Committee. 
+PRIVATE COST: This proposed rule will cost private entities seven- ty-two dollars and ninety-five cents ($72.95) to one hundred two dol- lars and ninety-five cents ($102.95) annually for the life of the rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate projected by the Legislative Oversight Committee. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed rule with the State Committee for Social Workers, Tom Reichard, Executive Director, PO Box 1335, Jefferson City, MO 65102, by fax at (573) 526-3489, or via email at lcsw@pr.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1597 
+  
+Page 1598 Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+
+ 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1599 
+
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2263—State Committee for Social Workers Chapter 2—Licensure Requirements 
+PROPOSED AMENDMENT 20 CSR 2263-2.060 Licensure by Reciprocity. The board is amend- 
+ing subsection (1)(C) and section (2) and adding new section (3). 
+PURPOSE: This amendment changes the requirements for licensure by reciprocity. 
+(1) The committee may issue a license by reciprocity to individuals who meet the licensure requirements as set forth in the rules promul- gated by the committee and provide the following: 
+(C) Verification form provided by the committee to be completed by the regulatory entity verifying that the individual holds a valid, unexpired license as a social worker in that state, territory, province, or country whose licensing or certification requirements at the time the application is submitted to the committee are substantially similar to those in Missouri and verification that the individual has engaged in the active practice of social work for at least three (3) of the past five (5) years. The applicant has the burden of providing the information necessary for determination of this issue. 
+1. The applicant for licensure by reciprocity shall furnish to the committee true and accurate copies of the licensure law from the state in which he/she is licensed and/or certified; 
+(2) [Following the committee’s review process,] If the com- mittee determines that the applicant fails to meet the require- ments for licensure by reciprocity, the applicant for licensure by reciprocity shall be informed by letter that licensure by reciprocity has been denied. The denial letter shall identify the reasons for denial and shall inform the applicant of the appeal process. 
+(3) Any applicant for licensure shall complete and officially file the application for licensure within an application window of one (1) year from the date the application is initially submitted to the committee. If an applicant fails to complete all requirements for licensure within the one- (1-) year period, then the application shall be deemed void. If the applicant wishes to pursue licensure after the expiration of the application window, the applicant must begin the application process again by submitting a new applica- tion and all applicable fees and comply with all other require- ments as set forth in this rule for a complete and officially filed application. The applicant may make a written request to the committee to transfer to the new application file the previously submitted transcripts, any still valid test scores, and any other information submitted as part of the application process that is still current and valid. The committee has discretion to deter- mine what portions of the application documents will transfer to the new application and which will not; however, the committee shall not approve the transfer of the results of any background check or fingerprinting requirement to the new application nor shall the committee waive any requirement for payment of any applicable fees for the new application. 
+AUTHORITY: sections 337.600, 337.612, 337.615, 337.627, and 337.630, RSMo [Supp. 2009] 2016. This rule originally filed as 4 CSR 263-2.060. Original rule filed Sept. 18, 1990, effective Feb. 14, 1991. For intervening history, please consult the Code of State Regulations. Amended: Filed Sept. 27, 2017. 
+PUBLIC COST: This proposed amendment will cost state agencies or political subdivisions approximately thirteen dollars and sixty-two cents ($13.62) to fourteen dollars ($14.00) annually for the life of the 
+rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate pro- jected by the Legislative Oversight Committee. 
+PRIVATE COST: This proposed amendment will cost private entities one hundred twelve dollars and ninety-five cents ($112.95) annually for the life of the rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate projected by the Legislative Oversight Committee. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the State Committee for Social Workers, Tom Reichard, Executive Director, PO Box 1335, Jefferson City, MO 65102, by fax at (573) 526-3489, or via email at lcsw@pr.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Page 1600 Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+
+ 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1601 
+  
+
+Page 1602 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2263—State Committee for Social Workers Chapter 2—Licensure Requirements 
+PROPOSED AMENDMENT 20 CSR 2263-2.082 Continuing Education. The board is amending 
+sections (6), (7), and (11). 
+PURPOSE: This amendment changes continuing education credit and record retention requirements. 
+(6) The required continuing education hours may be satisfied through any combination of the following activities: 
+(I) Attending workshops or seminars, including live interactive webinars, approved by or sponsored by the following: 
+1. National Association of Social Workers (NASW); 
+2. Social service agency and/or organizational staff develop- ment unit (i.e., hospitals, nursing homes, residential treatment facil- ity, etc.); 
+3. Professional associations in the human services including, but not limited to the— 
+A. American Psychological Association (APA); B. Missouri Psychological Association (MOPA); C. American Association for Marriage and Family Therapy 
+(AAMFT); D. Missouri Association for Marriage and Family Therapy 
+(MAMFT); E. American Counseling Association of Missouri (ACAM); F. American Counselors Association (ACA); G. American Mental Health Counseling Association 
+(AMHCA); H. Missouri Mental Health Counseling Association 
+(MMHCA); and I. Missouri Society for Clinical Social Workers (MSCSW); 
+4. Association of Social Work Boards (ASWB) or its succes- sor—Approved Continuing Education (ACE); 
+5. Accredited college or university; or 
+6. Continuing education hours used to satisfy the continuing education requirements of another state may be submitted to fulfill the requirements of this state if the other state’s continuing education requirements are substantially equal to or greater than the require- ments of this state. 
+(7) [Continuing] Up to ten (10) continuing education hours [can- not] may be carried over into [another or] the next reporting period [and]. Continuing education hours shall not be awarded for regular work activities, administrative staff meetings, case staffing or report- ing, membership in or holding office in, or participation on boards or committees, business meetings of professional organizations, or training specifically related to policies and procedures of an agency. 
+(11) A licensee shall be responsible for maintaining records of con- tinuing education activities. Each licensee shall retain documentation of the continuing education verified on the renewal form for [two (2)] four (4) years following license renewal. The committee may conduct audits of licensees to verify compliance with the continuing education requirements. 
+AUTHORITY: section 337.627, RSMo [Supp. 2009] 2016. This rule originally filed as 4 CSR 263-2.082. Original rule filed June 25, 2004, effective Dec. 30, 2004. For intervening history, please consult the Code of State Regulations. Amended: Filed Sept. 27, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) 
+in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the State Committee for Social Workers, Tom Reichard, Executive Director, PO Box 1335, Jefferson City, MO 65102, by fax at (573) 526-3489 or via email at lcsw@pr.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2263—State Committee for Social Workers Chapter 2—Licensure Requirements 
+PROPOSED AMENDMENT 20 CSR 2263-2.085 Restoration of License. The board is amending 
+sections (1), (2), and (3) and adding new section (4). 
+PURPOSE: This amendment clarifies the process to restore a license. 
+(1) A license that has been expired [may be renewed within] for sixty (60) days [of the expiration date] or less shall be restored by submitting[:]— 
+(A) [Submitting a]A completed renewal form; 
+(2) A license that has been expired more than sixty (60) days but less than two (2) years [may] must be [renewed] restored by submit- ting[:]— 
+(A) [Submitting a]A completed renewal form; (C) The renewal fee[,]; (D) [t]The restoration fee; and [(D)](E) Proof of completion of continuing education hours in the 
+current renewal cycle [in accordance with] using the following formula: Number of months not renewed divided by twenty-four (24), multiplied by thirty (30), and then rounded to the nearest whole number. Total rounded up or down to the nearest whole number: four (4) or less round down; five (5) or more round up. Example: license which has been expired for seven (7) months: 7 ÷ 24 = .29 × 30 = 8.7, rounded up to 9. Nine (9) hours of CE required to renew. 
+[1. 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1603 
+
+  
+CEs REQUIRED TO RENEW* 
+   
+MONTHS NOT RENEWED 
+CE HOURS NEEDED 
+  
+1 
+ 
+[2.]1. Proof of the completion of the continuing education hours during the lapse period must be submitted with the application for renewal and the required fees. These hours are in addition to the thir- ty (30) hours required for renewal of the license. 
+[3.]2. The number of continuing education hours completed above the number required in the current renewal cycle can be cred- ited toward the total hours required for the next renewal cycle. 
+(3) A license that has been expired for two (2) years or more [may be renewed] must be restored by submitting [the following:]— 
+(A) A completed application for licensure, noting the previous license[;], a request for restoration of license, and one (1) of the following: 
+1. Proof of current qualification for licensure and proof of completion of at least thirty (30) hours of continuing education completed within the two (2) years immediately preceding the application; 
+2. Proof of eligibility for licensure by reciprocity as if the applicant was applying for a new license; or 
+3. Proof of successful completion of any examination required for licensure that has been completed within two (2) years of the date of the request for the restoration of license; and 
+[(B) Proof of current qualification for licensure that is not already in the committee’s files (i.e., proof of graduation from an accredited program, completion of examinations, or completion of supervised experience); 
+(C) Proof of completion of no less than thirty (30) hours of continuing education completed within the two (2) years immediately preceding the application, and the prorate hours for the current period calculated as under subsection (2)(A); and] 
+[(D)](B) The restoration fee. 
+(4) To restore a license that has been previously revoked, the applicant must submit the following: 
+(A) An application for licensure requesting reinstatement that contains a statement of the applicant’s competency for licensure and rehabilitation from the conduct that was the cause of revoca- tion; 
+(B) Proof of current qualification for licensure and proof of completion of at least thirty (30) hours of continuing education completed within two (2) years immediately preceding the appli- cation, or proof of eligibility for licensure by reciprocity as if the applicant was applying for a new license; 
+(C) Proof of successful completion of any examination required for licensure that has been completed within two (2) years of the date of the request for restoration of license; and 
+(D) The restoration fee. 
+AUTHORITY: sections 337.600, 337.612, 337.618, 337.627, 337.630, and 337.662, RSMo [Supp. 2009] 2016. This rule origi- nally filed as 4 CSR 263-2.085. Original rule filed Dec. 30, 1998, effective July 30, 1999. For intervening history, please consult the Code of State Regulations. Amended: Filed Sept. 27, 2017. 
+PUBLIC COST: This proposed amendment will cost state agencies or political subdivisions approximately thirteen dollars and sixty-two cents ($13.62) to fourteen dollars ($14.00) annually for the life of the rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate pro- jected by the Legislative Oversight Committee. 
+PRIVATE COST: This proposed amendment will cost private entities approximately one hundred sixty-nine dollars and ninety-five cents ($169.95) annually for the life of the rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate projected by the Legislative Oversight Committee. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the State Committee for Social Workers, Tom Reichard, Executive Director, PO Box 1335, Jefferson City, MO 65102, by fax at (573) 526-3489, or via email at lcsw@pr.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+1 
+  
+2 
+3 
+  
+3 
+4 
+  
+4 
+5 
+ 
+5 
+6 
+  
+6 
+8 
+  
+7 
+9 
+  
+8 
+10 
+  
+9 
+11 
+  
+10 
+13 
+  
+11 
+14 
+ 
+12 
+15 
+  
+13 
+16 
+  
+14 
+18 
+  
+15 
+19 
+  
+16 
+20 
+  
+17 
+21 
+  
+18 
+23 
+  
+19 
+24 
+  
+20 
+25 
+  
+21 
+26 
+  
+22 
+28 
+  
+23 
+29 
+  
+24 
+30 
+  
+*This chart pertains to licensees who failed to renew only. 
+  
+Formula: Number of months not renewed divided by twenty-four (24) multiplied by thirty (30) and then rounded to the nearest whole number. Total rounded up or down to the nearest whole number: four (4) or less round down; five (5) or more round up. Example: license which has been expired for seven (7) months. 7/24 = .29 * 30 = 8.7, rounded up to 9. Nine (9) hours of CE required to renew.] 
+ 
+                        
+Page 1604 Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+
+ 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1605 
+  
+
+Page 1606 
+Proposed Rules 
+November 1, 2017 Vol. 42, No. 21 
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2263—State Committee for Social Workers Chapter 3—Ethical Standards/Disciplinary Rules 
+PROPOSED AMENDMENT 20 CSR 2263-3.040 Client Relationships. The board is amending 
+section (11). 
+PURPOSE: This amendment removes the requirement for a supervi- sor to co-sign all clinical records of an applicant. 
+(11) A member of the profession rendering services to a client shall maintain professional records that include: 
+(F) A copy of a written communication with the client identifying the date and reason for termination of professional service if the licensed social worker is in private practice[; and]. 
+[(G) The clinical records of a member of the profession who is under supervision shall be co-signed by the supervi- sor.] 
+AUTHORITY: sections 337.600, 337.615, 337.627, and 337.630, RSMo [Supp. 2009] 2016. This rule originally filed as 4 CSR 263- 3.040. Original rule filed Sept. 18, 1990, effective Feb. 14, 1991. For intervening history, please consult the Code of State Regulations. Amended: Filed Sept. 27, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the State Committee for Social Workers, Tom Reichard, Executive Director, PO Box 1335, Jefferson City, MO 65102, by fax at (573) 526-3489 or via email at lcsw@pr.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+November 1, 2017 Orders of Rulemaking MISSOURI Vol. 42, No. 21 REGISTER 
+
+This section will contain the final text of the rules proposed by agencies. The order of rulemaking is required to con- tain a citation to the legal authority upon which the order of rulemaking is based; reference to the date and page or pages where the notice of proposed rulemaking was published in the Missouri Register; an explanation of any change between the text of the rule as contained in the notice of proposed rule- making and the text of the rule as finally adopted, together with the reason for any such change; and the full text of any section or subsection of the rule as adopted which has been changed from that contained in the notice of proposed rule- making. The effective date of the rule shall be not less than thirty (30) days after the date of publication of the revision to the Code of State Regulations. 
+The agency is also required to make a brief summary of the general nature and extent of comments submitted in support of or opposition to the proposed rule and a concise summary of the testimony presented at the hearing, if any, held in connection with the rulemaking, together with a con- cise summary of the agency’s findings with respect to the merits of any such testimony or comments which are opposed in whole or in part to the proposed rule. The ninety- (90-) day period during which an agency shall file its Order of Rulemaking for publication in the Missouri Register begins either: 1) after the hearing on the Proposed Rulemaking is held; or 2) at the end of the time for submission of comments to the agency. During this period, the agency shall file with the secretary of state the order of rulemaking, either putting the proposed rule into effect, with or without further changes, or withdrawing the proposed rule. 
+Title 2—DEPARTMENT OF AGRICULTURE Division 100—Missouri Agricultural and Small Business Development Authority Chapter 12—Meat Processing Facility Investment Tax Credit Program 
+ORDER OF RULEMAKING 
+By the authority vested in the Missouri Agricultural and Small Business Development Authority under section 348.075, RSMo 2016, the Authority adopts a rule as follows: 
+2 CSR 100-12.010 Description of Operation, Definitions, Method of Distribution, and Repayment of Tax Credits is adopted. 
+A notice of proposed rulemaking containing the text of the proposed rule was published in the Missouri Register on July 17, 2017 (42 MoReg 1027–1030). No changes have been made in the text of the proposed rule, so it is not reprinted here. This proposed rule becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: No comments were received. 
+Title 11—DEPARTMENT OF PUBLIC SAFETY Division 75—Peace Officer Standards and Training Program Chapter 15—Continuing Education 
+ORDER OF RULEMAKING 
+By the authority vested in the Department of Public Safety under sec- 
+tions 590.030.5(1), 590.050, and 590.190, RSMo 2016, the director amends a rule as follows: 
+11 CSR 75-15.020 Minimum Standards for Continuing Education Training is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on July 17, 2017 (42 MoReg 1031). No changes have been made in the text of the pro- posed amendment, so it is not reprinted here. This proposed amend- ment becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: No comments were received. 
+Title 15—ELECTED OFFICIALS Division 40—State Auditor Chapter 3—Rules Applying to Political Subdivisions 
+ORDER OF RULEMAKING 
+By the authority vested in the Missouri State Auditor’s Office under sections 29.100, 479.359, and 479.362, RSMo 2016, the auditor amends a rule as follows: 
+15 CSR 40-3.170 is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on July 17, 2017 (42 MoReg 1031–1034). Those sections with changes are reprinted here. This proposed amendment becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: A public hearing on this proposed amendment was held August 22, 2017, and the public comment peri- od ended on August 24, 2017. At the public hearing, the State Auditor’s Office staff explained the proposed amendment and no comments were received at the hearing. The State Auditor’s Office staff submitted a comment. The State Auditor’s Office received one (1) comment. 
+COMMENT: The staff of the State Auditor’s Office made a com- ment regarding the proposed changes to the addendum form to be filed by counties, cities, towns, or villages as part of their annual financial report. This comment related to simplifying the addendum form, specifically to 1) change the e-mail address to localgovern- ment@auditor.mo.gov; 2) remove the question referred to as A and then remove the B and C in front of the other questions; 3) add the month to the notary signature line; and 4) move the notice in the box at the bottom to instructions at the top of the page. 
+RESPONSE AND EXPLANATION OF CHANGE: The forms will be amended to reflect these changes and the revision number will be changed from Rev 6-2017 to Rev 12-2017. 
+COMMENT: Edward J. Sluys, with Curtis, Heinz, Garrett & O’Keefe, represents a number of municipalities. Mr. Sluys stated that these municipalities provide municipal court services for other com- munities by contract or contract with other municipalities for such services. His clients expressed concern that example D does not accurately reflect what occurs when municipalities contract with each other to provide municipal court services. When one city contracts with another to provide municipal court services that city retains a “municipal division” and does not cease to exist. The comment sug- gesting clarifying the example. 
+RESPONSE AND EXPLANATION OF CHANGE: Missouri State 1607 
+
+Page 1608 
+November 1, 2017 Vol. 42, No. 21 
+
+Orders of Rulemaking 
+
+Auditor’s Office concurs that clarification is necessary. Subsection (8)(D) will be amended and subsection (8)(E) shall be added for clar- ity. 
+15 CSR 40-3.170 Addendum Filed with the Auditor’s Office 
+(8) Examples. (D) All ordinance violations for a city are adjudicated in the asso- 
+ciate circuit division and not by a municipal division operated by that city. Because the city does not operate its own municipal court divi- sion, it does not need to file an addendum with its financial report filed under the procedures in 15 CSR 40-3.030. 
+(E) All ordinance violations for a City A are adjudicated in a municipal division located in City B under an agreement between the two cities. Because City A operates a municipal division through this agreement, City A must file an addendum with its financial report filed under the procedures in 15 CSR 40-3.030. 
+
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1609 
+   
+Page 1610 
+November 1, 2017 Vol. 42, No. 21 
+Orders of Rulemaking 
+ 
+ 
+November 1, 2017 Vol. 42, No. 21 
+ 
+Missouri Register 
+Page 1611 
+
+Title 15—ELECTED OFFICIALS Division 60—Attorney General Chapter 10—Reporting of Motor Vehicle Stops by Law Enforcement Agencies 
+ORDER OF RULEMAKING 
+By the authority vested in the Attorney General under section 590.650, RSMo 2016, the Attorney General amends a rule as follows: 
+15 CSR 60-10.030 Reporting Forms is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on July 3, 2017 (42 MoReg 974–976). No changes have been made in the text of the proposed amendment, so it is not reprinted here. This proposed amendment becomes effective January 1, 2018. 
+SUMMARY OF COMMENTS: The Attorney General did not receive any comments on the proposed amendment. 
+MISSOURI In Additions November 1, 2017 REGISTER Vol. 42, No. 21 
+
+This section may contain notice of hearings, correction notices, public information notices, rule action notices, statements of actual costs, and other items required to be pub- lished in the Missouri Register by law. 
+Title 19—DEPARTMENT OF HEALTH AND SENIOR SERVICES Division 60—Missouri Health Facilities Review Committee Chapter 50—Certificate of Need Program 
+NOTIFICATION OF REVIEW: APPLICATION REVIEW SCHEDULE 
+The Missouri Health Facilities Review Committee has initiated review of the CON applications listed below. A decision is tentatively sched- uled for November 21, 2017. These applications are available for pub- lic inspection at the address shown below. 
+Date Filed Project Number: Project Name City (County) Cost, Description 
+10/5/2017 #5516 NT: St. Andrew’s at Francis Place Eureka (St. Louis County) $3,000,000, Renovate/Modernize 120-bed SNF 
+10/10/2017 #5517 HT: Saint Francis Medical Center Cape Girardeau (Cape Girardeau County) $1,308,000, Replace Robotic Surgery System 
+Any person wishing to request a public hearing for the purpose of commenting on these applications must submit a written request to this effect, which must be received by November 10, 2017. All writ- ten requests and comments should be sent to— 
+Chairman Missouri Health Facilities Review Committee c/o Certificate of Need Program 3418 Knipp Drive, Suite F PO Box 570 Jefferson City, MO 65102 For additional information contact Karla Houchins at (573) 751-6700. 
+  
+1612 

@@ -1,0 +1,1872 @@
+Volume 42, Number 7 Pages 377–422 
+April 3, 2017 
+SALUS POPULI SUPREMA LEX ESTO “The welfare of the people shall be the supreme law.” 
+John R. Ashcroft Secretary of State 
+MISSOURI REGISTER 
+ 
+The Missouri Register is an official publication of the state of Missouri, under the authority granted to the secretary of state by sections 536.015 and 536.033, RSMo 2016. Reproduction of rules is allowed; however, no reproduction shall bear the name Missouri Register or “official” without the express per- mission of the secretary of state. 
+The Missouri Register is published semi-monthly by SECRETARY OF STATE 
+John R. Ashcroft 
+Administrative Rules Division James C. Kirkpatrick State Information Center 
+600 W. Main Jefferson City, MO 65101 (573) 751-4015 
+MANAGING EDITOR CURTIS W. TREAT 
+· EDITOR 
+AMANDA MCKAY 
+· ASSOCIATE EDITOR 
+VONNE KILBOURN 
+· ASSISTANT EDITOR 
+MARTY SPANN 
+· PUBLICATION TECHNICIAN 
+JACQUELINE D. WHITE 
+· ADMINISTRATIVE ASSISTANT 
+ALISHA DUDENHOEFFER 
+ISSN 0149-2942, USPS 320-630; periodical postage paid at Jefferson City, MO Subscription fee: $56.00 per year 
+POSTMASTER: Send change of address notices and undelivered copies to: 
+MISSOURI REGISTER Office of the Secretary of State Administrative Rules Division PO Box 1767 Jefferson City, MO 65102 
+The Missouri Register and Code of State Regulations (CSR) are now available on the Internet. The Register address is http://www.sos.mo.gov/adrules/moreg/moreg.asp and the CSR is http://www.sos.mo.gov/adrules/csr/csr.asp. These websites contain rulemakings and regulations as they appear in the Registers and CSR. These websites do not contain the official copies of the Registers and CSR. The official copies remain the paper copies published by the Office of the Secretary of State pursuant to sections 536.015 and 536.031, RSMo 2016. While every attempt has been made to ensure accuracy and reliability, the Registers and CSR are presented, to the greatest extent practicable as they appear in the official publications. The Administrative Rules Division may be contacted by email at rules@sos.mo.gov. 
+The secretary of state’s office makes every effort to provide program accessibility to all citizens without regard to disability. If you desire this publication in alternate form because of a disability, please contact the Division of Administrative Rules, PO Box 1767, Jefferson City, MO 65102, (573) 751-4015. Hearing impaired citizens should contact the director through Missouri relay, (800) 735-2966. 
+  
+
+MISSOURI REGISTER 
+April 3, 2017 
+IN THIS ISSUE: 
+Vol. 42 No. 7 Pages 377–422 
+PROPOSED RULES 
+Department of Conservation 
+Conservation Commission 
+. . . . . . . . . . . . . . . . . . . . . .381 
+SOURCE GUIDES 
+RULE CHANGES SINCE UPDATE . . . . . . . . . . . . . . . .406 EMERGENCY RULES IN EFFECT . . . . . . . . . . . . . . . .413 EXECUTIVE ORDERS . . . . . . . . . . . . . . . . . . . . . . . . .414 
+ORDERS OF RULEMAKING 
+Department of Conservation 
+Conservation Commission . . . . . . . . . . . . . . . . . 
+Department of Elementary and Secondary Education 
+Division of Learning Services . . . . . . . . . . . . . . 
+Department of Social Services 
+Family Support Division . . . . . . . . . . . . . . . . . . 
+Department of Health and Senior Services 
+Division of Regulation and Licensure . . . . . . . . . . 
+Department of Insurance, Financial Institutions and Professional Registration 
+Life, Annuities and Health . . . . . . . . . . . . . . . . . 
+IN ADDITIONS 
+Department of Transportation 
+Missouri Highways and Transportation Commission 
+Department of Health and Senior Services 
+Missouri Health Facilities Review Committee . . . . . DISSOLUTIONS . . . . . . . . . . . . . . . . . . . . 
+REGISTER INDEX 
+. . . . . . . . . . . . . . . . . . . . . . . . . . .415 
+. . . . .392 . . . . .393 . . . . .393 . . . . .394 
+. . . . .398 
+. . . . .400 . . . . .401 . . . . .403 
+ 
+Register Filing Deadlines 
+December 1, 2016 December 15, 2016 
+January 3, 2017 January 17, 2017 
+February 1, 2017 February 15, 2017 
+March 1, 2017 March 15, 2017 
+April 3, 2017 April 17, 2017 
+May 1, 2017 May 15, 2017 
+June 1, 2017 June 15, 2017 
+July 3, 2017 July 17, 2017 
+August 1, 2017 August 15, 2017 
+Register Publication Date 
+January 3, 2017 January 17, 2017 
+February 1, 2017 February 15, 2017 
+March 1, 2017 March 15, 2017 
+April 3, 2017 April 17, 2017 
+May 1, 2017 May 15, 2017 
+June 1, 2017 June 15, 2017 
+July 3, 2017 July 17, 2017 
+August 1, 2017 August 15, 2017 
+September 1, 2017 September 15, 2017 
+Code Publication Date 
+January 29, 2017 January 29, 2017 
+February 28, 2017 February 28, 2017 
+March 31, 2017 March 31, 2017 
+April 30, 2017 April 30, 2017 
+May 31, 2017 May 31, 2017 
+June 30, 2017 June 30, 2017 
+July 31, 2017 July 31, 2017 
+August 31, 2017 August 31, 2017 
+September 30, 2017 September 30, 2017 
+Code Effective Date 
+February 28, 2017 February 28, 2017 
+March 30, 2017 March 30, 2017 
+April 30, 2017 April 30, 2017 
+May 30, 2017 May 30, 2017 
+June 30, 2017 June 30, 2017 
+July 30, 2017 July 30, 2017 
+August 30, 2017 August 30, 2017 
+September 30, 2017 September 30, 2017 
+October 30, 2017 October 30, 2017 
+Documents will be accepted for filing on all regular workdays from 8:00 a.m. until 5:00 p.m. We encourage early filings to facilitate the timely publication of the Missouri Register. Orders of Rulemaking appearing in the Missouri Register will be published in the Code of State Regulations and become effective as listed in the chart above. Advance notice of large volume filings will facilitate their timely publication. We reserve the right to change the schedule due to special circumstances. Please check the latest publication to verify that no changes have been made in this schedule. To review the entire year’s schedule, please check out the website at http://www.sos.mo.gov/adrules/pubsched.asp 
+ 
+Missouri Participating Libraries 
+The Missouri Register and the Code of State Regulations, as required by the Missouri Documents Law (section 181.100, RSMo 2016), are available in the listed participating libraries, as selected by the Missouri State Library: 
+Jefferson County Library PO Box 1486, 3021 High Ridge High Ridge, MO 63049-1486 (314) 677-8689 
+Jefferson College Library 1000 Viking Drive Hillsboro, MO 63050-2441 (314) 789-3951 ext. 160 
+St. Louis Public Library 1301 Olive St. St. Louis, MO 63103-2389 (314) 539-0376 
+St. Louis University Law Library 3700 Lindell Blvd. St. Louis, MO 63108-3478 (314) 977-2742 
+Eden/Webster Library Eden Theological Seminary/ Webster University 475 East Lockwood Ave. St. Louis, MO 63119-3192 (314) 961-2660 ext. 7812 
+Thomas Jefferson Library University of Missouri-St. Louis 8001 Natural Bridge Road St. Louis, MO 63121-4499 (314) 516-5084 
+Washington University Law Library Washington University Campus Box 1171, Mudd Bldg., One Brookings Dr. 
+St. Louis, MO 63130-4899 (314) 935-6443 
+St. Louis County Library 1640 S. Lindbergh Blvd. St. Louis, MO 63131-3598 (314) 994-3300 ext. 247 
+Library Maryville University 13550 Conway Road St. Louis, MO 63141-7232 (314) 529-9494 
+Pickler Memorial Library Truman State University 100 E. Normal Kirksville, MO 63501-4221 (660) 785-7416 
+Learning Resources Center Mineral Area College PO Box 1000 Park Hills, MO 63601-1000 (573) 431-4593 
+Cape Girardeau Public Library 711 N. Clark Cape Girardeau, MO 63701-4400 (573) 334-5279 
+Kent Library Southeast Missouri State University One University Plaza Cape Girardeau, MO 63701-4799 (573) 651-2757 
+Riverside Regional Library PO Box 389, 1997 E. Jackson Blvd. Jackson, MO 63755-0389 (573) 243-8141 
+Rutland Library Three Rivers Community College 2080 Three Rivers Blvd. Poplar Bluff, MO 63901-2393 (573) 840-9656 
+James C. Kirkpatrick Library University of Central Missouri 142 Edwards Library Warrensburg, MO 64093-5020 (660) 543-4149 
+Kansas City Public Library 14 West 10th Street Kansas City, MO 64105 (816) 701-3546 
+Law Library University of Missouri-Kansas City 5100 Rockhill Road Kansas City, MO 64110-2499 (816) 235-2438 
+Miller Nichols Library University of Missouri-Kansas City 5100 Rockhill Road Kansas City, MO 64110-2499 (816) 235-2438 
+B.D. Owens Library Northwest Missouri State University 800 University Drive Maryville, MO 64468-6001 (660) 562-1841 
+St. Joseph Public Library 927 Felix Street St. Joseph, MO 64501-2799 (816) 232-8151 
+Hearnes Learning Resources Ctr. Missouri Western State University 4525 Downs Drive St. Joseph, MO 64507-2294 
+(816) 271-5802 
+Library North Central Missouri College PO Box 111, 1301 Main Street Trenton, MO 64683-0107 (660) 359-3948 ext. 325 
+Spiva Library Missouri Southern State University 3950 East Newman Road Joplin, MO 64801-1595 (417) 625-9342 
+Missouri State Library 600 West Main, PO Box 387 Jefferson City, MO 65102-0387 (573) 751-3615 
+Missouri State Archives 600 West Main, PO Box 778 Jefferson City, MO 65102-0778 (573) 526-6711 
+Elmer Ellis Library University of Missouri-Columbia 106 B Ellis Library Columbia, MO 65211-5149 (573) 882-0748 
+Library State Historical Society of Missouri 1020 Lowry St. Columbia, MO 65211-7298 (573) 882-9369 
+Daniel Boone Regional Library PO Box 1267, 100 West Broadway Columbia, MO 65205-1267 (573) 443-3161 ext. 359 
+School of Law University of Missouri-Columbia 224 Hulston Hall Columbia, MO 65211-0001 (573) 882-1125 
+Smiley Memorial Library Central Methodist University 411 Central Methodist Square Fayette, MO 65248-1198 (660) 248-6279 
+Library Missouri University of Science and 
+Technology 1870 Miner Circle Rolla, MO 65409-0060 (573) 341-4007 
+Lebanon-Laclede County Library 915 S. Jefferson Ave. Lebanon, MO 65536-3017 (417) 532-2148 
+University Library Southwest Baptist University 1600 University Ave. Bolivar, MO 65613-2597 (417) 328-1631 
+Barry-Lawrence Regional Library 213 6th St. Monett, MO 65708-2147 (417) 235-6646 
+Lyons Memorial Library College of the Ozarks General Delivery Point Lookout, MO 65726-9999 (417) 334-6411 ext. 3551 
+Garnett Library Missouri State University—West 
+Plains 304 Cleveland West Plains, MO 65775-3414 (417) 255-7945 
+Springfield-Greene County Library 4653 S. Campbell Springfield, MO 65801-0760 (417) 874-8110 
+Meyer Library Missouri State University PO Box 175, 901 S. National Springfield, MO 65804-0095 (417) 836-4533 
+HOW TO CITE RULES AND RSMo RULES—Cite material in the Missouri Register by volume and page number, for example, Vol. 28, Missouri Register, page 27. The approved short form of citation 
+is 28 MoReg 27. 
+The rules are codified in the Code of State Regulations in this system— Title Code of State Regulations Division Chapter Rule 
+1 CSR 10- 1. 010 Department Agency, Division General area regulated Specific area regulated 
+They are properly cited by using the full citation , i.e., 1 CSR 10-1.010. 
+Each department of state government is assigned a title. Each agency or division within the department is assigned a division number. The agency then groups its rules into general subject matter areas called chapters and specific areas called rules. Within a rule, the first breakdown is called a section and is designated as (1). Subsection is (A) with further breakdown into paragraph 1., subparagraph A., part (I), subpart (a), item I. and subitem a. 
+RSMo—The most recent version of the statute containing the section number and the date. 
+April 3, 2017 Vol. 42, No. 7 
+Proposed Rules 
+MISSOURI REGISTER 
+
+Under this heading will appear the text of proposed rules and changes. The notice of proposed rulemaking is required to contain an explanation of any new rule or any change in an existing rule and the reasons therefor. This is set out in the Purpose section with each rule. Also required is a citation to the legal authority to make rules. This appears fol- lowing the text of the rule, after the word “Authority.” Entirely new rules are printed without any special symbol- 
+ogy under the heading of proposed rule. If an existing rule is to be amended or rescinded, it will have a heading of proposed amendment or proposed rescission. Rules which are proposed to be amended will have new matter printed in boldface type and matter to be deleted placed in brackets. An important function of the Missouri Register is to solicit 
+and encourage public participation in the rulemaking process. The law provides that for every proposed rule, amendment, or rescission there must be a notice that anyone may comment on the proposed action. This comment may take different forms. If an agency is required by statute to hold a public hearing 
+before making any new rules, then a Notice of Public Hearing will appear following the text of the rule. Hearing dates must be at least thirty (30) days after publication of the notice in the Missouri Register. If no hearing is planned or required, the agency must give a Notice to Submit Comments. This allows anyone to file statements in support of or in opposition to the proposed action with the agency within a specified time, no less than thirty (30) days after pub- lication of the notice in the Missouri Register. 
+An agency may hold a public hearing on a rule even though not required by law to hold one. If an agency allows comments to be received following the hearing date, the close of comments date will be used as the beginning day in the ninety- (90-) day-count necessary for the filing of the order of rulemaking. 
+If an agency decides to hold a public hearing after planning not to, it must withdraw the earlier notice and file a new notice of proposed rulemaking and schedule a hearing for a date not less than thirty (30) days from the date of publication of the new notice. 
+Proposed Amendment Text Reminder: Boldface text indicates new matter. [Bracketed text indicates matter being deleted.] 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 4—Wildlife Code: General Provisions 
+PROPOSED AMENDMENT 3 CSR 10-4.137 Wildlife Identification. The commission proposes 
+to amend this rule. 
+PURPOSE: This amendment allows hunters to use their Conservation Number rather than their full name and address to identify and label their harvest. 
+The taker and/or possessor of any wildlife shall keep the wildlife separate or distinctly identifiable from wildlife taken or possessed by another. When not personally attended, the wildlife shall be plainly labeled with the full name and address or Conservation Number of the taker and/or possessor, except as provided in 3 CSR 10-6.405, 3 
+CSR 10-7.431, and 3 CSR 10-7.455. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. Original rule filed Aug. 26, 1964, effective Dec. 31, 1964. For intervening his- tory, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 4—Wildlife Code: General Provisions 
+PROPOSED AMENDMENT 3 CSR 10-4.140 Possession, Storage and Processing. The commis- 
+sion proposes to amend sections (1), (2), and (3) of this rule. 
+PURPOSE: This amendment allows hunters to use their Conservation Number rather than their full name and address to identify and label their harvest. 
+(1) Wildlife legally taken or acquired may be possessed and stored, preserved, or under refrigeration only at the possessor’s home, camp, place of lodging, or in a commercial establishment. Turkeys may be possessed or stored not later than February 15 next following the close of the season when taken. 
+(2) All stored wildlife, except deer and turkeys taken in Missouri, shall be labeled with the owner’s full name[,] and address, or Conservation Number, and permit number, as required, species, and date of placing in storage. If taken in another state or country, it also shall bear the export certificate, if required. Stored deer and turkeys taken in Missouri shall be labeled with the taker’s full name and address [of the taker], or Conservation Number, the date taken, and the Telecheck confirmation number of the deer or turkey. 
+(3) The manager of any commercial processing or cold storage plant shall possess, process, or store deer only under the provisions of 3 CSR 10-10.744. Deer left for processing at any commercial process- ing plant shall be claimed by the owner by May 1 following the sea- son when taken. All commercially-processed deer not claimed and picked up or stored by May 1 following the season when taken shall be considered abandoned and must be reported immediately to an agent of the department for disposal. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. Original rule filed Aug. 14, 1970, effective Dec. 31, 1970. For intervening his- tory, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) 
+381 
+
+Page 382 
+Proposed Rules 
+April 3, 2017 Vol. 42, No. 7 
+in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 4—Wildlife Code: General Provisions 
+PROPOSED AMENDMENT 3 CSR 10-4.200 Chronic Wasting Disease; Management Zone. 
+The commission proposes to amend section (3) of this rule. 
+PURPOSE: This amendment modifies requirements for mandatory presentation for disease sampling of white-tailed deer harvested by hunters within the CWD Management Zone and allows the depart- ment more flexibility to rotate or focus mandatory sampling where needed. 
+PUBLISHER’S NOTE: The secretary of state has determined that the publication of the entire text of the material which is incorporated by reference as a portion of this rule would be unduly cumbersome or expensive. This material as incorporated by reference in this rule shall be maintained by the agency at its headquarters and shall be made available to the public for inspection and copying at no more than the actual cost of reproduction. This note applies only to the ref- erence material. The entire text of the rule is printed here. 
+(3) The head with at least six inches (6") of neck attached from any deer taken within a designated county of the Chronic Wasting Disease (CWD) Management Zone on the first Saturday and Sunday of the November portion of the deer firearms hunting season must be presented by the taker to a designated disease surveillance sampling station [(see current Fall Deer and Turkey Regulations and Information booklet)] on the day taken. See the current Fall Deer & Turkey Hunting Regulations and Information booklet, hereby incorporated in this Code by reference for designated counties and sampling station locations. This booklet is published annual- ly in August by, and a printed copy can be obtained from, the Missouri Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180 and is also available online at www.mis- souriconservation.org. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo [2000] 2016. Original rule filed Dec. 15, 2015, effective May 30, 2016. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s 
+website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 5—Wildlife Code: Permits 
+PROPOSED AMENDMENT 
+3 CSR 10-5.220 Resident and Nonresident Permits. The commis- sion proposes to amend section (6) and the authority section of this rule. 
+PURPOSE: This amendment allows nonresident students to purchase permits by phone or postal mail through a department office and cor- rects an inaccurate reference in the authority section. 
+(6) A nonresident who is a registered student attending a public or private secondary, post secondary, or vocational school located in this state, and living in this state, may purchase resident licenses and permits, except lifetime licenses. Students must carry evidence of a Missouri residence and student status while hunting, fishing, or trap- ping. Permits can be purchased only [at] from Missouri Department of Conservation offices that sell permits. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section [252.240] 252.040, RSMo [2000] 2016. Original rule filed Aug. 18, 1971, effective Dec. 31, 1971. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 6—Wildlife Code: Sport Fishing: Seasons, Methods, Limits 
+PROPOSED AMENDMENT 
+3 CSR 10-6.415 Restricted Zones. The commission proposes to add new section (4), renumber subsequent sections, and amend new sec- tion (5) and the authority section of this rule. 
+PURPOSE: This amendment restricts fishing methods used to take species defined as live bait from portions of the Black and St. Francis rivers and corrects an inaccurate reference in the authority section. 
+(4) Live bait, as defined in 3 CSR 10-6.605, may be taken only by pole and line from— 
+(A) Black River from below the zone closed to all fishing within the wing walls of Clearwater Dam to the Highway 34 bridge; and 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 383 
+
+(B) St. Francis River from below the zone closed to all fishing two hundred twenty-five feet (225') below Wappapello Dam to Wayne County Road 517. 
+[(4)](5) Fish may be taken by all prescribed methods except gig, atlatl, crossbow, and bow on the following waters and as further restricted in subsections [(5)](6)(A), (B), (C), (D), (F), (H), (J), (K), and (M) of this rule. Fish taken by gig, atlatl, crossbow, and bow may not be possessed on these waters or the banks thereof. 
+(A) Barren Fork Creek in Shannon County from County Road A- D to its confluence with Sinking Creek. 
+(B) Blue Springs Creek in Crawford County from Blue Springs to its confluence with Meramec River. 
+(C) Crane Creek in Stone and Lawrence counties upstream from Quail Spur Crossing on Stone County Road 13-195. 
+(D) Current River from Montauk State Park to Cedar Grove. 
+(E) Eleven Point River from its confluence with Greer Spring Branch to Turner Mill. 
+(F) Little Piney Creek from the Phelps County line in Sections 9 and 16 of T35N, R8W, including Piney Spring Branch and Lane Spring Branch, to Milldam Hollow Access. 
+(G) Mill Creek in Phelps County from Yelton Spring to its conflu- ence with Little Piney Creek including Wilkins Spring and spring branch. 
+(H) North Fork of White River in Ozark County from the upper outlet of Rainbow Spring to Patrick Bridge. 
+(I) Spring Creek in Phelps County from Relfe Spring to its con- fluence with Big Piney River. 
+[(5)](6) Fish may be taken by all prescribed methods except that only flies and artificial lures may be used when fishing and soft plastic baits and natural and scented baits are specifically prohibited in[:]— 
+(A) Barren Fork Creek in Shannon County from County Road A- D to its confluence with Sinking Creek[.]; 
+(B) Blue Springs Creek in Crawford County from Blue Springs to its confluence with Meramec River[.]; 
+(C) Crane Creek in Stone and Lawrence counties upstream from Quail Spur Crossing on Stone County Road 13-195[.]; 
+(D) Current River from Montauk State Park to Cedar Grove[.]; 
+(E) Dry Fork Creek in Crawford and Phelps counties from the ele- vated cable crossing to its confluence with the Meramec River[.]; 
+(F) Eleven Point River in Oregon County from its confluence with Greer Spring Branch to Turner Mill[.]; 
+(G) Hickory Creek in Newton County from the Highway 86 bridge to its confluence with Shoal Creek from November 1 through the last day of February[.]; 
+(H) Lake Taneycomo in Taney County from the closed zone seven hundred sixty feet (760') below Table Rock Dam to the mouth of Fall Creek[.]; 
+(I) Little Piney Creek from the Phelps County line in Sections 9 and 16 of T35N, R8W, including Piney Spring Branch and Lane Spring Branch, to Milldam Hollow Access[.]; 
+(J) Meramec River in Crawford and Phelps counties from Highway 8 bridge to Scott’s Ford[.]; 
+(K) Mill Creek in Phelps County from Yelton Spring to its conflu- ence with Little Piney Creek including Wilkins Spring and spring branch[.]; 
+(L) North Fork of White River in Ozark County from the upper outlet of Rainbow Spring to Patrick Bridge[.]; 
+(M) Roubidoux Creek from the elevated utility cable crossing approximately one-half (1/2) mile below the Business I-44 bridge in Waynesville to its confluence with the Gasconade River[.]; and 
+(N) Spring Creek in Phelps County from Relfe Spring to its con- fluence with Big Piney River. 
+[(6)](7) The use of shoes, boots, or waders with porous soles incor- porating or having felt, matted, or woven fibrous materials is prohib- ited on the following areas: 
+(A) Barren Fork Creek in Shannon County; (B) Blue Springs Creek in Crawford County; (C) Capps Creek in Barry and Newton counties; (D) Crane Creek in Stone and Lawrence counties; (E) Current River in Dent, Texas, and Shannon counties; (F) Dry Fork Creek in Crawford and Phelps counties; (G) Eleven Point River in Oregon County; (H) Hickory Creek in Newton County; (I) Lake Taneycomo in Taney County; (J) Little Piney Creek in Phelps County; (K) Meramec River in Crawford and Phelps counties; (L) Mill Creek in Phelps County; (M) North Fork of White River in Ozark County; (N) Niangua River in Dallas and Laclede counties; (O) Roaring River in Barry County; (P) Roubidoux Creek in Pulaski County; (Q) Spring Creek in Phelps County; and (R) Stone Mill Spring Branch in Pulaski County. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section [252.240] 252.040, RSMo [2000] 2016. Original rule filed June 13, 1994, effective Jan. 1, 1995. For intervening history, please con- sult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 10—Wildlife Code: Commercial Permits: Seasons, Methods, Limits 
+PROPOSED AMENDMENT 
+3 CSR 10-10.715 Resident and Nonresident Fur Dealers: Reports, Requirements. The commission proposes to amend sections (1), (2), (3), and (4) this rule. 
+PURPOSE: This amendment removes the requirement for notariza- tion of the annual fur dealers report. 
+(1) Each fur dealer shall keep an up-to-date, accurate record of all furbearer pelts purchased, sold, consigned, or stored. For each trans- action, the seller’s name, address, and permit number shall be recorded immediately in a fur record book furnished by the depart- ment. All such records and furs shall be made available for inspec- tion by an authorized agent of the department at any reasonable time. 
+(2) Each fur dealer shall submit annually a [notarized] report on forms furnished by the department. Printed copies of these forms can be obtained from the Missouri Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180 and online at www.missouri- conservation.org. All fur dealers’ reports shall include all transac- tions in furbearer pelts for the twelve (12) months preceding April 10 of the current year and an inventory of fur held in storage. Such 
+
+Page 384 
+Proposed Rules 
+April 3, 2017 Vol. 42, No. 7 
+reports shall be submitted by April 20. 
+(3) Nonresident fur dealers shall conduct business only at the loca- tion in Missouri specified on the permit, with resident fur dealers at their business locations, and at established fur auction sites. 
+(4) Fur dealers and employees specified on their permit, who are buying, selling, possessing, or transporting pelts or carcasses of furbearers shall have a copy of the prescribed permit in his/her pos- session. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. Original rule filed July 30, 1979, effective Jan. 1, 1980. For intervening his- tory, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 11—Wildlife Code: Special Regulations for Department Areas 
+PROPOSED AMENDMENT 3 CSR 10-11.115 Closings. The commission proposes to amend 
+subsection (5)(B) of this rule. 
+PURPOSE: This amendment adds newly-leased acreage to the refuge on Truman Reservoir Management Lands (Grand River Bottoms Wildlife Management Area). 
+(5) The following department areas are closed to protect waterfowl: (B) On the portions of Ralph and Martha Perry Memorial Conservation Area and Truman Reservoir Management Lands (Grand River Bottoms Wildlife Management Area), which [has] have been designated as waterfowl refuge, hunting, fishing, trapping, boating, entry by the public, and vehicles are prohibited from 
+October 15 through the close of the waterfowl season. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo 2016. This rule previously filed as 3 CSR 10-4.115. Original rule filed April 30, 2001, effective Sept. 30, 2001. For inter- vening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in 
+support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 11—Wildlife Code: Special Regulations for Department Areas 
+PROPOSED AMENDMENT 
+3 CSR 10-11.130 Vehicles, Bicycles, Horses, and Horseback Riding. The commission proposes to add new subsection (7)(J) to this rule. 
+PURPOSE: This amendment adds Whetstone Creek Conservation Area to the list of areas where bicycling or equestrian use is autho- rized by special use permit. 
+(7) Bicycling or equestrian use may be authorized by special use per- mit on the following department areas: 
+(J) Whetstone Creek Conservation Area 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo [2000] 2016. This rule previously filed as 3 CSR 10- 4.115. Original rule filed April 30, 2001, effective Sept. 30, 2001. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivision more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 11—Wildlife Code: Special Regulations for Department Areas 
+PROPOSED AMENDMENT 
+3 CSR 10-11.155 Decoys and Blinds. The commission proposes to add new subsection (1)(A), re-letter and amend new subsection (1)(B), and amend the authority section of this rule. 
+PURPOSE: This amendment accurately incorporates by reference the Upper Mississippi Conservation Area Waterfowl Hunting Information booklet and corrects an inaccurate reference in the authority section. 
+PUBLISHER’S NOTE: The secretary of state has determined that the publication of the entire text of the material which is incorporated by reference as a portion of this rule would be unduly cumbersome or expensive. This material as incorporated by reference in this rule 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 385 
+
+shall be maintained by the agency at its headquarters and shall be made available to the public for inspection and copying at no more than the actual cost of reproduction. This note applies only to the ref- erence material. The entire text of the rule is printed here. 
+(1) Decoys and blinds are permitted but must be disassembled and removed daily, except as otherwise provided in this chapter. Blinds may not be constructed on-site from woody vegetation except for wil- lows (Salicaceae spp.). 
+(A) The current Upper Mississippi Conservation Area Waterfowl Hunting Information booklet is hereby incorporated in this Code by reference. This booklet is published annually in March by, and a printed copy can be obtained from, the Missouri Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180 and is also available online at www.missouriconservation.org. This rule does not incorporate any subsequent amendments or additions. 
+[(A)](B) On those portions of Upper Mississippi Conservation Area designated as restricted waterfowl hunting areas, blind sites shall be designated and allotted through a system of registration and drawing established by the department. Blinds must be constructed in accordance with specifications, dates, and other requirements as described in the [biannual] Upper Mississippi Conservation Area Waterfowl Hunting Information booklet. Waterfowl may be taken only from a designated blind except that hunters may retrieve dead birds and pursue and shoot downed cripples. This rule does not apply during the early teal season and the early Canada goose season. On portions of the area designated as open, blinds may be constructed without site restrictions. Blinds or blind sites on both restricted and open portions of the area may not be locked, transferred, rented, or sold. Boats shall not be left overnight at blind sites. Blinds unoccu- pied at one-half (1/2) hour before legal shooting time may be used by the first hunter to arrive. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section [252.240] 252.040, RSMo [2000] 2016. This rule previously filed as 3 CSR 10-4.115. Original rule filed April 30, 2001, effective Sept. 30, 2001. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 11—Wildlife Code: Special Regulations for Department Areas 
+PROPOSED AMENDMENT 
+3 CSR 10-11.180 Hunting, General Provisions and Seasons. The commission proposes to remove subsections (4)(O), (4)(T), (4)(VV), (4)(EEEE), and (4)(JJJJ), re-letter subsequent subsections, add new subsections (4)(S), (4)(TTT), and (4)(DDDDD), amend new subsec- tions (4)(KKKK) and (4)(RRRR), amend section (13), add new sub- 
+sections (13)(A)-(C), amend section (19), add new subsection (19)(B), and re-letter subsequent subsections of this rule. 
+PURPOSE: This amendment corrects the names of existing depart- ment offices, adds a recently acquired property, removes references to areas no longer owned or managed by the department, and estab- lishes hunting provisions on areas owned and managed by the depart- ment. 
+(4) Hunting is prohibited on the following department areas except for deer and turkey hunting as authorized in the annual Fall Deer & Turkey Hunting Regulations and Information booklet and annual Spring Turkey Hunting Regulations and Information booklet: 
+[(O) Brookfield Maintenance Center] [(P)](O) Buffalo Radio Facility [(Q)](P) Caldwell Memorial Wildlife Area [(R)](Q) Camdenton Conservation Service Center [(S)](R) Cape Girardeau Conservation Campus Nature Center [(T) Caruthersville Rookery Conservation Area] 
+(S) Central Regional Office and Conservation Research Center [(U)](T) Clearwater District Headquarters [(V)](U) Climax Springs Towersite [(W)](V) Clinton Office 
+[(X)](W) Conservation Commission Headquarters [(Y)](X) Robert G. DeLaney Lake Conservation Area [(Z)](Y) Doniphan Towersite [(AA)](Z) Drovers Prairie Conservation Area [(BB)](AA) Engelmann Woods Natural Area [(CC)](BB) Eugene Towersite 
+[(DD)](CC) Forest 44 Conservation Area [(EE)](DD) Foxglove Conservation Area [(FF)](EE) Friendly Prairie Conservation Area [(GG)](FF) Gay Feather Prairie Conservation Area [(HH)](GG) Goodson (Bittersweet Woods) Conservation Area [(II)](HH) Grandpa Chipley’s Conservation Area 
+[(JJ)](II) Gravois Creek Conservation Area [(KK)](JJ) Gravois Mills Access [(LL)](KK) Great Spirit Cave Conservation Area [(MM)](LL) Grundy Memorial Wildlife Area [(NN)](MM) Ronald and Maude Hartell Conservation Area [(OO)](NN) James R. Harter Conservation Area [(PP)](OO) Ruth and Paul Henning Conservation Area [(QQ)](PP) Hickory Canyons Natural Area 
+[(RR)](QQ) Hickory Woods Conservation Area [(SS)](RR) Hinkson Woods Conservation Area [(TT)](SS) Houston Forestry Office [(UU)](TT) Hurley Radio Facility 
+[(VV) Hurricane Deck Towersite] [(WW)](UU) Jefferson City Radio Facility [(XX)](VV) Joplin Towersite [(YY)](WW) Juden Creek Conservation Area [(ZZ)](XX) Roger Klamberg Woods Conservation Area [(AAA)](YY) La Petite Gemme Prairie Conservation Area [(BBB)](ZZ) Lebanon Forestry Office 
+[(CCC)](AAA) Lebanon Towersite [(DDD)](BBB) Lenox Towersite [(EEE)](CCC) Lichen Glade Conservation Area [(FFF)](DDD) Limpp Community Lake [(GGG)](EEE) Lipton Conservation Area [(HHH)](FFF) Little Osage Prairie [(III)](GGG) Lower Taum Sauk Lake [(JJJ)](HHH) Malta Bend Community Lake [(KKK)](III) Mansfield Shop 
+[(LLL)](JJJ) Maple Flats Access [(MMM)](KKK) Maple Woods Natural Area [(NNN)](LLL) Miller Community Lake [(OOO)](MMM) Mint Spring Conservation Area [(PPP)](NNN) Mount Vernon Prairie 
+
+Page 386 
+Proposed Rules 
+April 3, 2017 Vol. 42, No. 7 
+[(QQQ](OOO) Neosho District Headquarters [(RRR)](PPP) New Madrid Forestry Office [(SSS)](QQQ) Niawathe Prairie Conservation Area [(TTT)](RRR) Northeast Regional Office [(UUU)](SSS) Northwest Regional Office 
+(TTT) Norwood Shop [(VVV)](UUU) Onyx Cave Conservation Area [(WWW)](VVV) Ozark Regional Office [(XXX)](WWW) Parma Woods Range and Training Center (south 
+portion) [(YYY)](XXX) Pawhuska Prairie [(ZZZ)](YYY) Pelican Island Natural Area [(AAAA)](ZZZ) Perry County Community Lake [(BBBB)](AAAA) Perryville District Headquarters [(CCCC)](BBBB) Phantom Forest Conservation Area [(DDDD)](CCCC) Pickle Springs Natural Area [(EEEE) Pilot Knob Towersite] [(FFFF)](DDDD) Plad Towersite [(GGGG)](EEEE) Port Hudson Lake Conservation Area [(HHHH)](FFFF) Powder Valley Conservation Nature Center [(IIII)](GGGG) Ray County Community Lake [(JJJJ) Resource Science Center] [(KKKK)](HHHH) Rocheport Cave Conservation Area [(LLLL)](IIII) Rockwoods Range [(MMMM)](JJJJ) Rockwoods Reservation [(NNNN)](KKKK) Rolla [Public Contact ]Office [(OOOO)](LLLL) Runge Conservation Nature Center [(PPPP)](MMMM) Rush Creek Conservation Area [(QQQQ)](NNNN) Ryden Cave Conservation Area [(RRRR)](OOOO) Saeger Woods Conservation Area [(SSSS)](PPPP) Salem Maintenance Center [(TTTT)](QQQQ) F. O. and Leda J. Sears Memorial Wildlife 
+Area [(UUUU)](RRRR) Sedalia [Conservation Service Center] 
+Office [(VVVV)](SSSS) Shawnee Mac Lakes Conservation Area [(WWWW)](TTTT) Shepherd of the Hills Fish Hatchery [(XXXX)](UUUU) Sims Valley Community Lake [(YYYY)](VVVV) Southeast Regional Office [(ZZZZ)](WWWW) Southwest Regional Office [(AAAAA)](XXXX) Springfield Conservation Nature Center [(BBBBB)](YYYY) Julian Steyermark Woods Conservation Area [(CCCCC)](ZZZZ) Teszars Woods Conservation Area [(DDDDD)](AAAAA) Thirtyfour Corner Blue Hole [(EEEEE)](BBBBB) Robert H. Thompson Conservation Area [(FFFFF)](CCCCC) Tower Rock Natural Area (DDDDD) Truman Reservoir Management Lands (designated 
+portion of the Grand River Bottoms Wildlife Management Area) [(GGGGG)](EEEEE) Twin Borrow Pits Conservation Area [(HHHHH)](FFFFF) Twin Pines Conservation Education Center [(IIIII)](GGGGG) Tywappity Community Lake [(JJJJJ)](HHHHH) Ulman Towersite 
+[(KKKKK)](IIIII) Upper Mississippi Conservation Area (Clarksville Refuge) 
+[(LLLLL)](JJJJJ) Wah’Kon-Tah Prairie (portion south of Highway 82) 
+[(MMMMM)](KKKKK) Wah-Sha-She Prairie [(NNNNN)](LLLLL) Walnut Woods Conservation Area [(OOOOO)](MMMMM) Warrenton Office [(PPPPP)](NNNNN) White Alloe Creek Conservation Area [(QQQQQ)](OOOOO) Wildcat Glade Natural Area [(RRRRR)](PPPPP) Wild Cherry Ridge Conservation Area [(SSSSS)](QQQQQ) Walter Woods Conservation Area [(TTTTT)](RRRRR) Mark Youngdahl Urban Conservation Area 
+(13) [On Columbia Bottom Conservation Area, h]Hunting is permitted on the following department areas only during managed hunts or by holders of a valid area daily hunting tag: 
+(A) Columbia Bottom Conservation Area; 
+(B) Forest 44 Conservation Area; and (C) Charles W. Green Conservation Area. 
+(19) Firearms firing single projectiles larger than twenty-two (.22) caliber rimfire are prohibited on the following areas except for deer hunting as authorized in the annual Fall Deer & Turkey Hunting Regulations and Information booklet: 
+(A) Anthony and Beatrice Kendzora Conservation Area; (B) Church Farm Conservation Area; [(B)](C) Horton Farm Conservation Area; [(C)](D) Montrose Conservation Area; 
+[(D)](E) Guy B. Park Conservation Area; and [(E)](F) Platte Falls Conservation Area. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo [2000] 2016. This rule previously filed as 3 CSR 10- 4.115. Original rule filed April 30, 2001, effective Sept. 30, 2001. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 11—Wildlife Code: Special Regulations for Department Areas 
+PROPOSED AMENDMENT 3 CSR 10-11.186 Waterfowl Hunting. The commission proposes to 
+amend sections (10) and (11) of this rule. 
+PURPOSE: This amendment removes an area from the list of areas where waterfowl hunting is only allowed during managed waterfowl hunts and allows hunters the opportunity to harvest snow geese dur- ing the Conservation Order on another department area. 
+(10) On August A. Busch Memorial Conservation Area[, Charles W. Green Conservation Area,] and Cooley Lake Conservation Area, waterfowl may be hunted only during managed waterfowl hunts. 
+(11) On [Blind Pony Lake Conservation Area and] Little Bean Marsh Conservation Area, waterfowl may be hunted only in desig- nated areas and only during the regular waterfowl hunting seasons. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo [2000] 2016. This rule previously filed as 3 CSR 10- 4.115. Original rule filed April 30, 2001, effective Sept. 30, 2001. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 387 
+
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 12—Wildlife Code: Special Regulations for Areas Owned by Other Entities 
+PROPOSED AMENDMENT 3 CSR 10-12.109 Closed Hours. The commission proposes to add 
+subsection (1)(S) and re-letter subsequent subsections of this rule. 
+PURPOSE: This amendment establishes closed hours for uses other than fishing and conservation-related recreation on areas managed in cooperation with other public entities. 
+(1) Closed Hours. The following areas are closed to public use from 10:00 p.m. to 4:00 a.m. daily; however, hunting, fishing, trapping, dog training, camping, launching boats, and landing boats are per- mitted at any time on areas where these activities are authorized, except as further restricted in this chapter. 
+(S) Pleasant Hill (Pleasant Hill City Lake and Porter Park Lake) 
+[(S)](T) Rockaway Beach Access [(T)](U) Sedalia Water Department (Spring Fork Lake) [(U)](V) Springfield City Utilities (Fellows Lake, Lake 
+Springfield, Tailwaters Access) 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo [2000] 2016. Original rule filed June 1, 2001, effective Oct. 30, 2001. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 12—Wildlife Code: Special Regulations for Areas Owned by Other Entities 
+PROPOSED AMENDMENT 
+3 CSR 10-12.110 Use of Boats and Motors. The commission pro- poses to add subsections (2)(W) and (2)(CC), re-letter subsequent subsections, amend section (8), and add new subsections (8)(A)–(C) 
+to this rule. 
+PURPOSE: This amendment restricts the use of boats and motors on areas managed in cooperation with other public entities. 
+(2) Boats are prohibited on the following areas: 
+(W) Pleasant Hill (Porter Park Lake); [(W)](X) Potosi (Roger Bilderback Lake); [(X)](Y) Raymore (Johnston Lake); [(Y)](Z) Rolla (Schuman Park Lake); [(Z)](AA) St. Charles (Fountain Lakes Pond, Kluesner Lake, 
+Moore Lake, Skate Park Lake); [(AA)](BB) St. James (Scioto Lake) (CC) St. Joseph (Krug Park Lagoon) [(BB)](DD) St. Louis (Benton Park Lake, Boathouse Lake, 
+Fairgrounds Park Lake, Horseshoe Lake, Hyde Park Lake, Jefferson Lake, Lafayette Park Lake, North Riverfront Park Lake, O’Fallon Park Lake, North Lake, South Lake); 
+[(CC)](EE) St. Louis County (Bee Tree Park Lake, Blackjack Lake, Carp Lake, Fountain Lake, Island Lake, Jarville Lake, Tilles Park Lake); 
+[(DD)](FF) Sedalia (Clover Dell Park Lake, Liberty Park Pond); [(EE)](GG) Taos (Taos Countryside Park Lake); [(FF)](HH) Tipton (Tipton Park Lake); [(GG)](II) University of Missouri (South Farm R-1 Lake); [(HH)](JJ) Watershed Committee of the Ozarks (Valley Water Mill 
+Lake); and [(II)](KK) Wentzville (Community Club Lake, Heartland Lake). 
+(8) Outboard motors of any size may be used on the following areas [Concordia (Edwin A. Pape Lake) and Odessa City Lake], but must be operated at slow, no-wake speed: 
+(A) Concordia (Edwin A. Pape Lake); (B) Odessa City Lake; and (C) Pleasant Hill (Pleasant Hill City Lake). 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo [2000] 2016. This rule previously filed as 3 CSR 10- 4.116. Original rule filed April 30, 2001, effective Sept. 30, 2001. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 12—Wildlife Code: Special Regulations for Areas Owned by Other Entities 
+PROPOSED AMENDMENT 
+3 CSR 10-12.115 Bullfrogs and Green Frogs. The commission pro- poses to amend paragraphs (1)(A)9. and (1)(C)5., add paragraphs (1)(A)10. and (1)(C)6., and re-number subsequent paragraphs of this rule. 
+
+Page 388 
+Proposed Rules 
+April 3, 2017 Vol. 42, No. 7 
+PURPOSE: This amendment establishes provisions for harvesting bullfrogs and green frogs on areas managed in cooperation with other public entities. 
+(1) Bullfrogs and green frogs may be taken during the statewide sea- son only by hand, handnet, atlatl, gig, bow, snagging, snaring, grab- bing, or pole and line except as further restricted by this chapter. 
+(A) Bows may not be used to take frogs on the following areas: 1. Blue Springs (Lake Remembrance); 2. Columbia (Antimi Lake, Cosmo-Bethel Lake, Lake of the 
+Woods, A. Perry Philips Park Lake, Stephens Park Lake, Twin Lakes); 
+3. Farmington (Giessing Lake, Hager Lake, Thomas Lake); 
+4. Fulton (Morningside Lake, Truman Lake, Veterans Park Lake); 
+5. Jackson County (Alex George Lake, Bergan Lake, Bowlin Pond, Prairie Lee Lake, Scherer Lake, Tarsney Lake, Wood Lake, Wyatt Lake); 
+6. Mark Twain National Forest (department-managed portions); 7. Mexico (Lakeview Lake, Kiwanis Lake); 8. Moberly (Beuth Park Lake, Rothwell Park Lake, Water 
+Works Lake); 9. Odessa (Lake Venita); [and] 10. Pleasant Hill (Pleasant Hill City Lake and Porter Park 
+Lake); and [10.]11. St. James (Scioto Lake). 
+(C) The taking of frogs is prohibited on the following areas: 1. Bennett Spring State Park; 2. Mark Twain National Forest (Carmen Springs Management 
+Area); 3. Maramec Spring Park; 4. Montauk State Park; 5. Roaring River State Park; [and] 6. St. Joseph (Krug Park Lagoon); and [6.]7. University of Missouri (Thomas S. Baskett Wildlife 
+Research and Education Center), except on Ashland Lake. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo 2016. This rule previously filed as 3 CSR 10-4.116. Original rule filed April 30, 2001, effective Sept. 30, 2001. For inter- vening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 12—Wildlife Code: Special Regulations for Areas Owned by Other Entities 
+PROPOSED AMENDMENT 
+3 CSR 10-12.130 Fishing, General Provisions and Seasons. The commission proposes to add new section (7) to this rule. 
+PURPOSE: This amendment establishes where and when fishing is allowed on an area managed in cooperation with another public enti- ty. 
+(7) On St. Joseph (Krug Park Lagoon), fishing is permitted from one-half (1/2) hour before sunrise to one-half (1/2) hour after sunset. 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo [2000] 2016. This rule previously filed as 3 CSR 10- 4.116. Original rule filed April 30, 2001, effective Sept. 30, 2001. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will not cost state agen- cies or political subdivisions more than five hundred dollars ($500) in the aggregate. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 12—Wildlife Code: Special Regulations for Areas Owned by Other Entities 
+PROPOSED AMENDMENT 
+3 CSR 10-12.135 Fishing, Methods. The commission proposes to add subsections (3)(H), (8)(N), (9)(B), and (9)(H), and re-letter sub- sequent subsections of this rule. 
+PURPOSE: This amendment establishes provisions for fishing meth- ods on areas managed in cooperation with other public entities and establishes a new winter trout fishery in St. Joseph. 
+(3) Gizzard shad may be taken from lakes and ponds by dip net or throw net, except at the following areas: 
+(H) Pleasant Hill (Pleasant Hill City Lake and Porter Park Lake) 
+[(H)](I) St. Louis (Benton Park Lake, Boathouse Lake, Fairgrounds Park Lake, Horseshoe Lake, Hyde Park Lake, Jefferson Lake, Lafayette Park Lake, North Riverfront Park Lake, O’Fallon Park Lake, North Lake, South Lake) 
+[(I)](J) St. Louis County (Bee Tree Park Lake, Blackjack Lake, Carp Lake, Creve Coeur Park Lake, Fountain Lake, Island Lake, Jarville Lake, Simpson Park Lake, Spanish Lake, Sunfish Lake, Tilles Park Lake) 
+(8) Only flies, artificial lures, and soft plastic baits (unscented) may be used from November 1 through January 31 on the following lakes: 
+(N) St. Joseph (Krug Park Lagoon) [(N)](O) St. Louis (Jefferson Lake) [(O)](P) St. Louis County (Tilles Park Lake) 
+(9) From November 1 through January 31, not more than one (1) pole and line may be used by one (1) person at any time and the use of natural or scented baits as chum is prohibited on the following 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 389 
+
+lakes: 
+(B) Farmington (Giessing Lake) [(B)](C) Ferguson (January-Wabash Park Lake) [(C)](D) Jackson (Rotary Lake) [(D)](E) Jennings (Koeneman Park Lake) [(E)](F) Kirkwood (Walker Lake) [(F)](G) Overland (Wild Acres Park Lake) (H) Perry County (Legion Lake 1) [(G)](I) St. Louis (Boathouse Lake, Jefferson Lake, O’Fallon Park 
+Lake) [(H)](J) St. Louis County (Carp Lake, Island Lake, Tilles Park 
+Lake) 
+AUTHORITY: sections 40 and 45 of Art. IV, Mo. Const. and section 252.040, RSMo [2000] 2016. This rule previously filed as 3 CSR 10- 4.116. Original rule filed April 30, 2001, effective Sept. 30, 2001. For intervening history, please consult the Code of State Regulations. Amended: Filed March 1, 2017. 
+PUBLIC COST: This proposed amendment will cost the Department of Conservation an estimated three thousand three hundred fifty-four dollars and eleven cents ($3,354.11) to purchase and stock trout for one (1) new winter trout fishery. It will cost the City of St. Joseph an estimated one thousand five hundred sixty-eight dollars and eight cents ($1,568.08) to cost share fifty percent (50%) of the trout pur- chase cost. 
+PRIVATE COST: This proposed amendment will not cost private enti- ties more than five hundred dollars ($500) in the aggregate. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with Regulations Committee Chairman, Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180, or via the department’s website at http://short.mdc.mo.gov/Z49. To be considered, com- ments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Page 390 Proposed Rules 
+April 3, 2017 Vol. 42, No. 7 
+
+ 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 391 
+  
+MISSOURI Orders of Rulemaking April 3, 2017 REGISTER Vol. 42, No. 7 
+
+This section will contain the final text of the rules proposed by agencies. The order of rulemaking is required to con- tain a citation to the legal authority upon which the order or rulemaking is based; reference to the date and page or pages where the notice of proposed rulemaking was published in the Missouri Register; an explanation of any change between the text of the rule as contained in the notice of proposed rulemaking and the text of the rule as finally adopted, togeth- er with the reason for any such change; and the full text of any section or subsection of the rule as adopted which has been changed from that contained in the notice of proposed rulemaking. The effective date of the rule shall be not less than thirty (30) days after the date of publication of the revi- sion to the Code of State Regulations. 
+The agency is also required to make a brief summary of the general nature and extent of comments submitted in support of or opposition to the proposed rule and a concise summary of the testimony presented at the hearing, if any, held in connection with the rulemaking, together with a con- cise summary of the agency’s findings with respect to the merits of any such testimony or comments which are opposed in whole or in part to the proposed rule. The ninety- (90-) day period during which an agency shall file its order of rulemaking for publication in the Missouri Register begins either: 1) after the hearing on the proposed rulemaking is held; or 2) at the end of the time for submission of comments to the agency. During this period, the agency shall file with the secretary of state the order of rulemaking, either putting the proposed rule into effect, with or without further changes, or withdrawing the proposed rule. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 12—Wildlife Code: Special Regulations for Areas Owned by Other Entities 
+ORDER OF RULEMAKING 
+By authority vested in the Conservation Commission under sections 40 and 45 of Art. IV, Mo. Const., the commission amends a rule as follows: 
+3 CSR 10-12.125 is amended. 
+This rule identifies areas where hunting is prohibited and is exempted by section 536.021, RSMo, from the requirements for filing as a pro- posed amendment. 
+3 CSR 10-12.125 Hunting and Trapping 
+(1) Hunting, under statewide permits, seasons, methods, and limits, is permitted except as further restricted in this chapter and except for deer and turkey hunting as authorized in the annual Fall Deer & Turkey Hunting Regulations and Information booklet published in August and annual Spring Turkey Hunting Regulations and Information booklet published in March, which are incorporated in this Code by reference. A printed copy of these booklets can be obtained from the Missouri Department of Conservation, PO Box 180, Jefferson City, MO 65102-0180 and are also available online at www.missouriconservation.org. This rule does not incorporate any subsequent amendments or additions. 
+(B) Hunting is prohibited on the following areas: 1. Bethany (Old Bethany City Reservoir); 
+2. Buchanan County (Gasper Landing); 3. California (Proctor Park Lake); 4. Carthage (Kellogg Lake); 5. Columbia (Antimi Lake, Cosmo-Bethel Lake, Lake of the 
+Woods, Twin Lakes); 6. Dexter City Lake; 7. Farmington (Giessing Lake, Hager Lake, Thomas Lake); 8. Fenton (Preslar Lake, Upper Fabick Lake, Westside Park 
+Lake); 9. Fulton (Morningside Lake, Truman Lake, Veterans Park 
+Lake); 10. Hamilton City Lake; 11. Harrisonville (North Lake); 12. Jackson (Rotary Lake); 13. Jackson County (Alex George Lake, Bergan Lake, Bowlin 
+Pond, Fleming Pond, Lake Jacomo, Prairie Lee Lake, Scherer Lake, Tarsney Lake, Wood Lake, Wyatt Lake); 
+14. Kirksville (Spur Pond); 15. Lawson City Lake; 16. Liberty (Fountain Bluff Park Ponds Nos. 1, 2, 3, 4, 5, 6, 7, 
+and 8); 17. Macon County (Fairgrounds Lake); 18. Mexico (Lakeview Lake, Kiwanis Lake); 19. Mineral Area College (Quarry Pond); 20. Moberly (Rothwell Park Lake, Water Works Lake); 21. Mount Vernon (Williams Creek Park Lake); 22. Odessa (Lake Venita); 23. Overland (Wild Acres Park Lake); 24. Perry County (Legion Lake 1); 25. Potosi (Roger Bilderback Lake); 26. Raymore (Johnston Lake); 27. Rolla (Schuman Park Lake); 28. St. Charles (Fountain Lakes Pond, Kluesner Lake, Moore 
+Lake, Skate Park Lake); 29. St. James (Scioto Lake); 30. St. Joseph (Krug Park Lagoon); 31. St. Louis County (Bee Tree Park Lake, Blackjack Lake, 
+Carp Lake, Creve Coeur Park Lake, Fountain Lake, Island Lake, Jarville Lake, Simpson Park Lake, Spanish Lake, Sunfish Lake); 
+32. Savannah City Lake; 33. Sedalia (Clover Dell Park Lake); 34. Sedalia Water Department (Spring Fork Lake); 35. Springfield City Utilities (Lake Springfield); 36. University of Missouri (Thomas S. Baskett Wildlife 
+Research and Education Center); 37. Warrensburg (Lions Lake); 38. Watershed Committee of the Ozarks (Valley Water Mill 
+Lake); 39. Wentzville (Community Club Lake, Heartland Lake); and 40. Windsor (Farrington Park Lake). 
+SUMMARY OF PUBLIC COMMENTS: Seasons and limits are exempted from the requirement of filing as a proposed amendment under section 536.021, RSMo. 
+This amendment was filed March 1, 2017, becomes effective March 31, 2017. 
+Title 3—DEPARTMENT OF CONSERVATION Division 10—Conservation Commission Chapter 12—Wildlife Code: Special Regulations for Areas Owned by Other Entities 
+ORDER OF RULEMAKING 
+By authority vested in the Conservation Commission under sections 
+392 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 393 
+
+40 and 45 of Art. IV, Mo. Const., the commission amends a rule as follows: 
+3 CSR 10-12.140 is amended. 
+This rule establishes daily limits for fish taken from waters of the state and is exempted by section 536.021, RSMo, from the require- ments for filing as a proposed amendment. 
+3 CSR 10-12.140 Fishing, Daily and Possession Limits 
+(5) The daily limit for crappie is fifteen (15) on the following lakes: (E) Maryville (Mozingo Lake); (F) St. Charles (Fountain Lakes Pond, Kluesner Lake, Moore 
+Lake, Skate Park Lake); (G) St. Louis (Benton Park Lake, Boathouse Lake, Fairgrounds 
+Park Lake, Horseshoe Lake, Hyde Park Lake, Jefferson Lake, Lafayette Park Lake, North Riverfront Park Lake, O’Fallon Park Lake, North Lake, South Lake); 
+(H) St. Louis County (Bee Tree Park Lake, Blackjack Lake, Carp Lake, Creve Coeur Park Lake, Fountain Lake, Island Lake, Jarville Lake, Simpson Park Lake, Spanish Lake, Sunfish Lake, Tilles Park Lake); 
+(I) Springfield City Utilities (Fellows Lake); and (J) Wentzville (Community Club Lake, Heartland Lake). 
+(9) Trout must be returned to the water unharmed immediately after being caught from November 1 through January 31 on the lakes listed below. Trout may not be possessed on these waters during this sea- son. 
+(J) Overland (Wild Acres Park Lake) (K) Perry County (Legion Lake 1) 
+(11) All fish must be returned to the water unharmed immediately after being caught, except that the daily limit of four (4) trout may be taken from February 1 through October 31 on the following waters: 
+(A) Missouri Western State University (Everyday Pond); and (B) St. Joseph (Krug Park Lagoon). 
+SUMMARY OF PUBLIC COMMENTS: Seasons and limits are exempted from the requirement of filing as a proposed amendment under section 536.021, RSMo. 
+This amendment was filed March 1, 2017, becomes effective March 31, 2017. 
+Title 5—DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION Division 20—Division of Learning Services Chapter 400—Office of Educator Quality 
+ORDER OF RULEMAKING 
+By the authority vested in the State Board of Education (board) under sections 161.092, 168.011, 168.021, 168.071, 168.081, 168.400, 168.405, and 168.409, RSMo 2016, the board withdraws an amend- ment as follows: 
+5 CSR 20-400.640 Certification Requirements for Initial Student Services Certificate is withdrawn. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on November 1, 2016 (41 MoReg 1540–1543). This proposed amendment is with- drawn. 
+SUMMARY OF COMMENTS: The board received two hundred twenty-three (223) comments on this proposed amendment. The 
+majority of the comments voiced concerns with Public School Retirement System benefits. The board acknowledges that the con- cerns need to be addressed and will provide clarifications. RESPONSE: As a result, the board is withdrawing the proposed amendment and will resubmit at a later date. 
+Title 13—DEPARTMENT OF SOCIAL SERVICES Division 40—Family Support Division Chapter 15—Supplemental Nutrition Assistance Program (Food Stamps) 
+ORDER OF RULEMAKING 
+By the authority vested in the Family Support Division under sec- tions 207.022, 208.247, and 454.400, RSMo 2016, the director adopts a rule as follows: 
+13 CSR 40-15.455 Eligibility for Individuals with a Drug Felony Conviction is adopted. 
+A notice of proposed rulemaking containing the text of the proposed rule was published in the Missouri Register on November 1, 2016 (41 MoReg 1546–1550). No changes have been made in the text of the proposed rule, so it is not reprinted here. This proposed rule becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: No comments were received. 
+Title 13—DEPARTMENT OF SOCIAL SERVICES Division 40—Family Support Division Chapter 19—Energy Assistance 
+ORDER OF RULEMAKING 
+By the authority vested in the Family Support Division under sec- tions 207.022 and 454.400, RSMo 2016, the director rescinds a rule as follows: 
+13 CSR 40-19.010 is rescinded. 
+A notice of proposed rulemaking containing the proposed rescission was published in the Missouri Register on November 1, 2016 (41 MoReg 1551). One change has been made in the text of the proposed rescission—that of the statutory authority—so it is reprinted here. This proposed rescission becomes effective thirty (30) days after pub- lication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: No comments were received; how- ever, staff noticed that the statutory authority needed to be changed. Changes have been made and the correct authority is printed here. 
+13 CSR 40-19.010 Utilicare Program 
+AUTHORITY: section 207.022, RSMo 1994. Emergency rule filed Nov. 9, 1979, effective Nov. 19, 1979, expired Feb. 10, 1980. Original rule filed Nov. 9, 1979, effective Feb. 11, 1980. For inter- vening history, please consult the Code of State Regulations. Rescinded: Filed Sept. 21, 2016. 
+Title 13—DEPARTMENT OF SOCIAL SERVICES Division 40—Family Support Division Chapter 19—Energy Assistance 
+ORDER OF RULEMAKING 
+By the authority vested in the Family Support Division under sec- tions 207.022 and 454.400, RSMo 2016, the director amends a rule as follows: 
+
+Page 394 
+April 3, 2017 Vol. 42, No. 7 
+
+Orders of Rulemaking 
+
+13 CSR 40-19.020 Low Income Home Energy Assistance Program (LIHEAP) and Utilicare is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on November 1, 2016 (41 MoReg 1551–1555). No changes have been made in the text of the proposed amendment, so it is not reprinted here. This pro- posed amendment becomes effective thirty (30) days after publica- tion in the Code of State Regulations. 
+SUMMARY OF COMMENTS: No comments were received. 
+Title 13—DEPARTMENT OF SOCIAL SERVICES Division 40—Family Support Division Chapter 19—Energy Assistance 
+ORDER OF RULEMAKING 
+By the authority vested in the Family Support Division under section 454.400, RSMo 2016, the director rescinds a rule as follows: 
+13 CSR 40-19.030 Summer Electric Utility Service is rescinded. 
+A notice of proposed rulemaking containing the proposed rescission was published in the Missouri Register on November 1, 2016 (41 MoReg 1555–1556). No changes have been made in the proposed rescission, so it is not reprinted here. This proposed rescission becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: No comments were received. 
+Title 19—DEPARTMENT OF HEALTH AND SENIOR SERVICES Division 30—Division of Regulation and Licensure Chapter 1—Controlled Substances 
+ORDER OF RULEMAKING 
+By the authority vested in the Department of Health and Senior Services under sections 195.015 and 195.195, RSMo 2016, the department amends a rule as follows: 
+19 CSR 30-1.002 is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on November 1, 2016 (41 MoReg 1563–1574). Those sections with changes are reprinted here. This proposed amendment becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: The Department of Health and Senior Services (DHSS) received two (2) comments. 
+COMMENT #1: State Representative Galen Higdon, Jr., asked to have the substance known as lab number U-47700 added to the list of controlled substances since the United States Drug Enforcement Administration (DEA) was in the process of scheduling it. This sub- stance is also known as 3,4-Dichloro-N-[(1R,2R)-2-(demethy- lamino)cyclohexyl]-N-methylbenzamide. 
+RESPONSE AND EXPLANATION OF CHANGE: DHSS is autho- rized to update the state list of controlled substances by rule to match the federal controlled substance list pursuant to section 195.015, RSMo. A final order placing 3, 4-dichloro-N-[2-(dimethylamino)cyclo- hexyl]-N-methylbenzamide (also known as U-47700) into Schedule One of the federal controlled substance list was published in the November 14, 2016, Federal Register. Therefore, DHSS is adding this 
+substance to paragraph (1)(A)6. of the rule in order to update the state controlled substance list to match the federal controlled substance list. 
+COMMENT #2: DHSS staff noted that DEA also recently added N- (1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide to the list of controlled substances. This substance is also known as furanyl fen- tanyl. 
+RESPONSE AND EXPLANATION OF CHANGE: DHSS is authorized to update the state list of controlled substances by rule to match the federal controlled substance list pursuant to section 195.015, RSMo. A final order placing N-(1-phenethylpiperidin-4- yl)-N-phenylfuran-2-carboxamide (also known as furanyl fentanyl) into Schedule One of the federal controlled substance list was pub- lished in the November 29, 2016, Federal Register. Therefore, DHSS is adding this substance to paragraph (1)(A)6. of the rule in order to update the state controlled substance list to match the federal con- trolled substance list. 
+19 CSR 30-1.002 Schedules of Controlled Substances 
+(1) Schedules of Controlled Substances. (A) Schedule I shall consist of the drugs and other substances, by 
+whatever official name, common or usual name, chemical name or brand name designated, listed in this section. Each drug or substance has been assigned the Drug Enforcement Administration (DEA) Controlled Substances Code Number set forth opposite it. 
+1. Opiates. Unless specifically excepted or unless listed in another schedule, any of the following opiates, including their iso- mers, esters, ethers, salts, and salts of isomers, esters and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation: 
+A. Acetyl-alpha-methylfentanyl (N-(1-(1- methyl-2-phenethyl)-4-piperidinyl)-N- phenylacetamide) 9815 
+B. Acetylmethadol 9601 C. AH-7921(3,4-dichloro-N-[(1-dimethylamino) 
+cyclohexylmethyl] benzamide) 9551 D. Allylprodine 9602 E. Alphacetylmethadol (except 
+levoalphacetylmethadol also known as levo-alpha-acetylmethadol levothadyl acetate or LAAM) 9603 
+F. Alphameprodine 9604 G. Alphamethadol 9605 H. Alpha-methylfentanyl (N-1-(alphamethyl- 
+beta-phenyl) ethyl-4-piperidyl) propionanilide; 1-(1-methyl-2-phenylethyl)-4 ((N-propanilido) piperidine) 9814 
+I. Alpha-methylthiofentanyl (N-(1-methyl-2- (2-thienyl) ethyl-4-piperidinyl)-N- 
+phenylpropanamide) 9832 J. Benzethidine 9606 K. Betacetylmethadol 9607 L. Beta-hydroxyfentanyl (N-(1-(2-hydroxy-2- 
+phenethyl)-4-piperidinyl)-N-phenylpropanamide) 9830 M. Beta-hydroxy-3-methylfentanyl (other name: 
+N-(1-(2-hydroxy-2-phenethyl)-3-methyl-4- 
+piperidinyl)-N-phenylpropanamide) 9831 N. Betameprodine 9608 O. Betamethadol 9609 P. Betaprodine 9611 Q. Clonitazene 9612 R. Dextromoramide 9613 S. Diampromide 9615 T. Diethylthiambutene 9616 U. Difenoxin 9168 V. Dimenoxadol 9617 W. Dimepheptanol 9618 X. Dimethylthiambutene 9619 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 395 
+
+Y. Dioxaphetyl butyrate Z. Dipipanone AA. Ethylmethylthiambutene BB. Etonitazene CC. Etoxeridine DD. Furethidine EE. Hydroxypethidine FF. Ketobemidone GG. Levomoramide HH. Levophenacylmorphan II. 3-Methylfentanyl (N-(3-methyl-1-(2- 
+phenylethyl)-4-piperidyl)-N-phenylproanamide), its optical and geometric isomers, salts, and salts of isomers 
+9621
+9622
+9623
+9624
+9625
+9626
+9627
+9628
+9629
+9631
+9813 
+W. Thebacon 9315 3. Hallucinogenic substances. Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation, which contains any quantity of the following hallu- cinogenic substances or which contains any of its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation (For purposes of paragraph (1)(A)3. of this rule only, the term isomer 
+includes the optical, position and geometric isomers.): A. Alpha-ethyltryptamine 7249 Some trade or other names: etryptamine; Monase; alpha-ethyl-1H- 
+indole-3-ethenamine; 3-(2-aminobutyl)indole; alpha-ET; and AET; B. 4-bromo-2,5-dimethoxyamphetamine 7391 Some trade or other names: 4-bromo-2, 5-dimethoxy-a- 
+methylphenethylamine; 4-bromo-2, 5-DMA; C. 4-bromo-2,5-dimethoxyphenethylamine 7392 D. 2,5-dimethoxyamphetamine 7396 
+Some trade or other names: 2,5-dimethoxy-amethylphenethylamine; 2,5-DMA; 
+E. 2,5-dimethoxy-4-ethylamphetamine 7399 Some trade or other names: DOET 
+F. 2,5-dimethoxy-4-(n)-propylthiophenethylamine (other name: 2C-T-7) 7348 
+G. 2-(2,5-Dimethoxy-4-(n)-propylphenyl) ethanamine (2C-P) 7524 
+H. 2-(2,5-Dimethoxy-4-ethylphenyl) ethanamine (2C-E ) 7509 
+I. 2-(2,5-Dimethoxy-4-methylphenyl) ethanamine (2C-D) 7508 
+J. 2-(2,5-Dimethoxy-4-nitro-phenyl) ethanamine (2C-N) 7521 K. 2-(2,5-Dimethoxyphenyl) ethanamine (2C-H) 7517 
+L. 2-(4-Chloro-2,5-dimethoxyphenyl) ethanamine (2C-C) 7519 
+M. 2-(4-Ethylthio-2,5-dimethoxyphenyl) ethanamine (2C-T-2) 7385 
+N. 2-(4-Iodo-2,5-dimethoxyphenyl) ethanamine (2C-I) 7518 
+O. 2-(4-Isopropylthio)-2,5-dimethoxyphenyl) ethanamine (2C-T-4) 7532 
+P. 4-methoxyamphetamine 7411 Some trade or other names: 4-methoxy-amethylphenethylamine; paramethoxyamphetamine; PMA; 
+Q. 5-methoxy-3,4-methylenedioxyamphetamine 7401 
+R. 4-methyl-2,5-dimethoxyamphetamine 7395 Some trade and other names: 4-methyl-2, 5-dimethoxy-a- methylphenethylamine; DOM; and STP; 
+S. 3,4-methylenedioxyamphetamine 7400 T. 3,4-methylenedioxymethamphetamine(MDMA) 7405 U. 3,4-methylenedioxy-N-ethylamphetamine (also 
+known as N-ethylalpha-methyl-3,4 (methylenedioxy) phenethylamine, N-ethyl MDA,MDE and MDEA) 7404 
+V. N-hydroxy-3,4-methylenedioxyamphetamine (also known as N-hydroxy-alpha-methyl- 3,4(methylenedioxy) phenethylamine and N-hydroxy MDA) 7402 
+W. 3,4,5-trimethoxyamphetamine 7390 X. 5-MeO-DMT or 5-methoxy-N,N- 
+dimethyltryptamine 7431 Y. Alpha-methyltryptamine 7432 Z. Bufotenine 7433 
+Some trade and other names: 3-(b-Dimethylaminoethyl)-5-hydrox- yindole; 3-(2-dimethylaminoethyl)-5-indolol; N, N-dimethylsero- tonin; 5-hydroxy-N, N-dimethyltryptamine;mappine; 
+AA. Diethyltryptamine 7434 Some trade and other names: N, N-Diethyltryptamine; DET; 
+BB. Dimethyltryptamine Some trade or other names: DMT; 7435 
+JJ. 3-Methylthiofentanyl (N-((3-methyl-1-(2- thienyl)ethyl-4-piperidinyl)- Nphenylpropanamide) 
+9833 KK. Morpheridine 9632 
+LL. MPPP (1-methyl-4-phenyl-4- propionoxypiperidine) 9661 
+MM. Noracymethadol 9633 NN. Norlevorphanol 9634 OO. Normethadone 9635 PP. Norpipanone 9636 QQ. Para-fluorofentanyl(N-(4-fluorophenyl)- 
+N-(1-(2-phenethyl)-4-piperidinyl) 
+propanamide 9812 RR. PEPAP (1-(-2-phenethyl)-4-phenyl-4- 
+acetoxypiperidine) 9663 SS. Phenadoxone 9637 TT. Phenampromide 9638 UU. Phenomorphan 9647 
+VV. Phenoperidine WW. Piritramide XX. Proheptazine YY. Properidine ZZ. Propiram AAA. Racemoramide BBB. Thiofentany (N-phenyl-N-(1-(2- 
+thienyl)ethyl-4-piperidinyl)-propanamide CCC. Tilidine 
+DDD. Trimeperidine 2. Opium derivatives. Unless specifically excepted or unless 
+listed in another schedule, any of the following opium derivatives, its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation: 
+A. Acetorphine B. Acetyldihydrocodeine C. Benzylmorphine D. Codeine methylbromide E. Codeine-N-Oxide F. Cyprenorphine G. Desomorphine H. Dihydromorphine I. Drotebanol J. Etorphine (except hydrochloride salt) K. Heroin L. Hydromorphinol M. Methyldesorphine N. Methyldihydromorphine O. Morphine methylbromide P. Morphine methylsulfonate Q. Morphine-N-Oxide R. Myrophine S. Nicocodeine T. Nicomorphine U. Normorphine V. Pholcodine 
+9319
+9051
+9052
+9070
+9053
+9054
+9055
+9145
+9335
+9056
+9200
+9301
+9302
+9304
+9305
+9306
+9307
+9308
+9309
+9312
+9313
+9314
+9641
+9642
+9643
+9644
+9649
+9645
+9835
+9750
+9646
+
+Page 396 
+April 3, 2017 Vol. 42, No. 7 
+
+Orders of Rulemaking 
+
+CC. 5-methoxy-N,N-diisopropyltryptamine (other name: 5MeO-DIPT) 
+7439 
+(c) JWH-015, or 1-propyl-2-methyl- 3-(1-naphthoyl)indole 
+(d) JWH-018, or 1-pentyl-3-(1-naphthoyl)indole 7118 (e) JWH-019, or 1-hexyl-3-(1-naphthoyl)indole 7019 (f) JWH-073, or 1-butyl-3-(1-naphthoyl)indole 7173 (g) JWH-081, or 1-pentyl-3-(4- 
+methoxy-1-naphthoyl)indole 7081 (h) JWH-098, or 1-pentyl-2-methyl-3- 
+(4-methoxy-1-naphthoyl)indole (i) JWH-122, or 1-pentyl-3-(4- 
+methyl-1-naphthoyl)indole 7122 (j) JWH-164, or 1-pentyl-3-(7- 
+methoxy-1-naphthoyl)indole (k) JWH-200, or 1-(2-(4- 
+(morpholinyl)ethyl))-3-(1-naphthoyl)indole 7200 (l) JWH-210, or 1-pentyl-3-(4-ethyl-1- 
+naphthoyl)indole (m) JWH-398, or 1-pentyl-3-(4-chloro- 
+1-naphthoyl)indole 7398 (II) Any compound structurally derived from 3-(1-naph- thoyl)pyrrole by substitution at the nitrogen atom of the pyrrole ring by alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N- methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, whether or not further substituted in the pyrrole ring to any extent, 
+whether or not substituted in the naphthyl ring to any extent; (III) Any compound structurally derived from 1-(1-naph- thylmethyl)indene by substitution at the 3-position of the indene ring by alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N- methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, whether or not further substituted in the indene ring to any extent, 
+whether or not substituted in the naphthyl ring to any extent; (IV) Any compound structurally derived from 3-pheny- lacetylindole by substitution at the nitrogen atom of the indole ring with alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1- (N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, whether or not further substituted in the indole ring to any extent, whether or not substituted in the phenyl ring to any extent. Including, 
+but not limited to: (a) JWH-201, or 1-pentyl-3-(4- 
+methoxyphenylacetyl)indole (b) JWH-203, or 1-pentyl-3-(2- 
+chlorophenylacetyl)indole 7203 (c) JWH-250, or 1-pentyl-3-(2- 
+methoxyphenylacetyl)indole 6250 (d) JWH-251, or 1-pentyl-3-(2- 
+methylphenylacetyl)indole (e) RCS-8, or 1-(2-cyclohexylethyl)-3-(2- 
+methoxyphenylacetyl)indole 7008 (V) Any compound structurally derived from 2-(3-hydrox- ycyclohexyl)phenol by substitution at the 5-position of the phenolic ring by alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, whether or not substituted in the cyclohexyl ring to any extent. 
+Including, but not limited to: (a) CP 47, 497 & homologues, or 2-[(1R,3S)-3- hydrox- 
+ycyclohexyl]-5-(2-methyloctan-2-yl)phenol), where side chain n=5, and homologues where side chain n-4,6, or 7; 7297, 7298 
+(VI) Any compound containing a 3-(benzoyl)indole struc- ture with substitution at the nitrogen atom of the indole ring by alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2- piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent. Including, but not limited to: 
+(a) AM-694, or 1-(5-fluoropentyl)-3-(2- iodobenzoyl)indole 7694 
+(b) RCS-4, or 1-pentyl-3-(4- methoxybenzoyl)indole (SR-19 and RCS-4) 7104 
+DD. Ibogaine Some trade and other names: 7-Ethyl-6,6β,7,8,9,10,12,13-octahy- dro-2-methoxy-6, 9-methano-5H-pyrido [1',2':1,2] azepino [5,4-b] indole; Tabernanthe iboga; 
+EE. Lysergic acid diethylamide 7315 
+FF. Marihuana 7360 Some trade or other names: marijuana; 
+GG. Mescaline 7381 
+HH. Parahexyl 7374 Some trade or other names: 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro- 6,6,9-trimethyl-6H-dibenzo[b,d]pyran; Synhexyl; 
+II. Peyote 7415 Meaning all parts of the plant presently classified botanically as Lophophora williamsii Lemaire, whether growing or not; the seeds thereof; any extract from any part of such plant; and every com- pound, manufacture, salt, derivative, mixture or preparation of such plant, its seeds or extracts; 
+JJ. N-ethyl-3-piperidyl benzilate 7482 KK. N-methyl-3-piperidyl benzilate 7484 LL. Psilocybin 7437 MM. Psilocyn 7438 NN. Tetrahydrocannabinols naturally contained in a plant of 
+the genus Cannabis (cannabis 7370 plant), as well as synthetic equiv- alents of the substances contained in the cannabis plant or in the resinous extractives of such plant, and/or synthetic substances, deriv- atives and their isomers, or both, with similar chemical structure and pharmacological activity to those substances contained in the plant, such as the following: 
+(I) 1 cis or trans tetrahydrocannabinol and their optical iso- 
+mers; 
+(II) 6 cis or trans tetrahydrocannabinol and their optical isomers; 
+(III) 3,4 cis or trans tetrahydrocannabinol and its optical isomers; and 
+(IV) Since nomenclature of these substances is not interna- tionally standardized, compounds of these structures, regardless of numerical designation of atomic positions are covered. 
+OO. Ethylamine analog of phencyclidine 7455 Some trade or other names: N-ethyl-1-phenylcyclohexylamine, (1- phenylcyclohexyl) ethylamine, N-(1-phenylcyclohexyl)-ethylamine, cyclohexamine, PCE; 
+PP. Pyrrolidine analog of phencyclidine 7458 Some trade or other names: 1-(1-phenylcyclohexyl)-pyrrolidine PCPy, PHP; 
+QQ. Thiophene analog of phencyclidine 7470 Some trade or other names: 1-(1-(2-thienyl)-cyclohexyl)-piperidine, 2-thienyl analog of phencyclidine, TPCP, TCP; 
+RR. 1-(1-(2-thienyl)cyclohexyl) pyrrolidine 7473 Some other names: TCPy. 
+SS. Salvia divinorum TT. Salvinorin A UU. Synthetic cannabinoids: Unless specifically exempted or 
+unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following sub- stances, or which contains their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation: 
+(I) Any compound structurally derived from 3-(1-naph- thoyl)indole or 1H-indol-3-yl-(1-naphthyl)methane by substitution at the nitrogen atom of the indole ring by alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, whether or not further substituted in the indole ring to any extent, whether or not substituted in the naphthyl ring to any extent. Including, but not limited to: 
+(a) AM2201, or 1-(5-fluoropentyl)-3- (1-naphthoyl)indole 7201 
+(b) JWH-007, or 1-pentyl-2-methyl- 3-(1-naphthoyl)indole 
+7260 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 397 
+
+(VII) CP 50,556-1, or [(6S,6aR,9R,10aR)-9-hydroxy-6- methyl-3-[(2R)-5-phenylpentan-2-yl]oxy-5,6,6a,7,8,9,10,10a- octahydrophenanthridin-1-yl] acetate 
+(VIII) HU-210, or (6aR,10aR)-9-(hydroxymethyl)-6,6- dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a- tetrahydrobenzo[c]chromen-1-ol 
+(IX) HU-211, or Dexanabinol,(6aS,10aS)-9-(hydrox- ymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahy- drobenzo[c]chromen-1-ol 
+(X) Dimethylheptylpyran, or DMHP 4. Depressants. Unless specifically excepted or unless listed in 
+another schedule, any material compound, mixture or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation: 
+A. Gamma-hydroxybutyric acid and other names GHB; gamma-hydroxybutyrate; 4-hydroxybutyrate; 4-hydroxybutonic acid; sodium oxybate; sodium oxybutryrate; 2010 
+B. Mecloqualone 2572 
+C. Methaqualone 2565 5. Stimulants. Unless specifically excepted or unless listed in another schedule, any material, compound, mixture or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, iso- 
+mers, and salts of isomers: A. Aminorex 1585 
+Some trade or other names: aminoxaphen; 2-amino-5-phenyl-2-oxa- zoline; 4,5-dihydro-5-phenyl-2-oxazolamine; 
+B. N-benzylpiperazine (some other names: BZP, 1-benzylpiperzaine) 7493 
+C. Cathinone (Some trade or other names: 2-amino-1-phenyl-1-propanone, alphaaminopropiophenone, 2-aminopropiophenone and norephedrone) 1235 
+D. Fenethylline 1503 E. 3-Fluoromethcathinone 1233 F. 4-Fluoromethcathinone 1238 G. Mephedrone, or 4-methylmethcathinone 1248 H. Methcathinone 1237 
+Some trade or other names: 2-(methylamino)-propiophenone; alpha- (methylamino) propiophenone; 2-(methylamino)-1-phenylpropan-1- one; alpha-N-methylaminopropiophenone; monomethylpropion; ephedrone; N-methylcathinone; methylcathinine; AL-464; AL-422; AL-463 and URI 432; 
+I. 4-methoxymethcathinone J. cis-4-methylaminorex (cis-4,5-dihydro- 
+4-methyl-5-phenyl-2-oxazolamine) 1590 K. Methylenedioxypyrovalerone, MDPV, or (1- 
+(1,3-Benzodioxol-5-yl)-2-(1-pyrrolidinyl)- 1-pentanone 7535 
+6. A temporary listing of substances subject to emergency scheduling under federal law shall include any material, compound, mixture or preparation which contains any quantity of the following substances: 
+A. (1-pentyl-1H-indol-3-yl)(2,2,3,3- tetramethylcyclopropyl)methanone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: UR-144, 1-pentyl- 3-(2,2,3,3-tetramethylcyclopropoyl)indole) 7144 
+B. [1-(5-fluoro-pentyl)-1H-indol-3-yl](2,2,3,3- tetramethylcyclopropyl)methanone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: 5- fluoro-UR-144, 5-F-UR-144, XLR11, 1-(5-fluoro-pentyl)-3- (2,2,3,3-tetramethylcyclopropoyl)indole) 7011 
+C. N-(1-adamantyl)-1-pentyl-1H-indazole-3- carboxamide, its optical, positional, and geometric isomers, salts, and salts of isomer (Other names: APINACA, AKB48) 7048 
+D. 2-(4-iodo-2,5-dimethoxyphenyl)-N-(2- methoxybenzyl)ethanamine, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: 25I- NBOMe; 2C-I-NBOMe; 25I; Cimbi-5) 7538 
+E. 2-(4-chloro-2,5-dimethoxyphenyl)-N-(2- methoxybenzyl)ethanamine, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: 25C-NBOMe; 2C-C-NBOMe; 25C; Cimbi-82) 7537 
+F. 2-(4-bromo-2,5-dimethoxyphenyl)-N-(2- methoxybenzyl)ethanamine, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: 25B-NBOMe; 2C-B-NBOMe; 25B; Cimbi-36) 7536 
+G. 4-methyl-N-ethylcathinone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: 4-MEC; 2- 
+(ethylamino)-1-(4-methylphenyl)propan-1-one) 1249 H. 4-methyl-alpha-pyrrolidinopropiophenone, 
+its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: 4- MePPP; MePPP; 4-methyl-α- pyrrolidinopropiophenone; 1- 
+(4-methylphenyl)-2-(pyrrolidin-1-yl)-propan-1-one) 7498 I. alpha-pyrrolidinopentiophenone, its optical, 
+positional, and geometric isomers, salts, and salts of isomers (Other names: α-PVP; α- pyrrolidinovalerophenone; 1-phenyl-2- (pyrrolidin-1-yl)pentan-1-one) 7545 
+J. Butylone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: bk-MBDB; 1-(1,3-benzodioxol-5-yl)-2- (methylamino)butan-1-one) 7541 
+K. Pentedrone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: α-methylaminovalerophenone; 2- (methylamino)-1-phenylpentan-1-one) 1246 Pentylone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: bk-MBDP; 1-(1,3-benzodioxol-5- yl)-2-(methylamino)pentan-1-one) 7542 
+M. Naphyrone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: naphthylpyrovalerone; 1- (naphthalen-2-yl)-2-(pyrrolidin-1-yl)pentan-1-one) 1258 
+N. alpha-pyrrolidinobutiophenone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: α-PBP; 1-phenyl- 2-(pyrrolidin-1-yl)butan-1-one) 7546 
+L. Methylone, or 3,4-Methylenedioxymethcathinone M. 4-Methyl-alpha-pyrrolidinobutiophenone, or MPBP N. N-ethylamphetamine O. N,N-dimethylamphetamine 
+7540 
+1475 
+1480 (some other names: N,N-alpha-trimethylbenzeneethanamine; N,N- 
+L. 
+alpha-trimethylphenethylamine) P. Quinolin-8-yl 1-pentyl-1H-indole-3- 
+carboxylate (PB-22; QUPIC) Q. Quinolin-8-yl 1-(5-fluoropentyl)-1H-indole- 
+3-carboxylate (5-fluoro-PB-22; 5F-PB-22) R. N-(1-amino-3-methyl-1-oxobutan-2-yl)-1- 
+(4-fluorobenzyl)-1H-indazole-3-carboxamide 
+7222 7225 
+(AB-FUBINACA) 7012 S. N-(1-amino-3, 3-dimethyl-1-oxobutan-2-yl)- 
+1-pentyl-1H-indazole-3-carboxamide (ADB-PINACA) 7035 
+
+Page 398 
+April 3, 2017 Vol. 42, No. 7 
+
+Orders of Rulemaking 
+
+O. N-(1-amino-3-methyl-1-oxobutan-2-yl)-1- (cyclohexylmethyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: AB- CHMINACA) 7031 
+adoption of the amendment. Chelsea Crucitti, on behalf of Insured Retirement Institute (IRI), expressed similar support. RESPONSE: The director appreciates the expression of support. No changes have been made to the rule as a result of these comments. 
+COMMENT #2: Bryan Cox, on behalf of the ACLI, commented that the exemptions omit immediate annuities as contemplated by NAIC Model 613. RESPONSE AND EXPLANATION OF CHANGE: The director agrees with this comment and will file an amended order of rulemak- ing to incorporate the intended exemption. 
+20 CSR 400-5.400 Life Insurance and Annuities Replacement 
+(1) Purpose and Scope. (A) The purpose of this rule is— 
+1. To regulate the activities of insurers and producers with respect to the replacement of existing life insurance and annuities; and 
+2. To protect the interests of life insurance and annuity pur- chasers by establishing minimum standards of conduct to be observed in replacement or financed purchase transactions. It will— 
+A. Assure that purchasers receive information with which a decision can be made in his or her own best interest; and 
+B. Reduce the opportunity for misrepresentation and incom- plete disclosure. 
+(B) Unless otherwise specifically included, this rule shall not apply to transactions involving— 
+1. Credit life insurance; 
+2. Group life insurance or group annuities where there is no direct solicitation of individuals by an insurance producer. Direct solicitation shall not include any group meeting held by an insurance producer solely for the purpose of educating or enrolling individuals or, when initiated by an individual member of the group, assisting with the selection of investment options offered by a single insurer in connection with enrolling that individual in group life insurance or a group annuity. Group life insurance or group annuity certificates marketed through direct response solicitation shall be subject to the provisions of section (7) of this rule; 
+3. Group life insurance or annuities used to fund prearranged funeral contracts; 
+4. An application to the existing insurer that issued the existing policy or contract when a contractual change or a conversion privi- lege is being exercised; or, when the existing policy or contract is being replaced by the same insurer pursuant to a new policy or con- tract filed with and approved by the director; or, when a term con- version privilege is exercised among corporate affiliates; 
+5. Proposed life insurance that is to replace life insurance under a binding or conditional receipt issued by the same company; 
+6. (Reserved) A. Policies or contracts used to fund 1) an employee pension 
+or welfare benefit plan that is covered by the Employee Retirement and Income Security Act (ERISA); 2) a plan described by Sections 401(a), 401(k) or 403(b) of the Internal Revenue Code, where the plan, for purposes of ERISA, is established or maintained by an employer; 3) a governmental or church plan defined in Section 414, a governmental or church welfare benefit plan, or a deferred com- pensation plan of a state or local government or tax exempt organi- zation under Section 457 of the Internal Revenue Code; or 4) a non- qualified deferred compensation arrangement established or main- tained by an employer or plan sponsor. 
+B. Notwithstanding subparagraph (1)(B)6.A., this rule shall apply to policies or contracts used to fund any plan or arrangement that is funded solely by contributions an employee elects to make, whether on a pre-tax or after-tax basis, and where the insurer has been notified that plan participants may choose from among two (2) or more insurers, and there is a direct solicitation of an individual employee by an insurance producer for the purchase of a contract or 
+P. N-(1-amino-3-methyl-1-oxobutan-2-yl)-1- pentyl-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: AB-PINACA) 
+Q. [1-(5-fluoropentyl)-1H-indazol-3-yl](naphthalen- 1-yl)methanone, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: THJ-2201) 
+R. N-(1-phenethylpiperidin-4-yl)-N- phenylbutyramide, its isomers, esters, ethers, salts, and salts of isomers, esters, and ethers (Other names: butyryl fentanyl) 
+S. N-[1-[2-hydroxy-2-(thiophen-2-yl) ethyl]piperidin-4-yl]-N-phenylpropionamide, its isomers, esters, ethers, salts, and salts of isomers, esters, and ethers (Other names: beta-hydroxythiofentanyl) 
+T. N-(1-phenethylpiperidin-4-yl)-N-phenylacetamide, its optical, positional, and geometric isomers, salts, and salts of isomers (Other names: acetyl fentanyl) 
+U. N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)- 1-(cyclohexylmethyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, 
+salts, and salts of isomers (Other names: MAB- 
+CHMINACA; ADB-CHMINACA) V. 3, 4-dichloro-N-[2-(dimethylamino)cyclohexyl]- 
+N-methylbenzamide (Other names: U-47700) W. N-(1-phenethylpiperidin-4-yl)-N-phenylfuran- 
+7023 
+7024 
+9822 
+9836 
+9821 
+                                                    7032
+                                                    9547
+                                                    9834
+seed or extracts. 7032 
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 400—Life, Annuities and Health Chapter 5—Advertising and Material Disclosures 
+ORDER OF RULEMAKING 
+By the authority vested in the director of the Department of Insurance, Financial Institutions and Professional Registration under section 374.045, RSMo 2016, the director amends a rule as follows: 
+20 CSR 400-5.400 is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on November 1, 2016 (41 MoReg 1579–1595). Those sections with changes are reprinted here. This proposed amendment becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: The director received two (2) timely comments on the proposed amendment. The director received one (1) comment after the public comment period. 
+COMMENT #1: Bryan Cox, on behalf of the American Council of Life Insurers (ACLI), commented that ACLI actively supports the 
+2-carboxamide (Other names: furanyl fentanyl) 7. Khat, to include all parts of the plant presently classified botanically as catha edulis, whether growing or not; the seeds there- of; any extract from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 399 
+
+policy. As used in this subsection, direct solicitation shall not include any group meeting held by an insurance producer solely for the pur- pose of educating individuals about the plan or arrangement or enrolling individuals in the plan or arrangement or, when initiated by an individual employee, assisting with the selection of investment options offered by a single insurer in connection with enrolling that individual employee in group life insurance or a group annuity; 
+7. Where new coverage is provided under a life insurance policy or contract and the cost is borne wholly by the insured’s employer or by an association of which the insured is a member; 
+8. Existing life insurance that is a non-convertible term life insurance policy that will expire in five (5) years or less and cannot be renewed; 
+9. Immediate annuities that are purchased with proceeds from an existing contract. Immediate annuities purchased with proceeds from an existing policy are not exempted from the requirements of this rule; or 
+10. Structured settlements. (C) Registered contracts shall be exempt from the requirements of 
+paragraph (5)(A)2. and subsection (6)(B) of this rule with respect to the provision of illustrations or policy summaries; however, premium or contract contribution amounts and identification of the appropriate prospectus or offering circular shall be required instead. 
+MISSOURI In Additions April 3, 2017 REGISTER Vol. 42, No. 7 
+
+This section may contain notice of hearings, correction notices, public information notices, rule action notices, statements of actual costs, and other items required to be pub- lished in the Missouri Register by law. 
+Title 7—DEPARTMENT OF TRANSPORTATION Division 10—Missouri Highways and Transportation Commission Chapter 25—Motor Carrier Operations 
+IN ADDITION 
+7 CSR 10-25.010 Skill Performance Evaluation Certificates for Commercial Drivers 
+PUBLIC NOTICE 
+Public Notice and Request for Comments on Applications for Issuance of Skill Performance Evaluation Certificates to Intrastate Commercial Drivers with Diabetes Mellitus or Impaired Vision 
+SUMMARY: This notice publishes MoDOT’s receipt of applications for the issuance of Skill Performance Evaluation (SPE) Certificates from individuals who do not meet the physical qualification require- ments in the Federal Motor Carrier Safety Regulations for drivers of commercial motor vehicles in Missouri intrastate commerce because of impaired vision or an established medical history or clinical diag- nosis of diabetes mellitus currently requiring insulin for control. If granted, the SPE Certificates will authorize these individuals to qual- ify as drivers of commercial motor vehicles (CMVs), in intrastate commerce only, without meeting the vision standard prescribed in 49 CFR 391.41(b)(10), if applicable, or the diabetes standard prescribed in 49 CFR 391.41(b)(3). 
+DATES: Comments must be received at the address stated below, on or before, May 1, 2017. 
+ADDRESSES: You may submit comments concerning an applicant, identified by the Application Number stated below, by any of the fol- lowing methods: • Email: Pamela.lueckenotto@modot.mo.gov 
+• Mail: PO Box 270, Jefferson City, MO 65102 • Hand Delivery: 830 MoDOT Drive, Jefferson City, MO 65102 • Instructions: All comments submitted must include the agency name and Application Number for this public notice. For detailed instruc- tions on submitting comments, see the Public Participation heading of the Supplementary Information section of this notice. All comments received will be open and available for public inspection and MoDOT may publish those comments by any available means. 
+COMMENTS RECEIVED BECOME MoDOT PUBLIC RECORD 
+• By submitting any comments to MoDOT, the person authorizes MoDOT to publish those comments by any available means. • Docket: For access to the department’s file, to read background doc- uments or comments received, 830 MoDOT Drive, Jefferson City, MO 65102, between 7:30 a.m. and 4:00 p.m., CT, Monday through Friday, except state holidays. 
+FOR FURTHER INFORMATION CONTACT: Pam Lueckenotto, Motor Carrier Investigations Specialist, 636-288-6082, MoDOT Motor Carrier Services Division, PO Box 270, Jefferson City, MO 65102. Office hours are from 7:30 a.m. to 4:00 p.m., CT, Monday through Friday, except state holidays. 
+SUPPLEMENTARY INFORMATION: 
+Public Participation 
+If you want us to notify you that we received your comments, please include a self-addressed, stamped envelope or postcard. 
+Background 
+The individuals listed in this notice have recently filed applications requesting MoDOT to issue SPE Certificates to exempt them from the physical qualification requirements relating to vision in 49 CFR 391.41(b)(10), or to diabetes in 49 CFR 391.41(b)(3), which other- wise apply to drivers of CMVs in Missouri intrastate commerce. 
+Under section 622.555, RSMo, MoDOT may issue an SPE Certificate, for not more than a two- (2-) year period, if it finds that the applicant has the ability, while operating CMVs, to maintain a level of safety that is equivalent to or greater than the driver qualifi- cation standards of 49 CFR 391.41. Upon application, MoDOT may renew an exemption upon expiration. 
+Accordingly, the agency will evaluate the qualifications of each appli- cant to determine whether issuing an SPE Certificate will comply with the statutory requirements and will achieve the required level of safety. If granted, the SPE Certificate is only applicable to intrastate transportation wholly within Missouri. 
+Qualifications of Applicants Application #245 Renewal Applicant’s Name & Age: Michael B. Wieberg, 33 
+Relevant Physical Condition: Insulin-treated diabetes mellitus (ITDM). Mr. Wieberg’s best uncorrected visual acuity is 20/20 Snellen in his 
+right eye and best uncorrected visual acuity is 20/20 Snellen in his left eye. Mr. Wieberg has been an insulin treated diabetic since December 2001. 
+Relevant Driving Experience: Mr. Wieberg has approximately fifteen (15) years of commercial motor vehicle experience. Mr. Wieberg currently has a Class B license. In addition, he has experience dri- ving personal vehicle(s) daily. 
+Doctor’s Opinion & Date: Following an examination in February 2017, a board-certified endocrinologist certified his condition would not adversely affect his ability to operate a commercial motor vehicle safely. 
+Traffic Accidents and Violations: Mr. Wieberg has had no tickets or accidents on record for the previous three (3) years. 
+Request for Comments 
+The Missouri Department of Transportation, Motor Carrier Services Division, pursuant to section 622.555, RSMo, and rule 7 CSR 10- 25.010, requests public comment from all interested persons on the applications for issuance of Skill Performance Evaluation Certificates described in this notice. We will consider all comments received before the close of business on the closing date indicated earlier in this notice. 
+Issued on: February 24, 2017 
+Scott Marion, Motor Carrier Services Director, Missouri Department of Transportation. 
+
+400 
+April 3, 2017 Vol. 42, No. 7 
+Title 7—DEPARTMENT OF TRANSPORTATION Division 10—Missouri Highways and Transportation Commission Chapter 25—Motor Carrier Operations 
+IN ADDITION 
+7 CSR 10-25.010 Skill Performance Evaluation Certificates for Commercial Drivers 
+PUBLIC NOTICE 
+Public Notice and Request for Comments on Applications for Issuance of Skill Performance Evaluation Certificates to Intrastate Commercial Drivers with Diabetes Mellitus or Impaired Vision 
+SUMMARY: This notice publishes MoDOT’s receipt of applications for the issuance of Skill Performance Evaluation (SPE) Certificates from individuals who do not meet the physical qualification require- ments in the Federal Motor Carrier Safety Regulations for drivers of commercial motor vehicles in Missouri intrastate commerce because of impaired vision or an established medical history or clinical diag- nosis of diabetes mellitus currently requiring insulin for control. If granted, the SPE Certificates will authorize these individuals to qual- ify as drivers of commercial motor vehicles (CMVs), in intrastate commerce only, without meeting the vision standard prescribed in 49 CFR 391.41(b)(10), if applicable, or the diabetes standard prescribed in 49 CFR 391.41(b)(3). 
+DATES: Comments must be received at the address stated below, on or before, May 1, 2017. 
+ADDRESSES: You may submit comments concerning an applicant, identified by the Application Number stated below, by any of the fol- lowing methods: • Email: Pamela.lueckenotto@modot.mo.gov 
+• Mail: PO Box 270, Jefferson City, MO 65102 • Hand Delivery: 830 MoDOT Drive, Jefferson City, MO 65102 • Instructions: All comments submitted must include the agency name and Application Number for this public notice. For detailed instruc- tions on submitting comments, see the Public Participation heading of the Supplementary Information section of this notice. All comments received will be open and available for public inspection and MoDOT may publish those comments by any available means. 
+COMMENTS RECEIVED BECOME MoDOT PUBLIC RECORD 
+• By submitting any comments to MoDOT, the person authorizes MoDOT to publish those comments by any available means. • Docket: For access to the department’s file, to read background doc- uments or comments received, 830 MoDOT Drive, Jefferson City, MO 65102, between 7:30 a.m. and 4:00 p.m., CT, Monday through Friday, except state holidays. 
+FOR FURTHER INFORMATION CONTACT: Pam Lueckenotto, Motor Carrier Investigations Specialist, 636-288-6082, MoDOT Motor Carrier Services Division, PO Box 270, Jefferson City, MO 65102. Office hours are from 7:30 a.m. to 4:00 p.m., CT, Monday through Friday, except state holidays. 
+SUPPLEMENTARY INFORMATION: 
+Public Participation 
+If you want us to notify you that we received your comments, please include a self-addressed, stamped envelope or postcard. 
+Background 
+The individuals listed in this notice have recently filed applications 
+requesting MoDOT to issue SPE Certificates to exempt them from the physical qualification requirements relating to vision in 49 CFR 391.41(b)(10), or to diabetes in 49 CFR 391.41(b)(3), which other- wise apply to drivers of CMVs in Missouri intrastate commerce. 
+Under section 622.555, RSMo, MoDOT may issue an SPE Certificate, for not more than a two- (2-) year period, if it finds that the applicant has the ability, while operating CMVs, to maintain a level of safety that is equivalent to or greater than the driver qualifi- cation standards of 49 CFR 391.41. Upon application, MoDOT may renew an exemption upon expiration. 
+Accordingly, the agency will evaluate the qualifications of each appli- cant to determine whether issuing an SPE Certificate will comply with the statutory requirements and will achieve the required level of safety. If granted, the SPE Certificate is only applicable to intrastate transportation wholly within Missouri. 
+Qualifications of Applicants Application #418 Renewal Applicant’s Name & Age: Thomas A. Maloney, 71 
+Relevant Physical Condition: Insulin-treated diabetes mellitus (ITDM). Mr. Maloney’s best uncorrected visual acuity is 20/25 Snellen in his right eye and best uncorrected visual acuity is 20/25 Snellen in his left eye. Mr. Maloney has been an insulin treated diabetic since May 1, 2016. 
+Relevant Driving Experience: Mr. Maloney has approximately nine- teen (19) years of commercial motor vehicle experience. Mr. Maloney currently has a Class A license. In addition, he has experi- ence driving personal vehicle(s) daily. 
+Doctor’s Opinion & Date: Following an examination in February 2017, a board-certified endocrinologist certified his condition would not adversely affect his ability to operate a commercial motor vehicle safely. 
+Traffic Accidents and Violations: Mr. Maloney has had no tickets or accidents on record for the previous three (3) years. 
+Request for Comments 
+The Missouri Department of Transportation, Motor Carrier Services Division, pursuant to section 622.555, RSMo, and rule 7 CSR 10- 25.010, requests public comment from all interested persons on the applications for issuance of Skill Performance Evaluation Certificates described in this notice. We will consider all comments received before the close of business on the closing date indicated earlier in this notice. 
+Issued on: February 28, 2017 
+Scott Marion, Motor Carrier Services Director, Missouri Department of Transportation. 
+Title 19—DEPARTMENT OF HEALTH AND SENIOR SERVICES Division 60—Missouri Health Facilities Review Committee Chapter 50—Certificate of Need Program 
+NOTIFICATION OF REVIEW: APPLICATION REVIEW SCHEDULE 
+The Missouri Health Facilities Review Committee has initiated review of the CON application listed below. A decision is tentatively scheduled 
+Missouri Register 
+Page 401 
+ 
+ 
+Page 402 
+April 3, 2017 Vol. 42, No. 7 
+In Additions 
+
+for April 21, 2017. This application is available for public inspection at the address shown below. 
+Date Filed 
+Project Number: Project Name City (County) Cost, Description 
+03/10/2017 #5440 HT: Freeman Health Center Joplin (Newton County) $2,001,220, Replace MRI 
+Any person wishing to request a public hearing for the purpose of commenting on this application must submit a written request to this effect, which must be received by April 12, 2017. All written requests and comments should be sent to— 
+Chairman Missouri Health Facilities Review Committee c/o Certificate of Need Program 3418 Knipp Drive, Suite F PO Box 570 Jefferson City, MO 65102 For additional information contact Karla Houchins at (573) 751-6700. 
+  
+
+April 3, 2017 Vol. 42, No. 7 
+Dissolutions 
+MISSOURI REGISTER 
+
+The Secretary of State is required by sections 347.141 and 359.481, RSMo 2000, to publish dissolutions of limited liability companies and limited partnerships. The content requirements for the one-time publishing of these notices are prescribed by statute. This listing is published pursuant to these statutes. We request that documents submitted for publication in this section be submitted in camera ready 8 1/2" x 11" manuscript by email to dissolutions@sos.mo.gov. 
+ 
+ 
+403 
+
+Page 404 
+April 3, 2017 Vol. 42, No. 7 
+
+Dissolutions 
+    
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 405 
+   
+
+Rule Changes Since Update to 
+MISSOURI Code of State Regulations April 3, 2017 REGISTER Vol. 42, No. 7 
+
+This cumulative table gives you the latest status of rules. It contains citations of rulemakings adopted or proposed after deadline for the monthly Update Service to the Code of State Regulations, citations are to volume and page number in the Missouri Register, except for material in this issue. The first number in the table cite refers to the volume number or the publication year—41 (2016) and 42 (2017). MoReg refers to Missouri Register and the numbers refer to a specific Register page, R indicates a rescission, W indicates a withdrawal, S indicates a statement of actual cost, T indicates an order terminating a rule, N.A. indicates not applicable, RAN indicates a rule action notice, RUC indicates a rule under consideration, and F indicates future effective date. 
+Rule Number Agency Emergency Proposed 
+OFFICE OF ADMINISTRATION 
+1 CSR 10 State Officials’ Salary Compensation Schedule 
+Order 
+In Addition 
+41 MoReg 1477 
+1 CSR 10-12.011 Commissioner of Administration 41 MoReg 1526 42 MoReg 269 
+1 CSR 15-3.200 Administrative Hearing Commission 41 MoReg 1529 42 MoReg 269 
+1 CSR 15-3.210 Administrative Hearing Commission 41 MoReg 1529 42 MoReg 269 
+1 CSR 15-3.250 Administrative Hearing Commission 41 MoReg 1529 42 MoReg 269 
+1 CSR 15-3.270 Administrative Hearing Commission 41 MoReg 1530 42 MoReg 270 
+1 CSR 15-3.290 Administrative Hearing Commission 41 MoReg 1530 42 MoReg 270 
+1 CSR 15-3.320 Administrative Hearing Commission 41 MoReg 1533 42 MoReg 270 
+1 CSR 15-3.350 Administrative Hearing Commission 41 MoReg 1533 42 MoReg 270 
+1 CSR 15-3.380 Administrative Hearing Commission 41 MoReg 1534 42 MoReg 270 
+1 CSR 15-3.390 Administrative Hearing Commission 41 MoReg 1535 42 MoReg 270 
+1 CSR 15-3.410 Administrative Hearing Commission 41 MoReg 1535 42 MoReg 271 
+1 CSR 15-3.420 Administrative Hearing Commission 41 MoReg 1535 42 MoReg 271 
+1 CSR 15-3.425 Administrative Hearing Commission 41 MoReg 1536 42 MoReg 271 
+1 CSR 15-3.431 Administrative Hearing Commission 41 MoReg 1536 42 MoReg 271 
+1 CSR 15-3.446 Administrative Hearing Commission 41 MoReg 1537 42 MoReg 271 
+1 CSR 15-3.560 Administrative Hearing Commission 41 MoReg 1537 42 MoReg 272 
+1 CSR 15-3.580 Administrative Hearing Commission 41 MoReg 1538 42 MoReg 272 
+1 CSR 20-5.015 Personnel Advisory Board and Division of Personnel 41 MoReg 1538 
+1 CSR 20-5.020 Personnel Advisory Board and Division of Personnel 41 MoReg 1539 
+DEPARTMENT OF AGRICULTURE 
+2 CSR 90-1.010 Weights, Measures and Consumer Protection 42 MoReg 5 
+2 CSR 90-60.010 Weights, Measures and Consumer Protection 42 MoReg 6 
+2 CSR 90-60.020 Weights, Measures and Consumer Protection 42 MoReg 7 
+2 CSR 90-60.030 Weights, Measures and Consumer Protection 42 MoReg 7 
+2 CSR 90-60.040 Weights, Measures and Consumer Protection 42 MoReg 9 
+2 CSR 90-60.050 Weights, Measures and Consumer Protection 42 MoReg 9 
+2 CSR 90-60.060 Weights, Measures and Consumer Protection 42 MoReg 9 
+2 CSR 90-60.070 Weights, Measures and Consumer Protection 42 MoReg 10 
+2 CSR 90-61.010 Weights, Measures and Consumer Protection 42 MoReg 22 
+(Changed from 10 CSR 30-3.010) 
+2 CSR 90-61.020 Weights, Measures and Consumer Protection 42 MoReg 23 
+(Changed from 10 CSR 30-3.020) 
+2 CSR 90-61.040 Weights, Measures and Consumer Protection 42 MoReg 23 
+(Changed from 10 CSR 30-3.040) 
+2 CSR 90-61.050 Weights, Measures and Consumer Protection 42 MoReg 24 
+(Changed from 10 CSR 30-3.050) 
+2 CSR 90-61.070 Weights, Measures and Consumer Protection 42 MoReg 25 
+(Changed from 10 CSR 30-3.070) 
+2 CSR 90-61.080 Weights, Measures and Consumer Protection 42 MoReg 25 
+(Changed from 10 CSR 30-3.080) 
+2 CSR 90-62.010 Weights, Measures and Consumer Protection 42 MoReg 26 
+(Changed from 10 CSR 30-4.010) 
+2 CSR 90-62.020 Weights, Measures and Consumer Protection 42 MoReg 26 
+(Changed from 10 CSR 30-4.020) 
+2 CSR 90-62.030 Weights, Measures and Consumer Protection 42 MoReg 27 
+(Changed from 10 CSR 30-4.030) 
+2 CSR 90-62.040 Weights, Measures and Consumer Protection 42 MoReg 27 
+(Changed from 10 CSR 30-4.040) 
+2 CSR 90-62.050 Weights, Measures and Consumer Protection 42 MoReg 28 
+(Changed from 10 CSR 30-4.050) 
+2 CSR 90-62.060 Weights, Measures and Consumer Protection 42 MoReg 29 
+(Changed from 10 CSR 30-4.060) 
+2 CSR 90-63.010 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-5.011) 
+2 CSR 90-63.020 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-5.020) 
+2 CSR 90-64.010 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-6.010) 
+2 CSR 90-64.020 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-6.020) 
+2 CSR 90-64.030 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-6.030) 
+2 CSR 90-65.010 Weights, Measures and Consumer Protection 42 MoReg 10 
+2 CSR 90-65.020 Weights, Measures and Consumer Protection 42 MoReg 11 
+2 CSR 90-65.030 Weights, Measures and Consumer Protection 42 MoReg 11 
+2 CSR 90-65.040 Weights, Measures and Consumer Protection 42 MoReg 12 
+2 CSR 90-65.050 Weights, Measures and Consumer Protection 42 MoReg 12 
+406 
+April 3, 2017 Vol. 42, No. 7 
+Missouri Register Page 407 
+Rule Number Agency Emergency Proposed Order In Addition 
+2 CSR 90-65.060 Weights, Measures and Consumer Protection 42 MoReg 13 
+2 CSR 90-65.070 Weights, Measures and Consumer Protection 42 MoReg 13 
+2 CSR 90-65.080 Weights, Measures and Consumer Protection 42 MoReg 14 
+DEPARTMENT OF CONSERVATION 
+3 CSR 10-4.137 Conservation Commission This Issue 
+3 CSR 10-4.140 Conservation Commission This Issue 
+3 CSR 10-4.200 Conservation Commission This Issue 
+3 CSR 10-5.210 Conservation Commission 41 MoReg 1300 42 MoReg 213 
+3 CSR 10-5.220 Conservation Commission This Issue 
+3 CSR 10-6.415 Conservation Commission This Issue 
+3 CSR 10-6.505 Conservation Commission 41 MoReg 1303 42 MoReg 213 
+3 CSR 10-6.530 Conservation Commission 41 MoReg 1303 42 MoReg 215 
+3 CSR 10-7.455 Conservation Commission 42 MoReg 220 
+3 CSR 10-10.715 Conservation Commission This Issue 
+3 CSR 10-11.115 Conservation Commission This Issue 
+3 CSR 10-11.130 Conservation Commission This Issue 
+3 CSR 10-11.155 Conservation Commission This Issue 
+3 CSR 10-11.180 Conservation Commission This Issue 
+3 CSR 10-11.186 Conservation Commission This Issue 
+3 CSR 10-12.109 Conservation Commission This Issue 
+3 CSR 10-12.110 Conservation Commission This Issue 
+3 CSR 10-12.115 Conservation Commission This Issue 
+3 CSR 10-12.125 Conservation Commission N.A. This Issue 
+3 CSR 10-12.130 Conservation Commission This Issue 
+3 CSR 10-12.135 Conservation Commission This Issue 
+3 CSR 10-12.140 Conservation Commission N.A. This Issue 
+DEPARTMENT OF ECONOMIC DEVELOPMENT 
+4 CSR 240-2.135 Public Service Commission 42 MoReg 14 
+4 CSR 240-4.015 Public Service Commission 42 MoReg 17 
+4 CSR 240-4.017 Public Service Commission 42 MoReg 18 
+4 CSR 240-4.020 Public Service Commission 42 MoReg 18R 42 MoReg 19 
+4 CSR 240-4.030 Public Service Commission 42 MoReg 19 
+4 CSR 240-4.040 Public Service Commission 42 MoReg 20 
+4 CSR 240-4.050 Public Service Commission 42 MoReg 20 
+4 CSR 240-20.092 Public Service Commission 42 MoReg 160 
+4 CSR 240-20.093 Public Service Commission 42 MoReg 162 
+4 CSR 240-20.094 Public Service Commission 42 MoReg 168 
+4 CSR 240-40.020 Public Service Commission 41 MoReg 1896 
+4 CSR 240-40.030 Public Service Commission 41 MoReg 1898 
+4 CSR 240-40.080 Public Service Commission 41 MoReg 1907 
+4 CSR 265-2.020 Division of Motor Carrier and Railroad Safety 41 MoReg 1660R 
+4 CSR 265-2.030 Division of Motor Carrier and Railroad Safety 41 MoReg 1660 
+(Changed to 7 CSR 265-10.017) 
+4 CSR 265-2.040 Division of Motor Carrier and Railroad Safety 41 MoReg 1661R 
+4 CSR 265-2.050 Division of Motor Carrier and Railroad Safety 41 MoReg 1662 
+(Changed to 7 CSR 265-10.051) 
+4 CSR 265-2.055 Division of Motor Carrier and Railroad Safety 41 MoReg 1662 
+(Changed to 7 CSR 265-10.052) 
+4 CSR 265-2.057 Division of Motor Carrier and Railroad Safety 41 MoReg 1663R 
+4 CSR 265-2.065 Division of Motor Carrier and Railroad Safety 41 MoReg 1663R 
+4 CSR 265-2.067 Division of Motor Carrier and Railroad Safety 41 MoReg 1664R 
+4 CSR 265-2.069 Division of Motor Carrier and Railroad Safety 41 MoReg 1664R 
+4 CSR 265-2.160 Division of Motor Carrier and Railroad Safety 41 MoReg 1664R 
+4 CSR 265-2.170 Division of Motor Carrier and Railroad Safety 41 MoReg 1665R 
+4 CSR 265-2.200 Division of Motor Carrier and Railroad Safety 41 MoReg 1665R 
+4 CSR 265-6.030 Division of Motor Carrier and Railroad Safety 41 MoReg 1665R 
+4 CSR 265-14.010 Division of Motor Carrier and Railroad Safety 41 MoReg 1665R 
+4 CSR 340-2 Division of Energy 41 MoReg 1440 
+4 CSR 340-4.010 Division of Energy 41 MoReg 1895 41 MoReg 1907 
+4 CSR 340-6.010 Division of Energy 41 MoReg 1908 
+DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION 
+5 CSR 20-100.260 Division of Learning Services 42 MoReg 85 
+5 CSR 20-100.280 Division of Learning Services 42 MoReg 85 
+5 CSR 20-100.290 Division of Learning Services 42 MoReg 86 
+5 CSR 20-400.380 Division of Learning Services 41 MoReg 1797 
+5 CSR 20-400.385 Division of Learning Services 41 MoReg 1802 
+5 CSR 20-400.640 Division of Learning Services 41 MoReg 1540 This IssueW 
+5 CSR 30-261.025 Division of Financial and Administrative Services 41 MoReg 1909 
+DEPARTMENT OF HIGHER EDUCATION 
+6 CSR 10-2.190 Commissioner of Higher Education 41 MoReg 1465 42 MoReg 216 
+6 CSR 10-3.010 Commissioner of Higher Education 42 MoReg 174 
+6 CSR 10-11.010 Commissioner of Higher Education 42 MoReg 21 
+(Changed to 20 CSR 2200-7.010) 
+DEPARTMENT OF TRANSPORTATION 
+7 CSR Department of Transportation 41 MoReg 845 
+7 CSR 10-1.010 Missouri Highways and Transportation Commission 41 MoReg 1131 42 MoReg 272 
+7 CSR 10-1.020 Missouri Highways and Transportation Commission 41 MoReg 1666 
+7 CSR 10-2.030 Missouri Highways and Transportation Commission 41 MoReg 1666R 
+7 CSR 10-10.010 Missouri Highways and Transportation Commission 42 MoReg 86 
+7 CSR 10-10.020 Missouri Highways and Transportation Commission 42 MoReg 86 
+7 CSR 10-10.030 Missouri Highways and Transportation Commission 42 MoReg 87 
+7 CSR 10-10.040 Missouri Highways and Transportation Commission 42 MoReg 87 
+7 CSR 10-10.050 Missouri Highways and Transportation Commission 42 MoReg 87 
+7 CSR 10-10.070 Missouri Highways and Transportation Commission 42 MoReg 88 
+7 CSR 10-15.010 Missouri Highways and Transportation Commission 42 MoReg 88 
+Page 408 
+Rule Changes Since Update 
+April 3, 2017 Vol. 42, No. 7 
+Rule Number Agency Emergency Proposed Order In Addition 
+7 CSR 10-18.010 Missouri Highways and Transportation Commission 42 MoReg 90 
+7 CSR 10-18.020 Missouri Highways and Transportation Commission 42 MoReg 91 
+7 CSR 10-18.030 Missouri Highways and Transportation Commission 42 MoReg 91 
+7 CSR 10-18.040 Missouri Highways and Transportation Commission 42 MoReg 91 
+7 CSR 10-18.070 Missouri Highways and Transportation Commission 42 MoReg 92 
+7 CSR 10-18.090 Missouri Highways and Transportation Commission 42 MoReg 92 
+7 CSR 10-19.010 Missouri Highways and Transportation Commission 42 MoReg 93R 
+7 CSR 10-23.010 Missouri Highways and Transportation Commission 42 MoReg 93 
+7 CSR 10-23.020 Missouri Highways and Transportation Commission 42 MoReg 94 
+7 CSR 10-23.030 Missouri Highways and Transportation Commission 42 MoReg 94 
+7 CSR 10-25.010 
+Missouri Highways and Transportation Commission 
+41 MoReg 1666 
+42 MoReg 220 42 MoReg 221 42 MoReg 222 42 MoReg 318 42 MoReg 319 42 MoReg 319 42 MoReg 353 This Issue This Issue 
+7 CSR 10-25.020 Missouri Highways and Transportation Commission 41 MoReg 1668 
+7 CSR 10-25.030 Missouri Highways and Transportation Commission 41 MoReg 1680 
+7 CSR 10-25.070 Missouri Highways and Transportation Commission 41 MoReg 1681 
+7 CSR 10-25.072 Missouri Highways and Transportation Commission 41 MoReg 1682 
+7 CSR 10-25.080 Missouri Highways and Transportation Commission 41 MoReg 1683 
+7 CSR 10-26.010 Missouri Highways and Transportation Commission 42 MoReg 95 
+7 CSR 10-26.020 Missouri Highways and Transportation Commission 42 MoReg 95 
+7 CSR 60-1.010 Traffic and Highway Safety Division 41 MoReg 1684 
+7 CSR 60-1.020 Traffic and Highway Safety Division 41 MoReg 1685 
+7 CSR 60-1.030 Traffic and Highway Safety Division 41 MoReg 1686 
+7 CSR 60-1.050 Traffic and Highway Safety Division 41 MoReg 1687 
+7 CSR 60-1.060 Traffic and Highway Safety Division 41 MoReg 1687 
+7 CSR 60-2.010 Traffic and Highway Safety Division 41 MoReg 1688 
+7 CSR 60-2.020 Traffic and Highway Safety Division 41 MoReg 1689 
+7 CSR 60-2.030 Traffic and Highway Safety Division 41 MoReg 1690 
+7 CSR 60-2.040 Traffic and Highway Safety Division 41 MoReg 1695 
+7 CSR 60-2.050 Traffic and Highway Safety Division 41 MoReg 1699 
+7 CSR 60-2.060 Traffic and Highway Safety Division 41 MoReg 1699 
+7 CSR 60-3.010 Traffic and Highway Safety Division 41 MoReg 1721 
+(Changed from 11 CSR 30-3.010) 
+7 CSR 265-10.015 Motor Carrier and Railroad Safety 41 MoReg 1700 
+7 CSR 265-10.017 Motor Carrier and Railroad Safety 41 MoReg 1660 
+(Changed from 4 CSR 265-2.030) 
+7 CSR 265-10.025 Motor Carrier and Railroad Safety 41 MoReg 1701 
+7 CSR 265-10.051 Motor Carrier and Railroad Safety 41 MoReg 1662 
+(Changed from 4 CSR 265-2.050) 
+7 CSR 265-10.052 Motor Carrier and Railroad Safety 41 MoReg 1662 
+(Changed from 4 CSR 265-2.055) 
+7 CSR 265-10.055 Motor Carrier and Railroad Safety 41 MoReg 1701R 
+7 CSR 265-10.090 Motor Carrier and Railroad Safety 41 MoReg 1702R 
+7 CSR 265-10.140 Motor Carrier and Railroad Safety 41 MoReg 1702 
+DEPARTMENT OF LABOR AND INDUSTRIAL RELATIONS 
+8 CSR Department of Labor and Industrial Relations 41 MoReg 845 
+DEPARTMENT OF MENTAL HEALTH 
+9 CSR Department of Mental Health 41 MoReg 845 
+9 CSR 10-31.016 Director, Department of Mental Health 41 MoReg 1909 
+9 CSR 10-31.030 Director, Department of Mental Health 41 MoReg 1910 
+9 CSR 45-3.080 Division of Developmental Disabilities 42 MoReg 177 
+DEPARTMENT OF NATURAL RESOURCES 
+10 CSR Department of Natural Resources 41 MoReg 845 
+10 CSR 10-6.070 Air Conservation Commission 41 MoReg 1703 
+10 CSR 10-6.075 Air Conservation Commission 41 MoReg 1709 
+10 CSR 10-6.080 Air Conservation Commission 41 MoReg 1719 
+10 CSR 10-6.250 Air Conservation Commission 40 MoReg 1023 41 MoReg 37 
+10 CSR 20-8.500 Clean Water Commission 41 MoReg 1070 42 MoReg 349 
+10 CSR 26-2.010 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1133 
+10 CSR 26-2.011 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1134 
+10 CSR 26-2.012 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1135 
+10 CSR 26-2.013 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1138 
+10 CSR 26-2.019 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1139 
+10 CSR 26-2.020 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1147 
+10 CSR 26-2.021 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1150 
+10 CSR 26-2.022 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1159 
+10 CSR 26-2.030 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1159 
+10 CSR 26-2.031 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1161 
+10 CSR 26-2.032 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1162 
+10 CSR 26-2.033 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1162 
+April 3, 2017 Vol. 42, No. 7 
+Missouri Register Page 409 
+Rule Number Agency Emergency Proposed Order In Addition 
+10 CSR 26-2.034 Petroleum and Hazardous Substance Storage 
+Tanks 41 MoReg 1164 
+10 CSR 26-2.035 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1165 
+10 CSR 26-2.036 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1165 
+10 CSR 26-2.040 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1166 
+10 CSR 26-2.041 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1167 
+10 CSR 26-2.042 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1168 
+10 CSR 26-2.043 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1169 
+10 CSR 26-2.044 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1171 
+10 CSR 26-2.045 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1172 
+(Changed to 10 CSR 26-2.048) 
+10 CSR 26-2.046 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1172 
+41 MoReg 1308 
+10 CSR 26-2.047 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1173 
+41 MoReg 1309 
+10 CSR 26-2.048 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1172 
+(Changed from 10 CSR 26-2.045) 
+10 CSR 26-2.050 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1174 
+10 CSR 26-2.052 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1174 
+10 CSR 30-3.010 Land Survey 42 MoReg 22 
+(Changed to 2 CSR 90-61.010) 
+10 CSR 30-3.020 Land Survey 42 MoReg 23 
+(Changed to 2 CSR 90-61.020) 
+10 CSR 30-3.030 Land Survey 42 MoReg 23R 
+10 CSR 30-3.040 Land Survey 42 MoReg 23 
+(Changed to 2 CSR 90-61.040) 
+10 CSR 30-3.050 Land Survey 42 MoReg 24 
+(Changed to 2 CSR 90-61.050) 
+10 CSR 30-3.060 Land Survey 42 MoReg 24R 
+10 CSR 30-3.070 Land Survey 42 MoReg 25 
+(Changed to 2 CSR 90-61.070) 
+10 CSR 30-3.080 Land Survey 42 MoReg 25 
+(Changed to 2 CSR 90-61.080) 
+10 CSR 30-4.010 Land Survey 42 MoReg 26 
+(Changed to 2 CSR 90-62.010) 
+10 CSR 30-4.020 Land Survey 42 MoReg 26 
+(Changed to 2 CSR 90-62.020) 
+10 CSR 30-4.030 Land Survey 42 MoReg 27 
+(Changed to 2 CSR 90-62.030) 
+10 CSR 30-4.040 Land Survey 42 MoReg 27 
+(Changed to 2 CSR 90-62.040) 
+10 CSR 30-4.050 Land Survey 42 MoReg 28 
+(Changed to 2 CSR 90-62.050) 
+10 CSR 30-4.060 Land Survey 42 MoReg 29 
+(Changed to 2 CSR 90-62.060) 
+10 CSR 30-4.070 Land Survey 42 MoReg 30R 
+DEPARTMENT OF PUBLIC SAFETY 
+11 CSR 30-3.010 Office of the Director 41 MoReg 1721 
+(Changed to 7 CSR 60-3.010) 
+11 CSR 30-16.010 Office of the Director 42 MoReg 180 
+11 CSR 30-16.020 Office of the Director 42 MoReg 182 
+11 CSR 45-1.100 Missouri Gaming Commission 41 MoReg 1261 41 MoReg 1309 42 MoReg 272 
+11 CSR 45-3.010 Missouri Gaming Commission 41 MoReg 1262 41 MoReg 1310 42 MoReg 272 
+11 CSR 45-4.020 Missouri Gaming Commission 41 MoReg 1543 
+11 CSR 45-5.053 Missouri Gaming Commission 41 MoReg 1543 
+11 CSR 45-5.183 Missouri Gaming Commission 41 MoReg 1804 
+11 CSR 45-5.184 Missouri Gaming Commission 41 MoReg 1804 
+11 CSR 45-9.104 Missouri Gaming Commission 41 MoReg 1804 
+11 CSR 45-9.120 Missouri Gaming Commission 41 MoReg 1544 
+11 CSR 45-12.090 Missouri Gaming Commission 41 MoReg 1310 42 MoReg 273 
+11 CSR 45-13.054 Missouri Gaming Commission 41 MoReg 1262 41 MoReg 1311 42 MoReg 273 
+11 CSR 45-13.055 Missouri Gaming Commission 41 MoReg 1263 41 MoReg 1312 42 MoReg 273 
+11 CSR 45-13.065 Missouri Gaming Commission 41 MoReg 1264 41 MoReg 1312 42 MoReg 274 
+11 CSR 45-17.030 Missouri Gaming Commission 41 MoReg 1265 41 MoReg 1313 42 MoReg 274 
+11 CSR 45-17.040 Missouri Gaming Commission 41 MoReg 1266 41 MoReg 1313 42 MoReg 274 
+11 CSR 45-40.010 Missouri Gaming Commission 41 MoReg 1267 41 MoReg 1313 42 MoReg 275 
+11 CSR 45-40.020 Missouri Gaming Commission 41 MoReg 1268 41 MoReg 1314 42 MoReg 275 
+11 CSR 45-40.030 Missouri Gaming Commission 41 MoReg 1269 41 MoReg 1315 42 MoReg 276 
+11 CSR 45-40.040 Missouri Gaming Commission 41 MoReg 1270 41 MoReg 1316 42 MoReg 277 
+11 CSR 45-40.050 Missouri Gaming Commission 41 MoReg 1271 41 MoReg 1316 42 MoReg 278 
+11 CSR 45-40.060 Missouri Gaming Commission 41 MoReg 1273 41 MoReg 1320 42 MoReg 279 
+11 CSR 45-40.070 Missouri Gaming Commission 41 MoReg 1274 41 MoReg 1323 42 MoReg 280 
+11 CSR 45-40.090 Missouri Gaming Commission 41 MoReg 1275 41 MoReg 1323 42 MoReg 280 
+11 CSR 45-40.100 Missouri Gaming Commission 41 MoReg 1276 41 MoReg 1323 42 MoReg 280 
+DEPARTMENT OF REVENUE 
+12 CSR 10-41.010 Director of Revenue 41 MoReg 1755 41 MoReg 1805 42 MoReg 351 
+12 CSR 30-4.010 State Tax Commission 41 MoReg 160 
+Page 410 
+Rule Changes Since Update 
+April 3, 2017 Vol. 42, No. 7 
+Rule Number Agency Emergency Proposed Order In Addition 
+DEPARTMENT OF SOCIAL SERVICES 
+13 CSR 30-1.010 Child Support Enforcement 41 MoReg 1544R 
+13 CSR 30-2.020 Child Support Enforcement 41 MoReg 1544R 
+13 CSR 35-31.050 Children’s Division 41 MoReg 1324 42 MoReg 216 
+13 CSR 35-32.010 Children’s Division 42 MoReg 182R 
+13 CSR 35-32.050 Children’s Division 42 MoReg 183 
+13 CSR 35-32.060 Children’s Division 42 MoReg 185 
+13 CSR 35-32.070 Children’s Division 42 MoReg 187 
+13 CSR 35-32.080 Children’s Division 42 MoReg 195 
+13 CSR 35-32.090 Children’s Division 42 MoReg 203 
+13 CSR 35-32.100 Children’s Division 42 MoReg 206 
+13 CSR 35-32.110 Children’s Division 42 MoReg 206 
+13 CSR 35-32.120 Children’s Division 42 MoReg 207 
+13 CSR 35-32.130 Children’s Division 42 MoReg 208 
+13 CSR 40-1.010 Family Support Division 41 MoReg 1545 
+13 CSR 40-2.250 Family Support Division 41 MoReg 1335R 42 MoReg 216R 
+13 CSR 40-15.455 Family Support Division 41 MoReg 1546 This Issue 
+13 CSR 40-19.010 Family Support Division 41 MoReg 1551R This IssueR 
+13 CSR 40-19.020 Family Support Division 41 MoReg 1551 This Issue 
+13 CSR 40-19.030 Family Support Division 41 MoReg 1555R This IssueR 
+13 CSR 65-3.050 Missouri Medicaid Audit and Compliance Unit 41 MoReg 1556 
+13 CSR 70-3.030 MO HealthNet Division 41 MoReg 1557 
+13 CSR 70-3.240 MO HealthNet Division 41 MoReg 1558 
+13 CSR 70-4.090 MO HealthNet Division 41 MoReg 1468 42 MoReg 351 
+13 CSR 70-10.016 MO HealthNet Division 41 MoReg 1054 
+13 CSR 70-10.030 MO HealthNet Division 41 MoReg 1127 41 MoReg 1175 42 MoReg 216 
+13 CSR 70-15.220 MO HealthNet Division 42 MoReg 209 
+ELECTED OFFICIALS 
+15 CSR 30-70.010 Secretary of State 41 MoReg 1463 41 MoReg 1472 42 MoReg 281 
+15 CSR 30-70.020 Secretary of State 41 MoReg 1463 41 MoReg 1472 42 MoReg 281 
+15 CSR 30-70.030 Secretary of State 41 MoReg 1464 41 MoReg 1472 42 MoReg 281 
+15 CSR 30-110.010 Secretary of State 42 MoReg 155 42 MoReg 211 42 MoReg 255 
+15 CSR 30-110.020 Secretary of State 42 MoReg 156 42 MoReg 211 42 MoReg 256 
+15 CSR 40-1.010 State Auditor 42 MoReg 212 
+DEPARTMENT OF HEALTH AND SENIOR SERVICES 
+19 CSR 15-8.410 Division of Senior and Disability Services 40 MoReg 131 
+19 CSR 30-1.002 Division of Regulation and Licensure 41 MoReg 1563 This Issue 
+19 CSR 60-50 Missouri Health Facilities Review Committee 42 MoReg 223 42 MoReg 320 42 MoReg 354 
+This Issue 
+DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION 
+20 CSR Applied Behavior Analysis Maximum Benefit 42 MoReg 321 
+20 CSR Construction Claims Binding Arbitration Cap 41 MoReg 1925 
+20 CSR Sovereign Immunity Limits 41 MoReg 1925 
+20 CSR State Legal Expense Fund Cap 41 MoReg 1925 
+20 CSR 400-5.100 Life, Annuities and Health 41 MoReg 1574 42 MoReg 282 
+20 CSR 400-5.400 Life, Annuities and Health 41 MoReg 1579 This Issue 
+20 CSR 400-5.410 Life, Annuities and Health 41 MoReg 1595R 42 MoReg 282R 
+20 CSR 400-5.800 Life, Annuities and Health 41 MoReg 1595 42 MoReg 282 
+20 CSR 400-5.900 Life, Annuities and Health 41 MoReg 1617 42 MoReg 283 
+20 CSR 400-13.100 Life, Annuities and Health 41 MoReg 1619 42 MoReg 283 
+20 CSR 700-1.145 Insurance Licensing 41 MoReg 1621 42 MoReg 284W 
+20 CSR 700-1.146 Insurance Licensing 41 MoReg 1622 42 MoReg 285 
+20 CSR 700-1.147 Insurance Licensing 41 MoReg 1624 42 MoReg 285 
+20 CSR 700-1.148 Insurance Licensing 41 MoReg 1627R 42 MoReg 285R 
+20 CSR 700-1.170 Insurance Licensing 41 MoReg 1280 41 MoReg 1343 42 MoReg 217 
+20 CSR 2015-1.030 Acupuncturist Advisory Committee 42 MoReg 156 
+20 CSR 2030-16.010 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 30 
+20 CSR 2030-16.020 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 31R 42 MoReg 31 
+20 CSR 2030-16.030 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 32R 42 MoReg 32 
+20 CSR 2030-16.040 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 33R 42 MoReg 34 
+20 CSR 2030-16.050 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 34R 42 MoReg 35 
+20 CSR 2030-16.060 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 35R 42 MoReg 35 
+20 CSR 2030-16.070 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 36R 
+20 CSR 2030-16.080 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 36R 
+April 3, 2017 Vol. 42, No. 7 
+Missouri Register Page 411 
+Rule Number Agency Emergency Proposed Order In Addition 
+20 CSR 2030-16.090 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 37R 
+20 CSR 2030-16.100 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 37R 
+20 CSR 2030-16.110 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 37R 42 MoReg 38 
+20 CSR 2030-17.010 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 38 
+20 CSR 2030-17.020 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 38 
+20 CSR 2030-17.030 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 39R 
+20 CSR 2030-17.040 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 39 
+20 CSR 2030-17.050 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 40 
+20 CSR 2030-17.060 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 40R 
+20 CSR 2030-17.070 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 41 
+20 CSR 2030-17.080 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 41 
+20 CSR 2030-18.010 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 42 
+20 CSR 2030-18.020 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 42 
+20 CSR 2030-18.030 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 43 
+20 CSR 2030-18.040 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 43 
+20 CSR 2030-18.050 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 44 
+20 CSR 2030-18.060 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 45 
+20 CSR 2030-18.070 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 46R 
+20 CSR 2030-19.010 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 41 MoReg 1808 42 MoReg 352 
+20 CSR 2030-19.020 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 46 
+20 CSR 2030-20.030 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 41 MoReg 1808 42 MoReg 352 
+20 CSR 2070-2.090 State Board of Chiropractic Examiners 41 MoReg 1525 
+20 CSR 2085-3.010 Board of Cosmetology and Barber Examiners 41 MoReg 1809 42 MoReg 352 
+20 CSR 2095-1.020 Committee for Professional Counselors 41 MoReg 1722 42 MoReg 317 
+20 CSR 2120-2.100 State Board of Embalmers and Funeral Directors 41 MoReg 373 41 MoReg 1911 
+20 CSR 2197-1.040 Board of Therapeutic Massage 41 MoReg 825 
+20 CSR 2200-7.001 State Board of Nursing 42 MoReg 48 
+20 CSR 2200-7.010 State Board of Nursing 42 MoReg 21 
+(Changed from 6 CSR 10-11.010) 
+20 CSR 2220-2.095 State Board of Pharmacy 41 MoReg 1376 42 MoReg 219 
+20 CSR 2230-2.070 State Board of Podiatric Medicine 40 MoReg 1875 
+20 CSR 2270-1.021 Missouri Veterinary Medical Board 42 MoReg 95 
+MISSOURI CONSOLIDATED HEALTH CARE PLAN 
+22 CSR 10-2.010 Health Care Plan 41 MoReg 1755 41 MoReg 1816 
+22 CSR 10-2.020 Health Care Plan 41 MoReg 1758 41 MoReg 1818 
+22 CSR 10-2.025 Health Care Plan 41 MoReg 1819 
+22 CSR 10-2.030 Health Care Plan 41 MoReg 1759 41 MoReg 1820 
+22 CSR 10-2.051 Health Care Plan 41 MoReg 1760 41 MoReg 1820 
+22 CSR 10-2.052 Health Care Plan 41 MoReg 1760 41 MoReg 1821 
+22 CSR 10-2.053 Health Care Plan 41 MoReg 1761 41 MoReg 1821 
+22 CSR 10-2.055 Health Care Plan 41 MoReg 1763 41 MoReg 1823 
+22 CSR 10-2.060 Health Care Plan 41 MoReg 1772 41 MoReg 1831 
+22 CSR 10-2.089 Health Care Plan 41 MoReg 1773 41 MoReg 1833 
+22 CSR 10-2.090 Health Care Plan 41 MoReg 1774 41 MoReg 1834 
+22 CSR 10-2.094 Health Care Plan 41 MoReg 1296R 41 MoReg 1380R 42 MoReg 285R 41 MoReg 1296 41 MoReg 1380 42 MoReg 286 
+Page 412 
+Rule Changes Since Update 
+April 3, 2017 Vol. 42, No. 7 
+Rule Number Agency Emergency Proposed Order In Addition 
+22 CSR 10-2.110 Health Care Plan 41 MoReg 1776 41 MoReg 1836 
+22 CSR 10-2.120 Health Care Plan 41 MoReg 1297R 41 MoReg 1381R 42 MoReg 286R 41 MoReg 1298 41 MoReg 1382 42 MoReg 286 
+22 CSR 10-2.150 Health Care Plan 41 MoReg 1777R 41 MoReg 1836R 
+22 CSR 10-3.010 Health Care Plan 41 MoReg 1778 41 MoReg 1837 
+22 CSR 10-3.020 Health Care Plan 41 MoReg 1780 41 MoReg 1839 
+22 CSR 10-3.053 Health Care Plan 41 MoReg 1781 41 MoReg 1839 
+22 CSR 10-3.055 Health Care Plan 41 MoReg 1781 41 MoReg 1840 
+22 CSR 10-3.056 Health Care Plan 41 MoReg 1782 41 MoReg 1841 
+22 CSR 10-3.057 Health Care Plan 41 MoReg 1783 41 MoReg 1841 
+22 CSR 10-3.060 Health Care Plan 41 MoReg 1792 41 MoReg 1851 
+22 CSR 10-3.090 Health Care Plan 41 MoReg 1794 41 MoReg 1852 
+22 CSR 10-3.150 Health Care Plan 41 MoReg 1796R 41 MoReg 1854R 
+April 3, 2017 Emergency Rule Table MISSOURI Vol. 42, No. 7 REGISTER 
+
+Agency 
+Department of Agriculture Animal Health 2 CSR 30-10.010 Inspection of Meat and Poultry 
+Department of Economic Development Division of Energy 4 CSR 340-4.010 Wood Energy Credit . . . . . . . 
+Department of Revenue Director of Revenue 
+Publication 
+. . . . . . . . . . . . . . . . . .May 1, 2017 Issue 
+Effective 
+. .April 3, 2016 
+Expiration 
+. . . . .Jan. 10,2018 
+. . . . .May 22, 2017 
+. . . . .June 29, 2017 
+. . . . .June 28, 2017 . . . . .June 28, 2017 
+. . . . . .Jan. 3, 2018 
+. . . . .April 3, 2017 . . . . .July 11, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 
+12 CSR 10-41.010 
+Elected Officials Secretary of State 15 CSR 30-110.010 15 CSR 30-110.020 
+Annual Adjusted Rate of Interest 
+Electronic Notary Definitions . . Electronic Signatures and Seals 
+. . . . . . . . . . . . . . . . . .41 MoReg 1895 
+. . . . . . . . . . . . . . . . . .41 MoReg 1755 
+. . . . . . . . . . . . . . . . . .42 MoReg 255 . . . . . . . . . . . . . . . . . .42 MoReg 256 
+. . .Nov. 24, 2016 
+. . . . .Jan. 1, 2017 
+. . . .Dec. 31, 2016 . . . .Dec. 31, 2016 
+Department of Health and Senior Services Division of Regulation and Licensure 19 CSR 30-40.309 Application and Licensure Requirements Standards for the 
+Licensure and Relicensure of Ground Ambulance Services Next Issue . . . . . .March 26, 2017 
+Department of Insurance, Financial Institutions and Professional Registration State Board of Chiropractic Examiners 
+20 CSR 2070-2.090 Fees . . . . . . . . . . . . . . . . . . Acupuncturist Advisory Committee 
+20 CSR 2015-1.030 Fees . . . . . . . . . . . . . . . . . . 
+Missouri Consolidated Health Care Plan Health Care Plan 
+22 CSR 10-2.010 22 CSR 10-2.020 22 CSR 10-2.030 22 CSR 10-2.051 22 CSR 10-2.052 22 CSR 10-2.053 
+22 CSR 10-2.055 22 CSR 10-2.060 
+22 CSR 10-2.089 
+22 CSR 10-2.090 22 CSR 10-2.110 22 CSR 10-2.150 
+22 CSR 10-3.010 22 CSR 10-3.020 22 CSR 10-3.053 22 CSR 10-3.055 
+22 CSR 10-3.056 22 CSR 10-3.057 22 CSR 10-3.060 
+22 CSR 10-3.090 22 CSR 10-3.150 
+. ............... . ............... . ............... 
+. .41 MoReg 1755 . .41 MoReg 1758 . .41 MoReg 1759 . .41 MoReg 1760 . .41 MoReg 1760 
+. .41 MoReg 1761 . .41 MoReg 1763 
+. .41 MoReg 1772 
+. .41 MoReg 1773 . .41 MoReg 1774 . .41 MoReg 1776 
+. .41 MoReg 1777 . .41 MoReg 1778 . .41 MoReg 1780 . .41 MoReg 1781 
+. .41 MoReg 1781 . .41 MoReg 1782 . .41 MoReg 1783 
+. .41 MoReg 1792 . .41 MoReg 1794 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. ............... . ............... 
+Definitions . . . . . . . . . . . . . . General Membership Provisions Contributions . . . . . . . . . . . . PPO 300 Plan Benefit Provisions and Covered Charges . PPO 600 Plan Benefit Provisions and Covered Charges . Health Savings Account Plan Benefit Provisions 
+and Covered Charges . . . . . . . . . . . . . . . . . . . . . . . Medical Plan Benefit Provisions and Covered Charges . . PPO 300 Plan, PPO 600 Plan, and Health Savings 
+Account Plan Limitations . . . . . . . . . . . . . . . . . . . . Pharmacy Employer Group Waiver Plan for Medicare 
+Primary Members . . . . . . . . . . . . . . . . . . . . . . . . . Pharmacy Benefit Summary . . . . . . . . . . . . . . . . . . . General Foster Parent Membership Provisions . . . . . . . Disease Management Services Provisions and 
+Limitations (Res) . . . . . . . . . . ............... Definitions . . . . . . . . . . . . . . . ............... General Membership Provisions . ............... PPO 1000 Plan Benefit Provisions and Covered Charges Health Savings Account Plan Benefit Provisions 
+and Covered Charges . . . . . . . . . . . . . . . . . . . . . . . PPO 600 Plan Benefit Provisions and Covered Charges . Medical Plan Benefit Provisions and Covered Charges . . PPO 600 Plan, PPO 1000 Plan, and Health Savings 
+Account Plan Limitations . . . . . . . . . . . . . . . . . . . . Pharmacy Benefit Summary . . . . . . . . . . . . . . . . . . . Disease Management Services Provisions and 
+. .41 MoReg 1525 . . .Sept. 26, 2016 . .42 MoReg 156 . . . . .Jan. 13, 2017 
+Limitations (Res) . . . . . . . . . . . . . . . . . . . . . . . . . 
+. .41 MoReg 1796 
+. . . . .Jan. 1, 2017 
+. . . . .June 29, 2017 
+413 
+MISSOURI Executive Orders April 3, 2017 REGISTER Vol. 42, No. 7 
+
+Executive Orders 
+17-09 
+Subject Matter 
+Filed Date 
+March 13, 2017 
+Publication 
+Next Issue 
+2017 
+
+Establishes parental leave for state employees of the executive branch of Missouri state government and encourages other state officials to adopt comparable policies. 
+17-08 Declares a State of Emergency and activates the Missouri State Emergency Operations Plan due to severe weather that began on March 6. March 7, 2017 Next Issue 
+17-07 Establishes the Governor’s Committee for Simple, Fair, and Low Taxes to recommend proposed reforms to the governor by June 30, 2017. January 25, 2017 42 MoReg 315 
+17-06 Orders that the Missouri State Emergency Operations Plan be activated. Further orders state agencies to provide assistance to the maximum extent practicable and directs the Adjutant General to call into service such portions of the organized militia as he deems necessary. January 12, 2017 42 MoReg 267 
+17-05 Activates the Missouri State Emergency Operation Center due to severe weather expected to begin on Jan. 12, 2017. January 11, 2017 42 MoReg 266 
+17-04 Establishes the position of Chief Operating Officer to report directly to the governor and serve as a member of the governor’s executive team. January 11, 2017 42 MoReg 264 
+17-03 Orders every state agency to immediately suspend all rulemaking until Feb. 28, 2017, and to complete a review of every regulation under its jurisdiction within the Code of State Regulations by May 31, 2018. January 10, 2017 42 MoReg 261 
+17-02 Orders state employees of the executive branch of Missouri state government to follow a specified code of conduct regarding ethics during the Greitens administration. January 9, 2017 42 MoReg 258 
+17-01 Rescinds Executive Orders 07-10, 88-26, 98-15, and 05-40 regarding the Governor’s Advisory Council on Physical Fitness and Health and the Missouri State Park Advisory Board. January 6, 2017 42 MoReg 257 
+2016 
+16-10 Reauthorizes the Governor’s Committee to End Chronic Homelessness until December 31, 2020. December 30, 2016 42 MoReg 159 
+ 
+16-09 Advises that state offices in Cole County will be closed on Monday January 9, 2017. December 23, 2016 42 MoReg 158 
+16-08 Advises that state offices will be closed on Friday, November 25, 2016. October 24, 2016 41 MoReg 1659 
+16-07 Declares that a State of Emergency exists in the State of Missouri and directs that the Missouri State Emergency Operations Plan be activated as a result of storms that began on May 25, 2016. This order shall terminate on June 26, 2016, unless extended. May 27, 2016 41 MoReg 830 
+16-06 Declares that the next Missouri Poet Laureate will be named in June 2016 and directs that a Missouri Poet Laureate be named biennially to serve for two years at the pleasure of the governor. The order also includes qualifications and responsibilities for the post. Additionally the Missouri Poet Laureate Advisory Committee is hereby established. May 27, 2016 41 MoReg 828 
+16-05 Directs the Department of Public Safety, with guidance from the Missouri Veteran’s Commission and the Adjutant General of the State of Missouri, to coordinate events with the World War I Centennial Commission that recognize and remember efforts and sacrifices of all Americans during World War I. May 27, 2016 41 MoReg 826 
+16-04 Orders all departments, agencies and boards, and commissions, in the Executive Branch subject to the authority of the governor to take all necessary action to amend initial employment applications by removing questions related to an individual’s criminal history unless a criminal history would render an applicant ineligible for the position. April 11, 2016 41 MoReg 658 
+16-03 Extends Executive Orders 15-10, 15-11, and 16-02 until February 22, 2016, due to severe weather that began on December 22, 2015. Jan. 22, 2016 41 MoReg 299 
+16-02 Gives the director of the Department of Natural Resources the authority to temporarily suspend regulations in the aftermath of severe weather that began on December 22, 2015. Jan. 6, 2016 41 MoReg 235 
+16-01 Designates members of the governor’s staff to have supervisory authority over certain departments, divisions, and agencies. Jan. 4, 2016 41 MoReg 153 
+414 
+
+April 3, 2017 Vol. 42, No. 7 
+Index 
+MISSOURI REGISTER 
+
+The rule number and the MoReg publication date follow each entry to this index. 
+ACUPUNCTURIST ADVISORY COMMITTEE 
+fees; 20 CSR 2015-1.030; 2/1/17 
+ADMINISTRATION, OFFICE OF 
+answers and other responsive pleadings; 1 CSR 15-3.380; 11/1/16, 2/15/17 
+certification of records; 1 CSR 15-3.580; 11/1/16, 2/15/17 closing of case records and hearings; 1 CSR 15-3.410; 11/1/16, 
+2/15/17 complaints; 1 CSR 15-3.350; 11/1/16, 2/15/17 decision on the complaint without a hearing; 1 CSR 15-3.446; 
+11/1/16, 2/15/17 definition of terms; 1 CSR 20-5.015; 11/1/16 definitions; 1 CSR 15-3.210; 11/1/16, 2/15/17 discovery; 1 CSR 15-3.420; 11/1/16, 2/15/17 fees and expenses; 1 CSR 15-3.560; 11/1/16, 2/15/17 filing of documents; 1 CSR 15-3.290; 11/1/16, 2/15/17 intervention; 1 CSR 15-3.390; 11/1/16, 2/15/17 leaves of absence; 1 CSR 20-5.020; 11/1/16 practice by a licensed attorney; when required; 1 CSR 15-3.250; 
+11/1/16, 2/15/17 sanctions; 1 CSR 15-3.425; 11/1/16, 2/15/17 service of filings other than the original complaint; 1 CSR 15- 
+3.270; 11/1/16, 2/15/17 state official’s salary compensation schedule; 1 CSR 10; 10/17/16 state of Missouri–Social Security manual; 1 CSR 10-12.011; 
+11/1/16, 2/15/17 stay of action under review; 1 CSR 15-3.320; 11/1/16, 2/15/17 subject matter; 1 CSR 15-3.200; 11/1/16, 2/15/17 voluntary dismissal, settlement, and consent orders; 1 CSR 15- 
+3.431; 11/1/16, 2/15/17 
+AGRICULTURE, DEPARTMENT OF 
+animal health inspection of meat and poultry; 2 CSR 30-10.010; 11/16/15, 
+9/1/16 Missouri agricultural and small business development authority 
+Missouri dairy scholars program; 2 CSR 100-11.020; 5/2/16, 8/15/16 
+weights, measures, and consumer protection acceptance and publication by Missouri Department of 
+Agriculture; 2 CSR 90-62.040; 1/3/17 accuracy standard; 2 CSR 90-65.070; 1/3/17 accuracy of horizontal controls; 2 CSR 90-62.030; 1/3/17 accuracy standards for property boundary surveys; 2 CSR 90- 
+60.040; 1/3/17 application of standards 
+2 CSR 90-60.010; 1/3/17 
+2 CSR 90-65.010; 1/3/17 approved documents; 2 CSR 90-61.080; 1/3/17 approved monumentation; 2 CSR 90-60.060; 1/3/17 authorization for removal or alteration of corners; 2 CSR 90- 
+61.020; 1/3/17 coordinate system for digital cadastral parcel mapping speci- 
+fied; 2 CSR 90-65.040; 1/3/17 definitions 
+2 CSR 90-60.020; 1/3/17 2 CSR 90-61.010; 1/3/17 2 CSR 90-62.010; 1/3/17 2 CSR 90-65.030; 1/3/17 
+digital cadastral parcel mapping requirements pertaining to land parcels; 2 CSR 90-65.060; 1/3/17 
+digital cadastral parcel mapping requirements pertaining to the United States public land survey system; 2 CSR 90- 65.050; 1/3/17 
+disclaimer; 2 CSR 90-65.080; 1/3/17 general land surveying requirements; 2 CSR 90-60.030; 
+1/3/17 general organization; 2 CSR 90-1.010; 1/3/17 GPS survey guidelines; 2 CSR 90-62.050; 1/3/17 horizontal control classification; 2 CSR 90-62.020; 1/3/17 
+location of improvements and easements; 2 CSR 90-60.070; 1/3/17 
+Missouri coordinate system of 1983; 2 CSR 90-61.070; 1/3/17 monumentation; 2 CSR 90-61.050; 1/3/17 organization and description; 2 CSR 90-65.020; 1/3/17 procedure for filing documents; 2 CSR 90-61.040; 1/3/17 traverse survey guidelines; 2 CSR 90-62.060; 1/3/17 
+use of Missouri coordinate system of 1983; 2 CSR 90-60.050; 1/3/17 
+AIR CONSERVATION COMMISSION 
+emission standard for hazardous air pollutants; 10 CSR 10-6.080; 11/15/16 
+maximum achievable control technology regulations; 10 CSR 10- 6.075; 11/15/16 
+new source performance regulations; 10 CSR 10-6.070; 11/15/16 
+ARCHITECTS, PROFESSIONAL ENGINEERS, PROFES- SIONAL LAND SURVEYORS, AND PROFESSIONAL LAND- SCAPE ARCHITECTS, MISSOURI BOARD FOR acceptance and publication by Missouri Department of Agriculture; 
+20 CSR 2030-18.040; 1/3/17 accuracy of horizontal control; 20 CSR 2030-18.030; 1/3/17 accuracy standards for property boundary surveys; 20 CSR 2030- 
+16.040; 1/3/17 application of schedule; 20 CSR 2030-16.010; 1/3/17 approved documents; 20 CSR 2030-17.080; 1/3/17 approved monumentation; 20 CSR 2030-16.060; 1/3/17 authorization for removal or alteration of corners; 20 CSR 2030- 
+17.020; 1/3/17 certificate of the map; 20 CSR 2030-20.030; 12/1/16, 3/15/17 definitions 
+20 CSR 2030-16.020; 1/3/17 20 CSR 2030-17.010; 1/3/17 20 CSR 2030-18.010; 1/3/17 
+detail requirements for condominium surveys; 20 CSR 2030- 16.100; 1/3/17 
+detail requirements for original surveys; 20 CSR 2030-16.080; 1/3/17 
+detail requirements for resurveys; 20 CSR 2030-16.070; 1/3/17 detail requirements for subdivision surveys; 20 CSR 2030-16.090; 
+1/3/17 general land surveying requirements; 20 CSR 2030-16.030; 1/3/17 GPS survey guidelines; 20 CSR 2030-18.050; 1/3/17 horizontal control classifications; 20 CSR 2030-18.020; 1/3/17 location of improvements and easements; 20 CSR 2030-16.110; 
+1/3/17 Missouri coordinate system of 1983; 20 CSR 2030-17.070; 1/3/17 monumentation; 20 CSR 2030-17.050; 1/3/17 monument marking; 20 CSR 2030-17.060; 1/3/17 procedure for filing documents; 20 CSR 2030-17.040; 1/3/17 reestablished or restored corners; 20 CSR 2030-17.030; 1/3/17 required work order form; 20 CSR 2030-19.020; 1/3/17 surveyor’s real property report; 20 CSR 2030-19.010; 12/1/16, 
+3/15/17 traverse survey guidelines; 20 CSR 2030-18.060; 1/3/17 use of Missouri coordinate system of 1983; 20 CSR 2030-16.050; 
+1/3/17 use of Missouri coordinate system, 1983; 20 CSR 2030-16.050; 
+1/3/17 waiver of 1 KM limitation; 20 CSR 2030-18.070; 1/3/17 
+AUDITOR, STATE 
+function and organization of auditor’s office; 15 CSR 40-1.010; 2/1/17 
+CERTIFICATE OF NEED PROGRAM 
+application review schedule; 19 CSR 60-50; 2/1/17, 3/1/17, 3/15/17, 4/3/17 
+CHILDREN’S DIVISION 
+basis of payment; 13 CSR 35-32.010; 2/1/17 child care provider overpayments; 13 CSR 35-32.110; 2/1/17 
+415 
+  
+Page 416 
+Index 
+April 3, 2017 Vol. 42, No. 7 
+
+consent to termination of parental rights and/or adoption; 13 CSR 35-31.050; 10/3/16, 2/1/17 
+definitions; 13 CSR 35-32.050; 2/1/17 eligibility and authorization for child care subsidy; 13 CSR 35- 
+32.060; 2/1/17 participant overpayments; 13 CSR 35-32.100; 2/1/17 recordkeeping; 13 CSR 35-32.130; 2/1/17 registration requirements for child care facilities that are license 
+exempt; 13 CSR 35-32.080; 2/1/17 registration requirements for child care providers serving four or 
+less unrelated children; 13 CSR 35-32.070; 2/1/17 regulatory and contractual violations of registered child care 
+providers; 13 CSR 35-32.120; 2/1/17 requirements for licensed child care facilities to contract for state or 
+federal child care funds; 13 CSR 35-32.090; 2/1/17 screening and classification of child abuse/neglect hotline reports 
+13 CSR 35-20.010; 10/3/16 13 CSR 35-31.020; 10/3/16 
+CHILD SUPPORT ENFORCEMENT 
+financial performance measures for counties under contract with the Missouri Division of Child Support Enforcement for the provisions of total control child support services in local jurisdictions (Level A counties); 13 CSR 30-2.020; 11/1/16 
+organization and operation; 13 CSR 30-1.010; 11/1/16 
+CHIROPRACTIC EXAMINERS, STATE BOARD OF 
+fees; 20 CSR 2070-2.090; 11/1/16 
+CLEAN WATER COMMISSION 
+design requirements for agrichemical facilities; 10 CSR 20-8.500; 9/1/16, 3/15/17 
+CONSERVATION, DEPARTMENT OF 
+black bass; 3 CSR 10-6.505; 10/3/16, 2/1/17 bullfrogs and green frogs; 3 CSR 10-12.115; 4/3/17 chronic wasting disease, management zone; 3 CSR 10-4.200; 
+4/3/17 closed hours; 3 CSR 10-12.109; 4/3/17 closings; 3 CSR 10-11.115; 4/3/17 decoys and blinds; 3 CSR 10-11.155; 4/3/17 fishing 
+daily and possession limits; 3 CSR 10-12.140; 4/3/17 general provisions and seasons; 3 CSR 10-12.130; 4/3/17 length limits 
+3 CSR 10-11.215; 10/3/16, 2/1/17 
+3 CSR 10-12.145; 10/3/16 methods; 3 CSR 10-12.135; 4/3/17 
+google-eye (Ozark bass, rock bass, and shadow bass) and war- mouth; 3 CSR 10-6.530; 10/3/16, 2/1/17 
+hunting and trapping; 3 CSR 10-12.125; 4/3/17 hunting, general provisions, and seasons; 3 CSR 10-11.180; 4/3/17 permits to be signed and carried; 3 CSR 10-5.210; 10/3/16, 2/1/17 possession, storage, and processing; 3 CSR 10-4.140; 4/3/17 resident and nonresident fur dealers; reports, requirements; 3 CSR 
+10-10.715; 4/3/17 resident and nonresident permits; 3 CSR 10-5.220; 4/3/17 restricted zones; 3 CSR 10-6.415; 4/3/17 turkey: seasons, methods, limits; 3 CSR 10-7.455; 2/1/17 use of boats and motors; 3 CSR 10-12.110; 4/3/17 vehicles, bicycles, horses, and horseback riding; 3 CSR 10-11.130; 
+4/3/17 waterfowl hunting; 3 CSR 10-11.186; 4/3/17 wildlife identification; 3 CSR 10-4.137; 4/3/17 
+COSMETOLOGY AND BARBER EXAMINERS, BOARD OF 
+fees; 20 CSR 2085-3.010; 12/1/16, 3/15/17 
+COUNSELORS, COMMITTEE FOR PROFESSIONAL 
+fees; 20 CSR 2095-1.020; 11/15/16, 3/1/17 
+ECONOMIC DEVELOPMENT, DEPARTMENT OF 
+motor carrier and railroad safety, division of 
+application for approval of corporation to acquire capitol stock of common carrier incorporated under Missouri law pursuant to requirements of section 387.260, RSMo; 4 CSR 265-2.069; 11/15/16 
+applications for interstate motor carrier permits and intrastate regular route passenger certificates issued pursuant to 49 U.S.C. Section 10922(c)(2); 4 CSR 265-2.065; 11/15/16 
+application to issue or create certain debt instruments; 4 CSR 265-2.067; 11/15/16 
+computation of effective dates; 4 CSR 265-2.050; 11/15/16 hearings under rulemaking; 4 CSR 265-2.170; 11/15/16 interpretation of federal preemption under Section 601 of the 
+Federal Aviation Administration Authorization Act of 
+1994; 4 CSR 265-2.057; 11/15/16 motor carrier notice register publications, scope and subscrip- 
+tion orders; 4 CSR 265-2.200; 11/15/16 name and address changes for motor carriers; 4 CSR 265- 
+2.055; 11/15/16 practice of attorneys; 4 CSR 265-2.040; 11/15/16 principal offices; 4 CSR 265-2.020; 11/15/16 records of the division; 4 CSR 265-2.030; 11/15/16 rulemaking; 4 CSR 265-2.160; 11/15/16 transportation enforcement inspector I; 4 CSR 265-14.010; 
+11/15/16 utilization of motor carriers in national emergencies; 4 CSR 
+265-6.030; 11/15/16 
+ELEMENTARY AND SECONDARY EDUCATION, DEPART- MENT OF beginning teacher assistance program; 5 CSR 20-400.385; 12/1/16 certification requirements for initial student services certificate; 5 
+CSR 20-400.640; 11/1/16, 4/3/17 charter school expedited renewal application process; 5 CSR 20- 
+100.280; 1/17/17 charter school expedited replication and expansion application 
+process; 5 CSR 20-100.290; 1/17/17 minimum requirements for school bus chassis and body; 5 CSR 30- 
+261.025; 12/15/16 standards for charter sponsorship; 5 CSR 20-100.260; 1/17/17 
+EMBALMERS AND FUNERAL DIRECTORS, STATE BOARD OF fees; 20 CSR 2120-2.100; 3/15/16, 12/15/16 
+ENERGY, DIVISION OF 
+definitions and general provisions–membership; 4 CSR 340-6.010; 12/15/16 
+energy set-aside fund ; 4 CSR 340-2; 3/15/16 wood energy credit; 4 CSR 340-4.010; 12/15/16 
+EXECUTIVE ORDERS 
+activates the Missouri State Emergency Operation Center due to severe weather expected to begin on Jan. 12, 2017; 17-05; 2/15/17 
+advises that state offices in Cole County will be closed on Monday, January 9, 2017; 16-09; 2/1/17 
+establishes the Governor’s Committee for Simple, Fair, and Low taxes to recommend proposed reforms to the governor by June 30, 2017; 17-07; 3/1/17 
+establishes the position of Chief Operating Officer to report direct- ly to the governor and serve as a member of the gover- nor’s executive team; 17-04; 2/15/17 
+orders every state agency to immediately suspend all rulemaking until Feb. 28, 2017, and to complete a review of every regulation under its jurisdiction within the Code of State Regulations by May 31, 2018; 17-03; 2/15/17 
+orders state employees of the executive branch of Missouri state government to follow a specified code of conduct regarding ethics during the Greitens administration; 17-02; 2/15/17 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 417 
+
+orders that the Missouri State Emergency Operations Plan be acti- vated. Further orders state agencies to provide assistance to the maximum extent practicable and directs the Adjutant General to call into service such portions of the organized militia as he deems necessary; 17-06; 2/15/17 
+reauthorizes the Governor’s Committee to End Chronic Homelessness until December 31, 2020; 16-10; 2/1/17 
+rescinds Executive Orders 07-10, 88-26, 98-15, and 05-40 regard- ing the Governor’s Advisory Council on Physical Fitness and Health and the Missouri State Park Advisory Board; 17-01; 2/15/17 
+FAMILY SUPPORT DIVISION 
+eligibility for individuals with a drug felony conviction; 13 CSR 40-15.455; 11/1/16, 4/3/17 
+low income home energy assistance program (LIHEAP) and utili- care; 13 CSR 40-19.020; 11/1/16, 4/3/17 
+organization; 13 CSR 40-1.010; 11/1/16 resource eligibility standards for Title XIX under the poverty level; 
+13 CSR 40-2.250; 10/3/16, 2/1/17 summer electric utility service; 13 CSR 40-19.030; 11/1/16, 4/3/17 utilicare program; 13 CSR 40-19.010; 11/1/16, 4/3/17 
+GAMING COMMISSION, MISSOURI 
+application for a class A or class B license; 11 CSR 45-4.030; 10/1/15, 2/16/16 
+commission records; 11 CSR 45-3.010; 10/3/16, 2/15/17 confidentiality of list of disassociated persons; 11 CSR 45-17.040; 
+10/3/16, 2/15/17 fantasy sports contests 
+applications for fantasy sports contest operator license; 11 CSR 45-40.020; 10/3/16, 2/15/17 
+audits; 11 CSR 45-40.100; 10/3/16, 2/15/17 cash reserve and segregated account requirements; 11 CSR 
+45-40.060; 10/3/16, 2/15/17 commission approval of procedures; 11 CSR 45-40.030; 
+10/3/16, 2/15/17 definitions; 11 CSR 45-40.010; 10/3/16, 2/15/17 operational fees; 11 CSR 45-40.070; 10/3/16, 2/15/17 operational requirements for operators; 11 CSR 45-40.050; 
+10/3/16, 2/15/17 operator responsibilities; 11 CSR 45-40.040; 10/3/16, 2/15/17 records and record retention; 11 CSR 45-40.090; 10/3/16, 
+2/15/17 
+hearings emergency order suspending license privileges–expedited 
+hearing; 11 CSR 45-13.055; 10/3/16, 2/15/17 fantasy sports contest hearings; 11 CSR 45-13.054; 10/3/16, 
+2/15/17 settlements; 11 CSR 45-13.065; 10/3/16, 2/15/17 
+licenses, restrictions on licenses, licensing authority of the execu- tive director, and other definitions; 11 CSR 45-4.020; 11/1/16 
+minimum internal control standards (MICS)–Chapter D; 11 CSR 45-9.104; 12/1/16 
+minimum internal control standards (MICS)–Chapter T; 11 CSR 45-9.120; 11/1/16 
+policies; 11 CSR 45-5.053; 11/1/16 procedure for entry of names onto list of disassociated persons; 11 
+CSR 45-17.030; 10/3/16, 2/15/17 rules of liquor control; 11 CSR 45-12.090; 10/3/16, 2/15/17 table game and poker cards; 11 CSR 45-5.183; 12/1/16 table game cards–receipt, storage, inspections, and removal from 
+use; 11 CSR 45-5.184; 12/1/16 waivers and variances; 11 CSR 45-1.100; 10/3/16, 2/15/17 
+HEALTH AND SENIOR SERVICES 
+regulation and licensure schedule of controlled substances; 19 CSR 30-1.002; 11/1/16, 
+4/3/17 
+HIGHER EDUCATION, DEPARTMENT OF 
+A+ scholarship program; 6 CSR 10-2.190; 10/17/16, 2/1/17 determination of student residency; 6 CSR 10-3.010; 2/1/17 nursing education incentive program; 6 CSR 10-11.010; 1/3/17 
+HIGHWAYS AND TRANSPORTATION COMMISSION, MISSOURI apportion registration pursuant to international registration plan; 7 
+CSR 10-25.030; 11/15/16 arbitration method and selection of arbitrator in arbitration pro- 
+ceeding; 7 CSR 10-26.010; 1/17/17 causes for disqualification; 7 CSR 10-18.020; 1/17/17 certification and certification renewal requirements for qualified 
+sampling and testing technicians and sampling or testing 
+technicians-in-training; 7 CSR 10-23.020; 1/17/17 certification suspension and revocation procedures and the appeal 
+process for technicians and sampling or testing techni- 
+cians-in-training; 7 CSR 10-23.030; 1/17/17 contractor performance project evaluation use for determining con- 
+tractor performance; 7 CSR 10-10.040; 1/17/17 definitions 
+7 CSR 10-10.010;1/17/17 7 CSR 10-18.010; 1/17/17 7 CSR 10-23.010; 1/17/17 7 CSR 10-25.070; 11/15/16 
+description, organization, and information; 7 CSR 10-1.010; 9/15/16, 2/15/17 
+explanation of contractor performance rating system; 7 CSR 10- 10.020; 1/17/17 
+fuel tax returns; 7 CSR 10-25.072; 11/15/16 general program requirements; 7 CSR 10-19.010; 1/17/17 investigation and audits; 7 CSR 10-25.080; 11/15/16 mediation; 7 CSR 10-26.020; 1/17/17 notice of proposed qualification; 7 CSR 10-18.030; 1/17/17 opportunity to appeal proposed disqualification and review board 
+proceedings; 7 CSR 10-18.040; 1/17/17 oversight/overweight permits; 7 CSR 10-25.020; 11/15/16 period of disqualification; 7 CSR 10-18.070; 1/17/17 prequalification to bid of certain contractors; 7 CSR 10-15.010; 
+1/17/17 procedure and schedule for completing the contractor performance 
+project evaluation; 7 CSR 10-10.050; 1/17/17 procedure for annual rating of contractors; 7 CSR 10-10.070; 
+1/17/17 procedure for reinstatement of a contractor previously disqualified; 
+7 CSR 10-18.090; 1/17/17 rating categories for evaluating the performance of a contractor; 7 
+CSR 10-10.030; 1/17/17 skill performance evaluation certificates for commercial drivers; 
+7 CSR 10-25.010; 2/1/17, 3/1/17, 3/15/17, 4/3/17 subpoenas; 7 CSR 10-1.020; 11/15/16 
+weight limitation exception; 7 CSR 10-2.030; 11/15/16 
+INSURANCE 
+advertisements of life insurance and annuities; 20 CSR 400-5.100; 11/1/16, 2/15/17 
+annuity disclosure; 20 CSR 400-5.800; 11/1/16, 2/15/17 applied behavior analysis maximum benefit; 20 CSR; 3/1/17 construction claims binding arbitration cap; 20 CSR; 12/15/16 disclosure of material facts in annuity sales; 20 CSR 400-5.410; 
+11/1/16, 2/15/17 health insurance rates; 20 CSR 400-13.100; 11/1/16, 2/15/17 licensing procedures and standards for limited lines self-service 
+storage insurance producers; 20 CSR 700-1.170; 10/3/16, 2/1/17 
+life insurance and annuities replacement; 20 CSR 400-5.400; 11/1/16, 4/3/17 
+non-economic damages in medical malpractice cap; 20 CSR; 2/16/16 
+reasonable supervision in indexed and fixed annuity sales; 20 CSR 700-1.148; 11/1/16, 2/15/17 
+reasonable supervision in variable life sales; 20 CSR 700-1.147; 11/1/16, 2/15/17 
+recommendations of variable life insurance to customers (suitabili- ty); 20 CSR 700-1.146; 11/1/16, 2/15/17 
+sovereign immunity limits; 20 CSR; 12/15/16 
+  
+Page 418 
+Index 
+April 3, 2017 Vol. 42, No. 7 
+
+standards of commercial honor and principles of trade in life, annuity, and long-term care insurance sales; 20 CSR 700- 1.145; 11/1/16, 2/15/17 
+state legal expense fund; 20 CSR; 12/15/16 suitability in annuity transactions; 20 CSR 400-5.900; 11/1/16, 2/15/17 
+LABOR AND INDUSTRIAL RELATIONS, DEPARTMENT OF Notice of Periodic Rule Review; Title 8; 7/1/16 
+MEDICAID AUDIT AND COMPLIANCE UNIT, MISSOURI 
+electronic signatures for MO HealthNet Program; 13 CSR 65- 3.050; 11/1/16 
+MENTAL HEALTH, DEPARTMENT OF 
+determining state of domicile; 9 CSR 10-31.016; 12/15/16 intermediate care facility for individuals with intellectual disabilities 
+federal reimbursement allowance; 9 CSR 10-31.030; 
+12/15/16 Notice of Periodic Rule Review; Title 9; 7/1/16 self-directed supports; 9 CSR 45-3.080; 2/1/17 
+MISSOURI CONSOLIDATED HEALTH CARE PLAN 
+public entity membership definitions; 22 CSR 10-3.010; 12/1/16 disease management services provisions and limitations; 22 
+CSR 10-3.150; 12/1/16 general membership provisions; 22 CSR 10-3.020; 12/1/16 health savings account plan benefit provisions and covered 
+charges; 22 CSR 10-3.055; 12/1/16 medical plan benefit provisions and covered charges; 22 CSR 
+10-3.057; 12/1/16 pharmacy benefit summary; 22 CSR 10-3.090; 12/1/16 PPO 600 plan benefit provisions and covered charges; 22 CSR 
+10-3.056; 12/1/16 PPO 1000 plan benefit provisions and covered charges; 22 
+CSR 10-3.053; 12/1/16 PPO 600 plan, PPO 1000 plan, and health savings account plan 
+limitations; 22 CSR 10-3.060; 12/1/16 state health plan 
+contributions; 22 CSR 10-2.030; 12/1/16 definitions; 22 CSR 10-2.010; 12/1/16 disease management services provisions and limitations; 22 
+CSR 10-2.150; 12/1/16 general foster parent membership provisions; 22 CSR 10- 
+2.110; 12/1/16 general membership provisions; 22 CSR 10-2.020; 12/1/16 partnership incentive provisions and licensure; 22 CSR 10- 
+2.120; 10/3/16, 2/15/17 health savings account plan benefit provisions and covered 
+charges; 22 CSR 10-2.053; 12/1/16 medical plan benefit provisions and covered charges; 22 CSR 
+10-2.055; 12/1/16 pharmacy benefit summary; 22 CSR 10-2.090; 12/1/16 pharmacy employer group waiver plan for medicare primary 
+members; 22 CSR 10-2.089; 12/1/16 PPO 300 plan benefit provisions and covered charges; 22 CSR 
+10-2.051; 12/1/16 PPO 600 plan benefit provisions and covered charges; 22 CSR 
+10-2.052; 12/1/16 PPO 300 plan, PPO 600 plan, and health savings account plan 
+limitations; 22 CSR 10-2.060; 12/1/16 rule for participating higher education entity entry into the 
+Missouri Consolidated Health Care Plan; 22 CSR 10- 
+2.025; 12/1/16 tobacco-free incentive provisions and limitations; 22 CSR 10- 
+MO HEALTHNET 
+disproportionate share hospital payments; 13 CSR 70-15.220; 2/1/17 
+MO HealthNet primary care health homes; 13 CSR 70-3.240; 11/1/16 
+prospective reimbursement plan for nonstate-operated facilities for ICF/IID services; 13 CSR 70-10.030; 9/15/16, 2/1/17 
+sanctions for false or fraudulent claims for MO HealthNet services; 13 CSR 70-3.030; 11/1/16 
+state-funded Missouri woman’s health services program; 13 CSR 70-4.090; 10/17/16, 3/15/17 
+NATURAL RESOURCES, DEPARTMENT OF 
+land survey acceptance and publication and publication by Missouri 
+Department of Agriculture; 10 CSR 30-4.040; 1/3/17 accuracy of horizontal control; 10 CSR 30-4.030; 1/3/17 approved documents; 10 CSR 30-3.080; 1/3/17 authorization for removal or alteration of corners; 10 CSR 30- 
+3.020; 1/3/17 definitions 
+10 CSR 30-3.010; 1/3/17 
+10 CSR 30-4.010; 1/3/17 GPS survey guidelines; 10 CSR 30-4.050; 1/3/17 horizontal control classification; 10 CSR 30-4.020; 1/3/17 Missouri coordinate system of 1983; 10 CSR 30-3.070;1/3/17 monumentation; 10 CSR 30-3.050; 1/3/17 monument marking; 10 CSR 30-3.060; 1/3/17 procedure for filing documents; 10 CSR 30-3.040; 1/3/17 reestablished or re-stored corners; 10 CSR 30-3.030; 1/3/17 traverse survey guidelines; 10 CSR 30-4.060; 1/3/17 waiver of 1 KM limitation; 10 CSR 30-4.070; 1/3/17 
+Notice of Periodic Rule Review; Title 10; 7/1/16 
+NOTARY 
+electronic notary definitions; 15 CSR 30-110.010; 2/1/17, 2/15/17 electronic signatures and seals; 15 CSR 30-110.020; 2/1/17, 2/15/17 
+NURSING, STATE BOARD OF 
+definitions; 20 CSR 2200-7.001; 1/3/17 nursing education incentive program; 20 CSR 2200-7.010; 1/3/17 
+PETROLEUM AND HAZARDOUS SUBSTANCE STORAGE TANKS alternative methods of release detection for bulk underground pip- 
+ing; 10 CSR 26-2.047; 9/15/16, 10/3/16 alternative methods of release detection for field-constructed tanks; 
+10 CSR 26-2.046; 9/15/16, 10/3/16 applicability; 10 CSR 26-2.010; 9/15/16 compatibility; 10 CSR 26-2.032; 9/15/16 definitions; 10 CSR 26-2.012; 9/15/16 general requirements for release detection for all underground stor- 
+age tank systems; 10 CSR 26-2.040; 9/15/16 interim prohibition for deferred underground storage tank systems; 
+10 CSR 26-2.011; 9/15/15 methods of release detection for piping; 10 CSR 26-2.044; 9/15/16 methods of release detection for tanks; 10 CSR 26-2.043; 9/15/16 new installation requirements; 10 CSR 26-2.019; 9/15/16 notification requirements; 10 CSR 26-2.022; 9/15/16 operation and maintenance of corrosion protection; 10 CSR 26- 
+2.031; 9/15/16 operation and maintenance walk-through inspections; 10 CSR 26- 
+2.036; 9/15/16 performance standards for new underground storage tank systems; 
+10 CSR 26-2.020; 9/15/16 release detection record keeping 10 CSR 26-2.045; 9/15/16 
+10 CSR 26-2.048; 9/15/16 release investigation and confirmation steps; 10 CSR 26-2.052; 
+2.094; 10/3/16, 2/15/17 
+9/15/16 
+ 
+April 3, 2017 Vol. 42, No. 7 
+ 
+Missouri Register 
+Page 419 
+
+repairs allowed; 10 CSR 26-2.033; 9/15/16 reporting and record keeping; 10 CSR 26-2.034; 9/15/16 reporting of suspected releases; 10 CSR 26-2.050; 9/15/16 requirements for petroleum underground storage tank systems; 
+10 CSR 26-2.041; 9/15/16 requirements for hazardous substance underground storage tank 
+systems; 10 CSR 26-2.042; 9/15/16 spill and overfill control for in-use underground storage tank sys- 
+tems; 10 CSR 26-2.030; 9/15/16 testing of containment sumps; 10 CSR 26-2.035; 9/15/16 upgraded underground storage tank systems; 10 CSR 26-2.021; 
+9/15/16 UST systems with field-constructed tanks and airport hydrant fuel 
+distribution systems; 10 CSR 26-2.013; 9/15/16 
+PHARMACY, STATE BOARD OF 
+collection of non-controlled medication for destruction; 20 CSR 2220-2.095; 10/3/16, 2/1/17 
+PROPANE SAFETY COMMISSION, MISSOURI 
+fiscal year July 1, 2016–June 30, 2017 budget plan; 2 CSR 90; 8/15/16 
+PUBLIC SAFETY, DEPARTMENT OF 
+appeals procedure and time limits for victims of crime act grant applications; 11 CSR 30-16.020; 2/1/17 
+approval; 11 CSR 30-3.010; 11/15/16 eligibility criteria and application procedures for VOCA grants pro- 
+gram; 11 CSR 30-16.010; 2/1/17 
+PUBLIC SERVICE COMMISSION 
+communications that are not ex parte or extra-record communi- cations; 4 CSR 240-4.040; 1/3/17 
+confidential information; 4 CSR 240-2.135; 1/3/17 definitions for demand-side programs and demand-side programs 
+investment mechanisms; 4 CSR 240-20.092; 2/1/17 demand-side programs; 4 CSR 240-20.094; 2/1/17 demand-side programs investment mechanisms; 4 CSR 240-20.093; 
+2/1/17 drug and alcohol testing; 4 CSR 240-40.080; 12/15/16 ex parte and extra-record communications; 4 CSR 240-4.020; 
+1/3/17 ex parte communications; 4 CSR 240-4.020; 1/3/17 extra-record communications; 4 CSR 240-4.030; 1/3/17 general definitions; 4 CSR 240-4.015; 1/3/17 general provisions; 4 CSR 240-4.017; 1/3/17 incident, annual and safety-related condition reporting require- 
+ments; 4 CSR 240-40.020; 12/15/16 limitations of appearance before commission; 4 CSR 240-4.050; 
+1/3/17 safety standards–transportation of gas by pipeline; 4 CSR 240- 
+40.030; 12/15/16 
+SAFE AT HOME 
+application assistant training, registration, and renewal; 15 CSR 30-70.020; 10/17/16, 2/15/17 
+definitions; 15 CSR 30-70.010; 10/17/16, 2/15/17 program participant application and certification process; 15 CSR 
+30-70.030; 10/17/16, 2/15/17 
+TAX 
+annual adjusted rate of interest; 12 CSR 10-41.010; 12/1/16, 3/15/17 
+THERAPEUTIC MASSAGE, BOARD OF 
+fees; 20 CSR 2197-1.040; 7/1/16 
+TRANSPORTATION, DEPARTMENT OF 
+motor carrier and railroad safety 
+application requirements for the issuance and transfer of intrastate motor carrier authority; 7 CSR 265-10.015; 11/15/16 
+computation of effective dates; 7 CSR 265-10.051; 11/15/16 discontinuance of service; suspension and revocation of certifi- 
+cates, permits, and property carrier registrations; 7 
+CSR 265-10.140; 11/15/16 marking of vehicles; 7 CSR 265-10.025; 11/15/16 merger of duplicated or overlapping motor carrier operating 
+authority; 7 CSR 265-10.090; 11/15/16 name and address changes for motor carriers; 7 CSR 265- 
+10.052; 11/15/16 passenger tariffs; 7 CSR 265-10.055; 11/15/16 records of the division; 7 CSR 265-10.017; 11/15/16 
+Notice of Periodic Rule Review; Title 7; 7/1/16 traffic and highway safety division 
+approval; 7 CSR 60-3.010; 11/15/16 approval procedure; 7 CSR 60-2.020; 11/15/16 approved motorcycle training course; 7 CSR 60-1.060; 
+11/15/16 breath alcohol ignition interlock device security; 7 CSR 60- 
+2.050; 11/15/16 definitions 
+7 CSR 60-1.010; 11/15/16 
+7 CSR 60-2.010; 11/15/16 motorcycle instructor; 7 CSR 60-1.030; 11/15/16 program sponsor; 7 CSR 60-1.020; 11/15/16 responsibilities of authorized service providers; 7 CSR 60- 
+2.040; 11/15/16 standards and specifications; 7 CSR 60-2.030; 11/15/16 suspension or revocation of approval of a device; 7 CSR 60- 
+2.060; 1/15/16 verification of course completion; 7 CSR 265-1.050; 11/15/16 
+VETERINARY MEDICAL BOARD, MISSOURI 
+fees; 20 CSR 2270-1.021; 1/17/17 
+RULEMAKING 1-2-3 DRAFTING AND STYLE MANUAL 
+JOHN R. ASHCROFT SECRETARY OF STATE 
+The Administrative Rules Division has copies of the Rulemaking Manual available for state agencies to assist in preparing all types of rulemakings. 
+ 
+For information about rule drafting classes call (573) 751-4015. 
+
+To Subscribe to the Missouri Register 
+SALUS POPULI SUPREMA LEX ESTO “The welfare of the people shall be the supreme law.” 
+John R. Ashcroft Secretary of State 
+MISSOURI REGISTER 
+ 
+Contact us at: phone: (573) 751-4015 or email: rules@sos.mo.gov 
+ORDER FORM 
+Enclosed is my check for $56 as payment in advance for one year of the Missouri Register Please start my subscription with the _________________________________________issue. 
+Please make checks payable to: Secretary of State or alternatively call us to charge your credit card. 
+
+Mail to: John R. Ashcroft Secretary of State 
+Administrative Rules Division PO Box 1767 Jefferson City, MO 65102 
+Name or Firm (Please Type or Print) Address 
+Attn: 
+  
+City 
+State 
+Zip Code 
+John R. Ashcroft 
+Secretary of State PO Box 1767 Jefferson City, MO 65102 
+Rulemaking Classes 
+Are you new to rulemaking or in need of a refresher course to assist you in filing rules or understanding the rulemaking process? 
+The Administrative Rules Division offers group and individual classes for rule drafting and preparation of rule packets. Please call Curtis at (573) 751-2022 or email curtis.treat@sos.mo.gov to schedule a class. 
+Periodical Postage Paid at Jefferson City, MO 
+
+4/3/17 
+ 

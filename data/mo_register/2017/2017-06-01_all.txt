@@ -1,0 +1,1443 @@
+Volume 42, Number 11 Pages 857–900 
+June 1, 2017 
+SALUS POPULI SUPREMA LEX ESTO “The welfare of the people shall be the supreme law.” 
+John R. Ashcroft Secretary of State 
+MISSOURI REGISTER 
+ 
+The Missouri Register is an official publication of the state of Missouri, under the authority granted to the secretary of state by sections 536.015 and 536.033, RSMo 2016. Reproduction of rules is allowed; however, no reproduction shall bear the name Missouri Register or “official” without the express per- mission of the secretary of state. 
+The Missouri Register is published semi-monthly by SECRETARY OF STATE 
+John R. Ashcroft 
+Administrative Rules Division James C. Kirkpatrick State Information Center 
+600 W. Main Jefferson City, MO 65101 (573) 751-4015 
+MANAGING EDITOR CURTIS W. TREAT 
+· EDITOR 
+AMANDA MCKAY 
+· ASSOCIATE EDITOR 
+VONNE KILBOURN 
+· ASSISTANT EDITOR 
+MARTY SPANN 
+· PUBLICATION TECHNICIAN 
+JACQUELINE D. WHITE 
+· ADMINISTRATIVE ASSISTANT 
+ALISHA DUDENHOEFFER 
+ISSN 0149-2942, USPS 320-630; periodical postage paid at Jefferson City, MO Subscription fee: $56.00 per year 
+POSTMASTER: Send change of address notices and undelivered copies to: 
+MISSOURI REGISTER Office of the Secretary of State Administrative Rules Division PO Box 1767 Jefferson City, MO 65102 
+The Missouri Register and Code of State Regulations (CSR) are now available on the Internet. The Register address is http://www.sos.mo.gov/adrules/moreg/moreg.asp and the CSR is http://www.sos.mo.gov/adrules/csr/csr.asp. These websites contain rulemakings and regulations as they appear in the Registers and CSR. These websites do not contain the official copies of the Registers and CSR. The official copies remain the paper copies published by the Office of the Secretary of State pursuant to sections 536.015 and 536.031, RSMo 2016. While every attempt has been made to ensure accuracy and reliability, the Registers and CSR are presented, to the greatest extent practicable as they appear in the official publications. The Administrative Rules Division may be contacted by email at rules@sos.mo.gov. 
+The secretary of state’s office makes every effort to provide program accessibility to all citizens without regard to disability. If you desire this publication in alternate form because of a disability, please contact the Division of Administrative Rules, PO Box 1767, Jefferson City, MO 65102, (573) 751-4015. Hearing impaired citizens should contact the director through Missouri relay, (800) 735-2966. 
+  
+
+MISSOURI REGISTER 
+June 1, 2017 
+IN THIS ISSUE: 
+Vol. 42 No. 11 Pages 857–900 
+EMERGENCY RULES 
+Department of Insurance, Financial Institutions and Professional Registration 
+State Board of Nursing . . . . . . . . . . . . . . . . . . . . . . . .861 
+DISSOLUTIONS . . . . . . . . . . . . . . . . . . . . . . . . .879 SOURCE GUIDES 
+. . . . . . . . . . . . . . . .883 . . . . . . . . . . . . . . . .890 
+EXECUTIVE ORDERS 
+PROPOSED RULES 
+. . . . . . . . . . . . . . . . . . .863 
+RULE CHANGES SINCE UPDATE EMERGENCY RULES IN EFFECT EXECUTIVE ORDERS . . . . . . . . . . . . . . . . . . . . . . . . .892 
+Department of Insurance, Financial Institutions and Professional Registration 
+State Board of Nursing . . . . . . . . . . . . . . . . . . . . . . . .867 State Committee of Psychologists . . . . . . . . . . . . . . . . .871 
+ORDERS OF RULEMAKING 
+Department of Economic Development 
+Public Service Commission . . . . . . . . . . . . . . . . . . . . .874 
+Department of Elementary and Secondary Education 
+Division of Learning Services . . . . . . . . . . . . . . . . . . .877 
+Department of Higher Education 
+Commissioner of Higher Education . . . . . . . . . . . . . . . .877 
+IN ADDITIONS 
+Department of Transportation 
+Missouri Highways and Transportation Commission . . . . .878 
+REGISTER INDEX 
+. . . . . . . . . . . . . . . . . . . . . . . . . . .894 
+ 
+Register Filing Deadlines 
+February 1, 2017 February 15, 2017 
+March 1, 2017 March 15, 2017 
+April 3, 2017 April 17, 2017 
+May 1, 2017 May 15, 2017 
+June 1, 2017 June 15, 2017 
+July 3, 2017 July 17, 2017 
+August 1, 2017 August 15, 2017 
+September 1, 2017 September 15, 2017 
+October 2, 2017 October 16, 2017 
+Register Publication Date 
+March 1, 2017 March 15, 2017 
+April 3, 2017 April 17, 2017 
+May 1, 2017 May 15, 2017 
+June 1, 2017 June 15, 2017 
+July 3, 2017 July 17, 2017 
+August 1, 2017 August 15, 2017 
+September 1, 2017 September 15, 2017 
+October 2, 2017 October 16, 2017 
+November 1, 2017 November 15, 2017 
+Code Publication Date 
+March 31, 2017 March 31, 2017 
+April 30, 2017 April 30, 2017 
+May 31, 2017 May 31, 2017 
+June 30, 2017 June 30, 2017 
+July 31, 2017 July 31, 2017 
+August 31, 2017 August 31, 2017 
+September 30, 2017 September 30, 2017 
+October 31, 2017 October 31, 2017 
+November 30, 2017 November 30, 2017 
+Code Effective Date 
+April 30, 2017 April 30, 2017 
+May 30, 2017 May 30, 2017 
+June 30, 2017 June 30, 2017 
+July 30, 2017 July 30, 2017 
+August 30, 2017 August 30, 2017 
+September 30, 2017 September 30, 2017 
+October 30, 2017 October 30, 2017 
+November 30, 2017 November 30, 2017 
+December 30, 2017 December 30, 2017 
+Documents will be accepted for filing on all regular workdays from 8:00 a.m. until 5:00 p.m. We encourage early filings to facilitate the timely publication of the Missouri Register. Orders of Rulemaking appearing in the Missouri Register will be published in the Code of State Regulations and become effective as listed in the chart above. Advance notice of large volume filings will facilitate their timely publication. We reserve the right to change the schedule due to special circumstances. Please check the latest publication to verify that no changes have been made in this schedule. To review the entire year’s schedule, please check out the website at http://www.sos.mo.gov/adrules/pubsched.asp 
+ 
+Missouri Participating Libraries 
+The Missouri Register and the Code of State Regulations, as required by the Missouri Documents Law (section 181.100, RSMo 2016), are available in the listed participating libraries, as selected by the Missouri State Library: 
+Jefferson County Library PO Box 1486, 3021 High Ridge High Ridge, MO 63049-1486 (314) 677-8689 
+Jefferson College Library 1000 Viking Drive Hillsboro, MO 63050-2441 (314) 789-3951 ext. 160 
+St. Louis Public Library 1301 Olive St. St. Louis, MO 63103-2389 (314) 539-0376 
+St. Louis University Law Library 3700 Lindell Blvd. St. Louis, MO 63108-3478 (314) 977-2742 
+Eden/Webster Library Eden Theological Seminary/ Webster University 475 East Lockwood Ave. St. Louis, MO 63119-3192 (314) 961-2660 ext. 7812 
+Thomas Jefferson Library University of Missouri-St. Louis 8001 Natural Bridge Road St. Louis, MO 63121-4499 (314) 516-5084 
+Washington University Law Library Washington University Campus Box 1171, Mudd Bldg., One Brookings Dr. 
+St. Louis, MO 63130-4899 (314) 935-6443 
+St. Louis County Library 1640 S. Lindbergh Blvd. St. Louis, MO 63131-3598 (314) 994-3300 ext. 247 
+Library Maryville University 13550 Conway Road St. Louis, MO 63141-7232 (314) 529-9494 
+Pickler Memorial Library Truman State University 100 E. Normal Kirksville, MO 63501-4221 (660) 785-7416 
+Learning Resources Center Mineral Area College PO Box 1000 Park Hills, MO 63601-1000 (573) 431-4593 
+Cape Girardeau Public Library 711 N. Clark Cape Girardeau, MO 63701-4400 (573) 334-5279 
+Kent Library Southeast Missouri State University One University Plaza Cape Girardeau, MO 63701-4799 (573) 651-2757 
+Riverside Regional Library PO Box 389, 1997 E. Jackson Blvd. Jackson, MO 63755-0389 (573) 243-8141 
+Rutland Library Three Rivers Community College 2080 Three Rivers Blvd. Poplar Bluff, MO 63901-2393 (573) 840-9656 
+Kansas City Public Library 14 West 10th Street Kansas City, MO 64105 (816) 701-3546 
+Law Library University of Missouri-Kansas City 5100 Rockhill Road Kansas City, MO 64110-2499 (816) 235-2438 
+Miller Nichols Library University of Missouri-Kansas City 5100 Rockhill Road Kansas City, MO 64110-2499 (816) 235-2438 
+B.D. Owens Library Northwest Missouri State University 800 University Drive Maryville, MO 64468-6001 (660) 562-1841 
+St. Joseph Public Library 927 Felix Street St. Joseph, MO 64501-2799 (816) 232-8151 
+Hearnes Learning Resources Ctr. Missouri Western State University 4525 Downs Drive St. Joseph, MO 64507-2294 
+(816) 271-5802 
+Library North Central Missouri College PO Box 111, 1301 Main Street Trenton, MO 64683-0107 (660) 359-3948 ext. 325 
+Spiva Library Missouri Southern State University 3950 East Newman Road Joplin, MO 64801-1595 (417) 625-9342 
+Missouri State Library 600 West Main, PO Box 387 Jefferson City, MO 65102-0387 (573) 751-3615 
+Missouri State Archives 600 West Main, PO Box 778 Jefferson City, MO 65102-0778 (573) 526-6711 
+Elmer Ellis Library University of Missouri-Columbia 106 B Ellis Library Columbia, MO 65211-5149 (573) 882-0748 
+Library State Historical Society of Missouri 1020 Lowry St. Columbia, MO 65211-7298 (573) 882-9369 
+Daniel Boone Regional Library PO Box 1267, 100 West Broadway Columbia, MO 65205-1267 (573) 443-3161 ext. 359 
+School of Law University of Missouri-Columbia 224 Hulston Hall Columbia, MO 65211-0001 (573) 882-1125 
+Smiley Memorial Library Central Methodist University 411 Central Methodist Square Fayette, MO 65248-1198 (660) 248-6279 
+Library Missouri University of Science and 
+Technology 1870 Miner Circle Rolla, MO 65409-0060 (573) 341-4007 
+Lebanon-Laclede County Library 915 S. Jefferson Ave. Lebanon, MO 65536-3017 (417) 532-2148 
+University Library Southwest Baptist University 1600 University Ave. Bolivar, MO 65613-2597 (417) 328-1631 
+Barry-Lawrence Regional Library 213 6th St. Monett, MO 65708-2147 (417) 235-6646 
+Lyons Memorial Library College of the Ozarks General Delivery Point Lookout, MO 65726-9999 (417) 334-6411 ext. 3551 
+Garnett Library Missouri State University—West 
+Plains 304 Cleveland West Plains, MO 65775-3414 (417) 255-7945 
+Springfield-Greene County Library 4653 S. Campbell Springfield, MO 65801-0760 (417) 874-8110 
+Meyer Library Missouri State University PO Box 175, 901 S. National Springfield, MO 65804-0095 (417) 836-4533 
+HOW TO CITE RULES AND RSMo RULES—Cite material in the Missouri Register by volume and page number, for example, Vol. 28, Missouri Register, page 27. The approved short form of citation 
+is 28 MoReg 27. 
+The rules are codified in the Code of State Regulations in this system— Title Code of State Regulations Division Chapter Rule 
+1 CSR 10- 1. 010 Department Agency, Division General area regulated Specific area regulated 
+They are properly cited by using the full citation , i.e., 1 CSR 10-1.010. 
+Each department of state government is assigned a title. Each agency or division within the department is assigned a division number. The agency then groups its rules into general subject matter areas called chapters and specific areas called rules. Within a rule, the first breakdown is called a section and is designated as (1). Subsection is (A) with further breakdown into paragraph 1., subparagraph A., part (I), subpart (a), item I. and subitem a. 
+RSMo—The most recent version of the statute containing the section number and the date. 
+
+June 1, 2017 Vol. 42, No. 11 
+Emergency Rules 
+MISSOURI REGISTER 
+
+Rules appearing under this heading are filed under the authority granted by section 536.025, RSMo 2000. An emergency rule may be adopted by an agency if the agency finds that an immediate danger to the public health, safety, or welfare, or a compelling governmental interest requires emergency action; follows procedures best calculated to assure fairness to all interested persons and parties under the circumstances; follows procedures which comply with the protections extended by the Missouri and the United States Constitutions; limits the scope of such rule to the circum- stances creating an emergency and requiring emergency procedure, and at the time of or prior to the adoption of such rule files with the secretary of state the text of the rule togeth- er with the specific facts, reasons, and findings which support its conclusion that there is an immediate danger to the public health, safety, or welfare which can be met only through the adoption of such rule and its reasons for concluding that the procedure employed is fair to all interested persons and par- ties under the circumstances. 
+Rules filed as emergency rules may be effective not less than ten (10) days after filing or at such later date as may be specified in the rule and may be terminated at any time by the state agency by filing an order with the secretary of state fixing the date of such termination, which order shall be published by the secretary of state in the Missouri Register as soon as practicable. 
+All emergency rules must state the period during which they are in effect, and in no case can they be in effect more than one hundred eighty (180) calendar days or thirty (30) legislative days, whichever period is longer. Emergency rules are not renewable, although an agency may at any time adopt an identical rule under the normal rulemaking proce- dures. 
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2200—State Board of Nursing Chapter 4—General Rules 
+EMERGENCY AMENDMENT 20 CSR 2200-4.020 Requirements for Licensure. The board is 
+amending sections (1) and (5). 
+PURPOSE: This amendment is to recognize the Air Force Basic Medical Technician Corpsman Program 4N051 – 5 Skill Level and above to meet educational standards/academic preparation for licen- sure as a practical nurse. 
+EMERGENCY STATEMENT: Section 536.025, RSMo, sets forth the standards for an emergency rule, which are strict. However, one (1) of the criteria is that the agency must find that the rule is necessary to preserve a compelling governmental interest that requires an early effective date. The language contained in section 324.007, RSMo, requires the Missouri State Board of Nursing to accept education, training, or service completed by an individual who is a member of the United States Armed Forces or Reserves, the National Guard of any state, the military reserves of any state, or the naval militia of any state. The Missouri State Board of Nursing determined that this emer- gency rule is necessary for military service members with prior mili- tary education, training, and service to gain timely authorization to 
+practice nursing. In late 2016, official evidence became available that the Air Force – BMTCP – 4N051 program beginning at 5-skill level meets standards for practical nurse education; this rule change would provide academic eligibility for military service members that have completed the Air Force BMTCP – 4N051 program with 5-skill level or above designation to apply to take the practical nurse licensure exam and therefore, upon passing of the exam, fill an immediate need in the nursing workforce. The Air Force reports that there are approximately twenty-seven (27) individuals who would be ready to apply for licen- sure, if the rule was in effect. Bothwell Hospital in Sedalia is in need of nurses and would be very interested in putting them to work. The individuals who would otherwise be eligible may leave Missouri or may transfer to another state by the time that this rule is promulgated under the normal procedures. Emergency rule processes would allow for a one hundred eighty- (180-) day window and the potential of at least twenty-seven (27) new LPNs in Missouri with the potential for jobs at Bothwell or other Missouri healthcare institutions. Air Force reports indicate that nation-wide there may be in excess of ten thousand (10,000) service members with this designation. 
+The scope of this emergency amendment is limited to the circum- stances creating the emergency and complies with the protections extended in the Missouri and United States Constitutions. The Missouri State Board of Nursing believes this emergency amendment is fair to all interested persons and parties under the circumstances. This emergency amendment was filed April 27, 2017, becomes effec- tive May 9, 2017, and expires February 15, 2018. 
+(1) Examination. (B) The registered professional nurse (RN) candidate shall have 
+successfully completed the basic prescribed curriculum and received a degree or diploma from a school with an [accredited] approved professional nursing program. The practical nurse candidate shall have successfully completed a basic prescribed curriculum in an [accredited] approved school of practical nursing and have earned a practical nursing degree, diploma, or certificate or completed a comparable period of training as determined by the board. A compa- rable period of training as determined by the board shall mean grad- uation from an [accredited] approved professional nursing program with validation by examination of a personal and vocational concepts course by an [accredited] approved practical nursing program or graduation from the Army Practical Nurse Program. 
+(C) Pursuant to section 324.007, RSMo, the education, training, and/or service received and completed through the Air Force Basic Medical Technician Corpsman Program (BMTCP) – 4N051-5 Skill Level is an approved program for practical nursing. Any applicant for licensure for practical nursing who has successfully completed the BMTCP – 4N051-5 Skill Level, or above, has met the educa- tional qualifications for licensure by examination. 
+[(C)](D) The candidate shall make written application to the Missouri State Board of Nursing for permission to [be admitted to] take the licensing examination for professional/practical nurses. Application forms for the licensing examination shall be obtained from the Missouri State Board of Nursing. 
+[1. A request for forms shall be made by the director of the program of professional/ practical nursing and should include the names and completion dates of candidates who expect to apply for admission to the examination. 
+2. Application forms for out-of-state/country graduates may be obtained by contacting the State Board of Nursing, giving name, address, name and address of school of nursing and completion date.] 
+[3.]1. Any applicant applying for the practical nurse licensing examination who is deficient in theory, clinical experience, or both, as stated in 20 CSR 2200, Chapter 3—Practical Nursing, and has not earned a practical nursing degree or met the requirements for a com- parable period of training as determined by the board pursuant to 20 
+861 
+
+June 1, 2017 Page 862 Vol. 42, No. 11 
+
+Emergency Rules 
+
+CSR 2200-4.020(1)(B) or (C), will not be approved. [(D)](E) A completed application for the licensing examination signed and accompanied by one (1) two-inch by two-inch (2"× 2") portrait/photograph of the applicant shall be submitted to the Missouri State Board of Nursing for evaluation along with the required examination fee, and proof of submission of fingerprints to the Missouri State Highway Patrol’s approved vendor for both a Missouri State Highway Patrol and Federal Bureau of Investigation fingerprint background check prior to the established deadline date set by the Missouri State Board of Nursing. Proof shall consist of any documentation acceptable to the board. Any fees due for fingerprint background checks shall be paid by the applicant directly to the Missouri State Highway Patrol or its approved vendor. All fees are nonrefundable. Note: The name appearing on the application will be the only legal name of the individual recognized by the Missouri State Board of Nursing unless evidence of the change in name has 
+been submitted. [(E)](F) An application for a candidate’s first licensing examina- 
+tion in Missouri shall bear the school seal and the signature of the director of the program of professional/practical nursing. This shall indicate the endorsement of the candidate to take the licensing exam- ination. The affidavit portion of the application shall be properly exe- cuted before a notary public. 
+[(F) Applicants approved by the Missouri State Board of Nursing as eligible to take the licensing examination for pro- fessional/practical nurses shall be notified and forwarded identifying material and specific information as to date, time, and place. Candidates shall take the current National Council of State Boards of Nursing, Incorporated Licensure Examination for professional/practical nurses.] 
+(K) A transcript of the final record shall be submitted to the Missouri State Board of Nursing for each applicant upon completion of the program of professional/practical nursing. The seal, if avail- able, of the school and signature of the director of the program of professional/practical nursing [or], registrar shall be affixed to the transcript. The transcript must include the degree/designation awarded and date of graduation or completion. A candidate cannot take the licensure examination until all licensure requirements are met, including providing a transcript. 
+(5) Licensure by Endorsement in Missouri—Registered Nurses (RNs) and Licensed Practical Nurses (LPNs). 
+(A) A professional/practical nurse licensed in another state or ter- ritory of the United States shall be entitled to licensure provided qualifications are equivalent to the requirements of Missouri at the time of original licensure. This equivalency shall be defined as— 
+1. Evidence of completion and graduation from an [accredit- ed] approved program of professional/practical nursing if educated in a state of the United States; a course-by-course evaluation report received directly from a credentials evaluation service approved by the board or a Commission on Graduates of Foreign Nursing Schools (CGFNS) certificate if the initial nursing education was earned in a territory, Canada, or another country; 
+2. Attainment of a passing standard score or pass designation as determined by the Missouri State Board of Nursing on the licensing examination or attainment of an acceptable grade in areas compara- ble to those required in Missouri at the time licensure was secured in the state of original licensure; 
+3. Evidence of completion of the applicable secondary educa- tion set forth in section 335.046, RSMo, requirements or the equiv- alent as determined by the State Department of Education; 
+4. Applicants who are not citizens of the United States who have completed programs in schools of professional/practical nursing in states which require citizenship for licensure may take the National Council Licensure Examination for professional/practical nurses in Missouri if they meet all of Missouri’s requirements; and 
+5. If an individual was licensed by waiver as a practical/voca- tional nurse in another state, territory, or foreign country prior to 
+July 1, 1955, and the individual meets the requirements for licensure as a practical nurse in Missouri which were in effect at the time the individual was licensed in the other jurisdiction, she/he is eligible for licensure in Missouri as an LPN. If an individual is licensed by waiv- er in another state after July 1, 1955, she/he does not qualify for licensure by waiver in Missouri as a practical nurse. 
+AUTHORITY: sections 335.036.1(2) and (7), 335.046, 335.051, and 335.066, [RSMo Supp. 2013, and sections 335.046 and 335.051,] RSMo [2000] 2016. This rule originally filed as 4 CSR 200-4.020. Original rule filed Oct. 14, 1981, effective Jan. 14, 1982. For intervening history, please consult the Code of State Regulations. Emergency amendment filed April 27, 2017, effective May 9, 2017, expires Feb. 15, 2018. A proposed amendment covering this same material is published in this issue of the Missouri Register. 
+June 1, 2017 Vol. 42, No. 11 
+Executive Orders 
+MISSOURI REGISTER 
+
+The Secretary of State shall publish all executive orders beginning January 1, 2003, pursuant to section 536.035.2, RSMo 2016. 
+ 
+863 
+
+Page 864 
+June 1, 2017 Vol. 42, No. 11 
+
+Executive Orders 
+  
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 865 
+  
+
+Page 866 
+June 1, 2017 Vol. 42, No. 11 
+
+Executive Orders 
+   
+June 1, 2017 Vol. 42, No. 11 
+Proposed Rules 
+MISSOURI REGISTER 
+
+Under this heading will appear the text of proposed rules and changes. The notice of proposed rulemaking is required to contain an explanation of any new rule or any change in an existing rule and the reasons therefor. This is set out in the Purpose section with each rule. Also required is a citation to the legal authority to make rules. This appears fol- lowing the text of the rule, after the word “Authority.” Entirely new rules are printed without any special symbol- 
+ogy under the heading of proposed rule. If an existing rule is to be amended or rescinded, it will have a heading of proposed amendment or proposed rescission. Rules which are proposed to be amended will have new matter printed in boldface type and matter to be deleted placed in brackets. An important function of the Missouri Register is to solicit 
+and encourage public participation in the rulemaking process. The law provides that for every proposed rule, amendment, or rescission there must be a notice that anyone may comment on the proposed action. This comment may take different forms. If an agency is required by statute to hold a public hearing 
+before making any new rules, then a Notice of Public Hearing will appear following the text of the rule. Hearing dates must be at least thirty (30) days after publication of the notice in the Missouri Register. If no hearing is planned or required, the agency must give a Notice to Submit Comments. This allows anyone to file statements in support of or in opposition to the proposed action with the agency within a specified time, no less than thirty (30) days after pub- lication of the notice in the Missouri Register. 
+An agency may hold a public hearing on a rule even though not required by law to hold one. If an agency allows comments to be received following the hearing date, the close of comments date will be used as the beginning day in the ninety- (90-) day-count necessary for the filing of the order of rulemaking. 
+If an agency decides to hold a public hearing after planning not to, it must withdraw the earlier notice and file a new notice of proposed rulemaking and schedule a hearing for a date not less than thirty (30) days from the date of publication of the new notice. 
+Proposed Amendment Text Reminder: Boldface text indicates new matter. [Bracketed text indicates matter being deleted.] 
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2200—State Board of Nursing Chapter 4—General Rules 
+PROPOSED AMENDMENT 20 CSR 2200-4.020 Requirements for Licensure. The board is 
+amending sections (1) and (5). 
+PURPOSE: This amendment is to recognize the Air Force Basic Medical Technician Corpsman Program 4N051 – 5 Skill Level and above to meet educational standards/academic preparation for licen- sure as a practical nurse. 
+(1) Examination. (B) The registered professional nurse (RN) candidate shall have 
+successfully completed the basic prescribed curriculum and received a degree or diploma from a school with an [accredited] approved professional nursing program. The practical nurse candidate shall have successfully completed a basic prescribed curriculum in an [accredited] approved school of practical nursing and have earned a practical nursing degree, diploma, or certificate or completed a comparable period of training as determined by the board. A compa- rable period of training as determined by the board shall mean grad- uation from an [accredited] approved professional nursing program with validation by examination of a personal and vocational concepts course by an [accredited] approved practical nursing program or graduation from the Army Practical Nurse Program. 
+(C) Pursuant to section 324.007, RSMo, the education, training, and/or service received and completed through the Air Force Basic Medical Technician Corpsman Program (BMTCP) – 4N051-5 Skill Level is an approved program for practical nursing. Any applicant for licensure for practical nursing who has successfully completed the BMTCP – 4N051-5 Skill Level, or above, has met the educa- tional qualifications for licensure by examination. 
+[(C)](D) The candidate shall make written application to the Missouri State Board of Nursing for permission to [be admitted to] take the licensing examination for professional/practical nurses. Application forms for the licensing examination shall be obtained from the Missouri State Board of Nursing. 
+[1. A request for forms shall be made by the director of the program of professional/ practical nursing and should include the names and completion dates of candidates who expect to apply for admission to the examination. 
+2. Application forms for out-of-state/country graduates may be obtained by contacting the State Board of Nursing, giving name, address, name and address of school of nurs- ing and completion date.] 
+[3.]1. Any applicant applying for the practical nurse licensing examination who is deficient in theory, clinical experience, or both, as stated in 20 CSR 2200, Chapter 3—Practical Nursing, and has not earned a practical nursing degree or met the requirements for a com- parable period of training as determined by the board pursuant to 20 CSR 2200-4.020(1)(B) or (C), will not be approved. 
+[(D)](E) A completed application for the licensing examination signed and accompanied by one (1) two-inch by two-inch (2"× 2") portrait/photograph of the applicant shall be submitted to the Missouri State Board of Nursing for evaluation along with the required examination fee, and proof of submission of fingerprints to the Missouri State Highway Patrol’s approved vendor for both a Missouri State Highway Patrol and Federal Bureau of Investigation fingerprint background check prior to the established deadline date set by the Missouri State Board of Nursing. Proof shall consist of any documentation acceptable to the board. Any fees due for fingerprint background checks shall be paid by the applicant directly to the Missouri State Highway Patrol or its approved vendor. All fees are nonrefundable. Note: The name appearing on the application will be the only legal name of the individual recognized by the Missouri State Board of Nursing unless evidence of the change in name has been submitted. 
+[(E)](F) An application for a candidate’s first licensing examina- tion in Missouri shall bear the school seal and the signature of the director of the program of professional/practical nursing. This shall indicate the endorsement of the candidate to take the licensing exam- ination. The affidavit portion of the application shall be properly exe- cuted before a notary public. 
+[(F) Applicants approved by the Missouri State Board of Nursing as eligible to take the licensing examination for profes- sional/practical nurses shall be notified and forwarded identi- fying material and specific information as to date, time, and place. Candidates shall take the current National Council of State Boards of Nursing, Incorporated Licensure Examination 
+867 
+
+Page 868 
+Proposed Rules 
+June 1, 2017 Vol. 42, No. 11 
+for professional/practical nurses.] 
+(K) A transcript of the final record shall be submitted to the Missouri State Board of Nursing for each applicant upon completion of the program of professional/practical nursing. The seal, if avail- able, of the school and signature of the director of the program of professional/practical nursing [or], registrar shall be affixed to the transcript. The transcript must include the degree/designation awarded and date of graduation or completion. A candidate cannot take the licensure examination until all licensure requirements are met, including providing a transcript. 
+(5) Licensure by Endorsement in Missouri—Registered Nurses (RNs) and Licensed Practical Nurses (LPNs). 
+(A) A professional/practical nurse licensed in another state or ter- ritory of the United States shall be entitled to licensure provided qualifications are equivalent to the requirements of Missouri at the time of original licensure. This equivalency shall be defined as— 
+1. Evidence of completion and graduation from an [accredit- ed] approved program of professional/practical nursing if educated in a state of the United States; a course-by-course evaluation report received directly from a credentials evaluation service approved by the board or a Commission on Graduates of Foreign Nursing Schools (CGFNS) certificate if the initial nursing education was earned in a territory, Canada, or another country; 
+2. Attainment of a passing standard score or pass designation as determined by the Missouri State Board of Nursing on the licensing examination or attainment of an acceptable grade in areas compara- ble to those required in Missouri at the time licensure was secured in the state of original licensure; 
+3. Evidence of completion of the applicable secondary educa- tion set forth in section 335.046, RSMo, requirements or the equiv- alent as determined by the State Department of Education; 
+4. Applicants who are not citizens of the United States who have completed programs in schools of professional/practical nursing in states which require citizenship for licensure may take the National Council Licensure Examination for professional/practical nurses in Missouri if they meet all of Missouri’s requirements; and 
+5. If an individual was licensed by waiver as a practical/voca- tional nurse in another state, territory, or foreign country prior to July 1, 1955, and the individual meets the requirements for licensure as a practical nurse in Missouri which were in effect at the time the individual was licensed in the other jurisdiction, she/he is eligible for licensure in Missouri as an LPN. If an individual is licensed by waiv- er in another state after July 1, 1955, she/he does not qualify for licensure by waiver in Missouri as a practical nurse. 
+AUTHORITY: sections 335.036.1(2) and (7), 335.046, 335.051, and 335.066, [RSMo Supp. 2013, and sections 335.046 and 335.051,] RSMo [2000] 2016. This rule originally filed as 4 CSR 200-4.020. Original rule filed Oct. 14, 1981, effective Jan. 14, 1982. For intervening history, please consult the Code of State Regulations. Emergency amendment filed April 27, 2017, effective May 9, 2017, expires Feb. 15, 2018. Amended: Filed April 27, 2017. 
+PUBLIC COST: This proposed amendment will cost state agencies or political subdivisions between three hundred eighty-six dollars and thirty-six cents ($386.36) and three hundred ninety-five dollars and forty-one cents ($395.41) annually for the life of the rule. It is antic- ipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate projected by the Legislative Oversight Committee. 
+PRIVATE COST: This proposed amendment will cost private entities approximately two thousand seven hundred thirty-nine dollars ($2,739) annually for the life of the rule. It is anticipated that the costs will recur for the life of the rule, may vary with inflation, and are expected to increase at the rate projected by the Legislative Oversight Committee. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the State Board of Nursing, Lori Scheidt, Executive Director, PO Box 656, Jefferson City, MO 65102, by fax at (573) 751-0075, or via email at nursing@pr.mo.gov. To be considered, comments must be received within thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 869 
+  
+Page 870 Proposed Rules 
+June 1, 2017 Vol. 42, No. 11 
+
+ 
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 871 
+
+Title 20—DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION Division 2235—State Committee of Psychologists Chapter 1—General Rules 
+PROPOSED AMENDMENT 20 CSR 2235-1.020 Fees. The board is amending section (1). 
+PURPOSE: This rule is being amended pursuant to section 337.085, RSMo, which states the committee shall by rule and regulation set the amount of fees authorized by Chapter 337, RSMo so that the revenue produced is sufficient, but not excessive, to cover the cost and expense to the board for administering the provisions of Chapter 337, RSMo. 
+(1) The following fees are established for the State Committee of Psychologists and are payable to the State Committee of Psychologists: 
+(E) Biennial Renewal Fee 
+1. Effective November 1, 2017 to October 31, 2019 
+(F) Delinquency Fee (effective [February] April 1 after each renewal period, in addition to the Renewal Fee) 
+1. Effective April 1, 2018 to October 31, 2019 
+(G) Inactive License Fee 
+1. Effective November 1, 2017 to October 31, 2019 
+(H) Reactivation Fee 
+1. Effective November 1, 2017 to October 31, 2019 
+(O) Health Service Provider Biennial Renewal Fee 
+1. Effective November 1, 2017 to October 31, 2019 
+$300.00 
+$ 50.00 
+$150.00 
+$ 25.00 
+$100.00 
+$ 10.00 
+$150.00 
+$ 40.00 
+$100.00 
+$ 10.00 
+AUTHORITY: sections 337.030[, RSMo Supp. 2013, and sec- tion] and 337.050, RSMo [2000] 2016. This rule originally filed as 4 CSR 235-1.020. Emergency rule filed Dec. 9, 1981, effective Jan. 11, 1982, expired April 4, 1982. Original rule filed Dec. 9, 1981, effective April 4, 1982. For intervening history, please consult the Code of State Regulations. Amended: Filed May 15, 2017. 
+PUBLIC COST: This proposed amendment will cost state agencies or political subdivisions approximately three hundred seventy-eight thousand two hundred twenty dollars ($378,220) from November 1, 2017 to October 31, 2019 as a result of the proposed decrease. 
+PRIVATE COST: This proposed amendment will save private entities approximately three hundred seventy-eight thousand two hundred twenty dollars ($378,220) from November 1, 2017 to October 31, 2019 as a result of the proposed decrease. 
+NOTICE TO SUBMIT COMMENTS: Anyone may file a statement in support of or in opposition to this proposed amendment with the Missouri State Committee of Psychologists, PO Box 1335, Jefferson City, MO 65102, by facsimile at (573) 526-0661, or via email at scop@pr.mo.gov. To be considered, comments must be received with- in thirty (30) days after publication of this notice in the Missouri Register. No public hearing is scheduled. 
+Page 872 Proposed Rules 
+June 1, 2017 Vol. 42, No. 11 
+
+ 
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 873 
+  
+MISSOURI Orders of Rulemaking June 1, 2017 REGISTER Vol. 42, No. 11 
+
+This section will contain the final text of the rules proposed by agencies. The order of rulemaking is required to con- tain a citation to the legal authority upon which the order or rulemaking is based; reference to the date and page or pages where the notice of proposed rulemaking was published in the Missouri Register; an explanation of any change between the text of the rule as contained in the notice of proposed rulemaking and the text of the rule as finally adopted, togeth- er with the reason for any such change; and the full text of any section or subsection of the rule as adopted which has been changed from that contained in the notice of proposed rulemaking. The effective date of the rule shall be not less than thirty (30) days after the date of publication of the revi- sion to the Code of State Regulations. 
+The agency is also required to make a brief summary of the general nature and extent of comments submitted in support of or opposition to the proposed rule and a concise summary of the testimony presented at the hearing, if any, held in connection with the rulemaking, together with a con- cise summary of the agency’s findings with respect to the merits of any such testimony or comments which are opposed in whole or in part to the proposed rule. The ninety- (90-) day period during which an agency shall file its order of rulemaking for publication in the Missouri Register begins either: 1) after the hearing on the proposed rulemaking is held; or 2) at the end of the time for submission of comments to the agency. During this period, the agency shall file with the secretary of state the order of rulemaking, either putting the proposed rule into effect, with or without further changes, or withdrawing the proposed rule. 
+Title 4—DEPARTMENT OF ECONOMIC DEVELOPMENT Division 240—Public Service Commission Chapter 2—Practice and Procedure 
+ORDER OF RULEMAKING 
+By the authority vested in the Public Service Commission under sec- tions 386.040 and 386.410, RSMo 2016, the commission amends a rule as follows: 
+4 CSR 240-2.135 is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on January 3, 2017 (42 MoReg 14–17). Changes to the proposed amendment are reprinted here. This proposed amendment becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: The public comment period ended February 2, 2017, and the commission held a public hearing on the proposed amendment on February 16, 2017. The commission received timely written comments from the Missouri Cable Telecommunications Association (MCTA) and Kansas City Power & Light Company (KCP&L) and KCP&L Greater Missouri Operations Company (GMO). In addition, the commission received a written comment from attorney Carl Lumley on November 23, 2016. Although that comment was submitted before the proposed amendment was published in the Register, the commission will respond to it in this order. Jim Fischer, representing KCP&L/GMO; Rick Zucker, representing Laclede Gas and Missouri Gas Energy (Laclede/MGE); Tim Opitz, representing the Office of the Public Counsel; Chris Moody, on behalf of MCTA; 
+and Mark Johnson, representing the commission’s staff, appeared at the hearing and offered comments. 
+COMMENT #1: The comments from MCTA, KCPL/GMO, and Laclede/MGE share an overarching concern that the rule should con- tinue to protect competitively sensitive information from disclosure to employees of competing parties who are engaged in strategic mar- keting and planning. The existing rule does that by creating two (2) categories of confidential information: proprietary and highly confi- dential. Information that is designated as highly confidential can be disclosed only to attorneys and outside experts and not be viewed by employees, officers, or directors of the party. Information that should not be made public but which is not competitively sensitive is supposed to be designated as proprietary under the existing rule. 
+MCTA, KCPL/GMO, and Laclede/MGE would like the enhanced protections for highly confidential information to remain in the rule. Jim Fischer, speaking for KCPL/GMO, was particularly concerned that the commission not go back to routinely issuing “standard pro- tective orders” in every case, as was the practice before the current confidential information rule went into effect in 2006. Fischer believes it would be a waste of resources for the parties to have to negotiate and propose a protective order that can instead be estab- lished by rule. 
+RESPONSE: The new rule will continue to allow for the protection from disclosure of confidential information to persons that should not be allowed to view that information. But, the new rule will discour- age the practice of routinely over-designating information as highly confidential. 
+Proprietary was intended to be the routine designation for confi- dential information under the existing rule. The highly confidential designation was supposed to be reserved for information deserving of a higher level of protection. Unfortunately, over the years, parties have found it easier to simply designate all confidential information as highly confidential. As one (1) attorney-commenter explained at the hearing, “if I’ve designated something HC that wasn’t, not much happens. But if I fail to designate something HC that was, then I get in some trouble back home.” 
+The new rule tries to correct that over-designation problem by list- ing only one (1) set of categories that will receive standard protec- tions, which is called “confidential” information in the new rule. If a party believes that certain information should have a higher level of protection, the proposed rule allows the party to file a motion explaining what information must be protected and why. The intent is that the parties can negotiate the appropriate measures to protect that information from improper disclosure. They can then present their agreement to the commission for approval. Or, if they cannot agree, they can present their arguments to the commission for reso- lution of disputes regarding the details of how particular information should be protected. In that way, the increased protection afforded to highly confidential information can be limited to the information that truly needs to be protected and the public’s right to know the infor- mation that forms the basis for the commission’s decisions can be preserved. No change was made in response to this comment. 
+COMMENT #2: Paragraph (1)(B)5. of the existing rule, re-designat- ed as paragraph (2)(A)5. of the proposed rule, defines “reports, work papers, or other documents related to work produced by external auditors, consultants or attorneys” as confidential. The amended rule would add that “total amounts billed by each external auditor, con- sultant, or attorney shall always be public.” KCPL/GMO expressed concern that this revision could conflict with the attorney-client priv- ilege as it would apply to attorneys. It also believes the rule is over- broad in saying that all such bills must be public even outside the context of a rate case in which the utility might be trying to recover the cost of such reports. In other words, if a company wants to use shareholder funds to perform a study, or if the study costs were 
+874 
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 875 
+
+incurred outside a rate case test-year, those costs should not need to be made public. RESPONSE AND EXPLANATION OF CHANGE: The commis- sion intended that this provision make public auditor, consultant, and attorney fees that a utility is seeking to recover from its ratepayers in the context of a rate case. It agrees with the comment to the extent that such fees not associated with a rate case do not always need to be made public. The commission will modify paragraph (2)(A)5. to limit its application to “services related to general rate proceedings.” 
+COMMENT #3: MCTA expressed concern that section (4) presumes that all information must be disclosed to the parties in some way because it requires an explanation of how the information “shall” be disclosed to the parties that require the information. It points out that the FCC has found some information so confidential that it should not be disclosed to anyone other than to the commission. MCTA sug- gests the language be modified to recognize that in some circum- stances less, or even non-disclosure, may be appropriate. RESPONSE AND EXPLANATION OF CHANGE: The commis- sion understands that some information should be afforded extraordi- nary levels of protection and the rule would allow the commission to order such levels of protection in appropriate circumstances. The commission will alleviate MCTA’s concerns by changing “shall be disclosed” to “may be disclosed,” and deleting the clause that sug- gests some parties may require the information. 
+COMMENT #4: Subsection (4)(A) is intended to protect information from disclosure while a motion seeking a greater level of protection is pending. It does so by limiting disclosure to attorneys and outside experts, which is the restriction on disclosure of highly confidential information under the current rule. MCTA commented that some information may be entitled to even greater protection and should not be disclosed to anyone before the commission has a chance to rule on the request. MCTA suggests the subsection be modified to allow the party making the request to simply describe the information to be protected until the commission decides what limitations on disclosure should be afforded. Public counsel commented that such a descrip- tion of the information for which protection is sought would have to be sufficiently detailed to allow other parties to respond to the motion. 
+RESPONSE AND EXPLANATION OF CHANGE: The commis- sion agrees with the comments. The subsection will be modified to allow information to be protected from disclosure in the manner sought in the motion while the commission considers that motion. The modification will also require the moving party to provide a detailed summary of the information at issue. 
+COMMENT #5: Subsection (5)(B) of the proposed amendment requires a party designating discovery information as confidential to describe how “each piece” of that information qualifies as confiden- tial under the rule. KCPL/GMO is concerned that requiring a description of the confidentiality of “each piece” of information could require excessive detail and could lead to additional disputes among the parties. 
+RESPONSE AND EXPLANATION OF CHANGE: The commis- sion agrees with the comment. The subsection will be modified to remove the phrase “each piece of” from the requirement of an expla- nation of how information qualifies as confidential. 
+COMMENT #6: Laclede/MGE questioned the deletion of existing subsection (3)(C), which states that the rule does not require disclo- sure of information that would otherwise be protected from disclo- sure by any privilege or other rule regarding discovery. Laclede/MGE suggests such provision is essential. 
+RESPONSE: The commission agrees that this rule does not require disclosure of information otherwise protected from discovery. But this subsection is no longer necessary because that protection is now recognized in the first section of the new rule. No change was made in response to this comment. 
+COMMENT #7: MCTA is concerned that the proposed amendment would allow employees of competitive companies to view highly con- fidential, competitively sensitive information. It urges the commis- sion to add restrictions to section (6) to prohibit the release of such information to employees of a party who are engaged in marketing or strategic planning activities. 
+RESPONSE: The commission recognizes that competitively sensitive information may need a higher level of protection from disclosure. The proposed amendment allows for a higher level of protection if the disclosing party wants to seek such protections. For that reason the protections sought by MCTA do not need to be included in the rule. No change was made in response to this comment. 
+COMMENT #8: The proposed amendment deletes section (5) of the existing rule. That section describes the circumstances in which high- ly confidential information should be handled and disclosed to par- ties. KCPL/GMO and MCTA argue that the existing rule’s provisions regarding the handling of highly confidential information are helpful and generally accepted by all parties appearing before the commis- sion. They suggest there is no reason to require the parties to rene- gotiate these provisions in every case. 
+RESPONSE: The commission agrees that the provisions contained in the deleted section may appropriately be included in a motion for additional protection beyond what is provided in section (2) of the rule. But, the use of such provisions should be considered by the commission on a case-by-case basis when deciding whether to grant such a request. They do not need to be included in the rule and the section will be deleted. No change was made in response to this com- ment. 
+COMMENT #9: Carl Lumley points out an error in section (7) of the proposed amendment. The section requires a written certificate of “such expert or party.” Earlier in the section reference is made to experts and employees of a party. The second reference should also be to “employee of a party,” rather than just “party.” 
+RESPONSE AND EXPLANATION OF CHANGE: The commis- sion agrees with the comment and will correct the error. 
+COMMENT #10: Section (10) of the proposed amendment continues the existing rule’s description of how confidential information is to be delineated in prefiled testimony. Carl Lumley comments that the same delineation requirements should also apply to other documents filed with the commission, such as briefs and pleadings. RESPONSE AND EXPLANATION OF CHANGE: The commission agrees with the comment and will add a new subsection (10)(D) that will apply the same delineation requirements to briefs and pleadings. 
+COMMENT #11: Carl Lumley comments that section (11) is limited to challenges to the designation of confidential information in discov- ery or testimony. He suggests it should also apply to briefs and plead- ings. 
+RESPONSE AND EXPLANATION OF CHANGE: The commis- sion agrees with the comment, and section (11) will be made to apply to briefs and pleadings as well as discovery and testimony. 
+COMMENT #12: Section (13) of the existing rule allows a party responding to a discovery request to require that voluminous or hard to copy information be reviewed on its premises or at some other location. That section is deleted from the proposed amendment. KCPL/GMO asks that the section be retained in the new rule, con- tending that it has proven to be useful. 
+RESPONSE: The commission agrees that provisions of this section regarding voluminous or hard to copy information may be useful. However, they are not related to a question of confidentiality and thus do not belong in this rule. No change was made in response to this comment. 
+COMMENT #13: Staff pointed to a section of statute that references 
+
+Page 876 
+June 1, 2017 Vol. 42, No. 11 
+
+Orders of Rulemaking 
+
+“proprietary” information at the commission. Paragraph 392.550.3(7)(c), RSMo 2016 requires a registrant seeking to provide interconnected voice over internet protocol service to give the com- mission certain information and requires the commission to maintain that information as “proprietary” and not available to the public. RESPONSE AND EXPLANATION OF CHANGE: The revised rule will no longer recognize a “propriety” designation for confiden- tial information, but the new “confidential” designation will still pro- tect that information from public disclosure as contemplated by the statute. The commission will add a new section (20) to clarify that any reference to proprietary or highly confidential information in any statute or other regulation of this commission shall be interpreted as a reference to confidential information under this rule. 
+COMMENT #14: Public counsel generally supports the revisions to the rule to ensure that information that should be available to the pub- lic is not improperly designated as confidential or highly confiden- tial. In particular, Public counsel applauds the removal of the time limits on the filing of challenges to confidential designation of infor- mation. 
+RESPONSE: The commission thanks Public counsel for its com- ment. No change was made in response to this comment. 
+COMMENT #15: In reviewing the proposed amendment, the com- mission notes that words are missing from subsection (2)(B). The subsection should require a reference to the “paragraph of” 4 CSR 240-2.135(2)(A) through which the information is protected. RESPONSE AND EXPLANATION OF CHANGE: The missing words have been added to subsection (2)(B). 
+4 CSR 240-2.135 Confidential Information 
+(2) Confidential Designation. (A) Any person may submit to the commission, without first 
+obtaining a protective order, information designated as confidential if that information is— 
+1. Customer-specific information; 2. Employee-sensitive personnel information; 3. Marketing analysis or other market-specific information 
+relating to services offered in competition with others; 4. Marketing analysis or other market-specific information relating to goods or services purchased or acquired for use by a com- 
+pany in providing services to customers; 5. Reports, work papers, or other documentation related to 
+work produced by internal or external auditors, consultants, or attor- neys, except that total amounts billed by each external auditor, con- sultant, or attorney for services related to general rate proceedings shall always be public; 
+6. Strategies employed, to be employed, or under consideration in contract negotiations; 
+7. Relating to the security of a company’s facilities; or 
+8. Concerning trade secrets, as defined in section 417.453, RSMo. 
+(B) Any information designated as confidential shall be submitted with a cover sheet or pleading describing how such information qual- ifies as confidential under subsection (2)(A) of this rule, including the specific subsection relied upon and an explanation of its applica- bility. Only the specific information that qualifies as confidential shall be designated as such. In addition, each document that contains confidential information shall bear the designation “Confidential” and the paragraph(s) of 4 CSR 240-2.135(2)(A) through which that information is protected. 
+(4) The commission may order greater protection than that provided by a confidential designation upon a motion explaining what infor- mation must be protected, the harm to the disclosing entity or the public that might result from disclosure of the information, and an explanation of how the information may be disclosed while protecting 
+the interests of the disclosing entity and the public. (A) While such a motion is pending, the disclosing party request- 
+ing greater protection will be afforded the protection sought. However, in all circumstances, the disclosing party must, at a mini- mum, provide a detailed summary of the information at issue. 
+(B) Any document that contains such information shall bear the designation “Highly Confidential,” rather than “Confidential,” but shall otherwise follow the formatting delineated in section (10) of this rule. 
+(5) When a party seeks discovery of information that the party from whom discovery is sought believes to be confidential, the party from whom discovery is sought may designate the information confidential. 
+(A) No order from the commission is necessary before a party in any case pending before the commission may designate discovery responses confidential, and such information shall be protected as provided in this rule. 
+(B) The party that designates discovery information confidential shall inform, in writing, the party seeking discovery how that infor- mation qualifies as confidential under subsection (2)(A) of this rule at the same time it responds to the discovery request. If the party seeking discovery disagrees with the designation placed on the infor- mation, that party shall follow the informal discovery dispute resolu- tion procedures set forth in 4 CSR 240-2.090(8). If the party seeking discovery exhausts these dispute resolution procedures, that party may file a motion challenging the designation. 
+(7) Any employee of a party or outside expert retained by a party that wishes to review confidential information shall first certify in writing that such expert or employee of a party will comply with the require- ments of this rule. 
+(A) The certification shall include the signatory’s full name, per- manent address, title or position, date signed, the case number of the case for which the signatory will view the information, and the iden- tity of the party for whom the signatory is acting. 
+(C) The party seeking disclosure of the confidential information shall provide a copy of the certificate to the disclosing party before disclosure is made. 
+(10) Any prefiled testimony that contains information designated as confidential shall be filed with both a public and a nonpublic version as follows: 
+(A) For the public version, the confidential portions shall be removed. The removal of confidential information shall be indicated by underlining and two (2) asterisks before and after the confidential information, e.g., **confidential information removed**. The desig- nated information shall be removed in such a way that the lineation and pagination of the public version remains the same as the confi- dential version; 
+(B) For the nonpublic version of the prefiled testimony, the confi- dential information shall be indicated by underlining and by two (2) asterisks before and after the confidential information, e.g., **con- fidential information**; 
+(C) At the hearing, the party offering the prefiled testimony shall present a public version of the testimony in which the confidential portions are removed. The public version of the testimony will be marked as Exhibit ___. The offering party shall also present a sepa- rate copy of the prefiled testimony containing confidential informa- tion, sealed in an envelope. The version of the testimony containing confidential information will be marked as Exhibit ___C. 
+(D) These delineation requirements shall also be used when desig- nating confidential portions of pleadings and briefs. 
+(11) At any time after the filing of discovery, testimony, brief, or pleading that contains information designated as confidential, the commission may challenge the designation of the discovery, testimo- ny, brief, or pleading. A party may also challenge such a designation at any time by filing an appropriate motion with the commission. 
+    
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 877 
+
+(20) Any reference in any statute or other regulation of this commis- sion that refers to proprietary or highly confidential information shall be interpreted to mean confidential information under this rule. 
+Title 5—DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION Division 20—Division of Learning Services Chapter 100—Office of Quality Schools 
+ORDER OF RULEMAKING 
+By the authority vested in the State Board of Education (board) under sections 160.400–160.425 and 161.092, RSMo 2016, the board amends a rule as follows: 
+5 CSR 20-100.260 Standards for Charter Sponsorship is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on January 17, 2017 (42 MoReg 85). No changes have been made in the text of the proposed amendment, so it is not reprinted here. This proposed amendment becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: The board received three (3) com- ments on the proposed amendment. 
+COMMENTS: Bill Mendelsohn, Executive Director, Charter Schools Office, University of Missouri-St. Louis; Robbyn Wahby, Executive Director, Missouri Charter Public School Commission; and Victoria Hughes, Ed.D., Office of Charter Schools, University of Central Missouri-Warrensburg; noted that they are in support of these changes. RESPONSE: No changes have been made to the amendment as a result of these comments. 
+Title 5—DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION Division 20—Division of Learning Services Chapter 100—Office of Quality Schools 
+ORDER OF RULEMAKING 
+By the authority vested in the State Board of Education (board) under sections 160.405 and 161.092, RSMo 2016, the board adopts a rule as follows: 
+5 CSR 20-100.280 is adopted. 
+A notice of proposed rulemaking containing the text of the proposed rule was published in the Missouri Register on January 17, 2017 (42 MoReg 85–86). Those sections with changes are reprinted here. This proposed rule becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: The board received three (3) com- ments on the proposed rule. 
+COMMENT #1: Bill Mendelsohn, Executive Director, Charter Schools Office, University of Missouri-St. Louis; and Victoria Hughes, Ed.D., Office of Charter Schools, University of Central Missouri-Warrensburg; noted that they are in support of this rule. RESPONSE: No changes have been made to the rule as a result of this comment. 
+COMMENT #2: Robbyn Wahby, Executive Director, Missouri Charter Public School Commission, stated “this proposed rule repli- 
+cates statute language and is not necessary.” RESPONSE AND EXPLANATION OF CHANGE: The board agreed to make the change to clarify the purpose of the proposed rule. 
+5 CSR 20-100.280 Charter School Expedited Renewal Application Process 
+PURPOSE: This rule establishes the method for expediting the renewal process for a charter school that meets the requirements of section 160.405.9.(2)(d), RSMo 2016. 
+Title 5—DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION Division 20—Division of Learning Services Chapter 100—Office of Quality Schools 
+ORDER OF RULEMAKING 
+By the authority vested in the State Board of Education (board) under sections 160.400–160.425 and 167.349, RSMo 2016, the board adopts a rule as follows: 
+5 CSR 20-100.290 Charter School Expedited Replication and Expansion Application Process is adopted. 
+A notice of proposed rulemaking containing the text of the proposed rule was published in the Missouri Register on January 17, 2017 (42 MoReg 86). No changes have been made in the text of the proposed rule, so it is not reprinted here. This proposed rule becomes effective thirty (30) days after publication in the Code of State Regulations. 
+SUMMARY OF COMMENTS: The board received two (2) com- ments on this proposed rule. 
+COMMENTS: Victoria Hughes, Ed.D., Office of Charter Schools, University of Central Missouri-Warrensburg, and Robbyn Wahby, Executive Director, Missouri Charter Public School Commission, noted that they are in support of this rule. 
+RESPONSE: No changes have been made to the rule as a result of these comments. 
+Title 6—DEPARTMENT OF HIGHER EDUCATION Division 10—Commissioner of Higher Education Chapter 3—Residency and Transfer 
+ORDER OF RULEMAKING 
+By the authority vested in the Department of Higher Education under sections 173.005.2(7), 173.081, 173.1150.3, and 173.1153.4, RSMo 2016, the department amends a rule as follows: 
+6 CSR 10-3.010 Determination of Student Residency is amended. 
+A notice of proposed rulemaking containing the text of the proposed amendment was published in the Missouri Register on February 1, 2017 (42 MoReg 174–177). No changes have been made in the text of the proposed amendment, so it is not reprinted here. This pro- posed amendment becomes effective thirty (30) days after publica- tion in the Code of State Regulations. 
+SUMMARY OF COMMENTS: No comments were received. 
+MISSOURI In Additions June 1, 2017 REGISTER Vol. 42, No. 11 
+
+This section may contain notice of hearings, correction notices, public information notices, rule action notices, statements of actual costs, and other items required to be pub- lished in the Missouri Register by law. 
+Title 7—DEPARTMENT OF TRANSPORTATION Division 10—Missouri Highways and Transportation Commission Chapter 25—Motor Carrier Operations 
+IN ADDITION 
+7 CSR 10-25.010 Skill Performance Evaluation Certificates for Commercial Drivers 
+PUBLIC NOTICE 
+Public Notice and Request for Comments on Applications for Issuance of Skill Performance Evaluation Certificates to Intrastate Commercial Drivers with Diabetes Mellitus or Impaired Vision 
+SUMMARY: This notice publishes MoDOT’s receipt of applications for the issuance of Skill Performance Evaluation (SPE) Certificates from individuals who do not meet the physical qualification require- ments in the Federal Motor Carrier Safety Regulations for drivers of commercial motor vehicles in Missouri intrastate commerce because of impaired vision or an established medical history or clinical diag- nosis of diabetes mellitus currently requiring insulin for control. If granted, the SPE Certificates will authorize these individuals to qual- ify as drivers of commercial motor vehicles (CMVs), in intrastate commerce only, without meeting the vision standard prescribed in 49 CFR 391.41(b)(10), if applicable, or the diabetes standard prescribed in 49 CFR 391.41(b)(3). 
+DATES: Comments must be received at the address stated below, on or before, July 3, 2017. 
+ADDRESSES: You may submit comments concerning an applicant, identified by the Application Number stated below, by any of the fol- lowing methods: • Email: Pamela.lueckenotto@modot.mo.gov 
+• Mail: PO Box 270, Jefferson City, MO 65102 • Hand Delivery: 830 MoDOT Drive, Jefferson City, MO 65102 • Instructions: All comments submitted must include the agency name and Application Number for this public notice. For detailed instruc- tions on submitting comments, see the Public Participation heading of the Supplementary Information section of this notice. All comments received will be open and available for public inspection and MoDOT may publish those comments by any available means. 
+COMMENTS RECEIVED BECOME MoDOT PUBLIC RECORD 
+• By submitting any comments to MoDOT, the person authorizes MoDOT to publish those comments by any available means. • Docket: For access to the department’s file, to read background doc- uments or comments received, 830 MoDOT Drive, Jefferson City, MO 65102, between 7:30 a.m. and 4:00 p.m., CT, Monday through Friday, except state holidays. 
+FOR FURTHER INFORMATION CONTACT: Pam Lueckenotto, Motor Carrier Investigations Specialist, 636-288-6082, MoDOT Motor Carrier Services Division, PO Box 270, Jefferson City, MO 65102. Office hours are from 7:30 a.m. to 4:00 p.m., CT, Monday through Friday, except state holidays. 
+SUPPLEMENTARY INFORMATION: 
+Public Participation 
+If you want us to notify you that we received your comments, please include a self-addressed, stamped envelope or postcard. 
+Background 
+The individuals listed in this notice have recently filed applications requesting MoDOT to issue SPE Certificates to exempt them from the physical qualification requirements relating to vision in 49 CFR 391.41(b)(10), or to diabetes in 49 CFR 391.41(b)(3), which other- wise apply to drivers of CMVs in Missouri intrastate commerce. 
+Under section 622.555, RSMo, MoDOT may issue an SPE Certificate, for not more than a two- (2-) year period, if it finds that the applicant has the ability, while operating CMVs, to maintain a level of safety that is equivalent to or greater than the driver qualifi- cation standards of 49 CFR 391.41. Upon application, MoDOT may renew an exemption upon expiration. 
+Accordingly, the agency will evaluate the qualifications of each appli- cant to determine whether issuing an SPE Certificate will comply with the statutory requirements and will achieve the required level of safety. If granted, the SPE Certificate is only applicable to intrastate transportation wholly within Missouri. 
+Qualifications of Applicants Application #121 Renewal Applicant’s Name & Age: Shawn L. Collins, 40 
+Relevant Physical Condition: Vision impaired. Mr. Collins’ best corrected visual acuity in his right eye is 20/60 Snellen. His best corrected visual acuity in his left eye is 20/20 Snellen. Mr. Collins has had this visual impairment since birth, August 17, 1976. 
+Relevant Driving Experience: Mr. Collins has approximately seven- teen (17) years of commercial motor vehicle experience. Mr. Collins currently has a Class B license. In addition, he has experience dri- ving personal vehicle(s) daily. 
+Doctor’s Opinion & Date: Following an examination in March 2017, a board-certified optometrist certified his condition would not adversely affect his ability to operate a commercial motor vehicle safely. 
+Traffic Accidents and Violations: Mr. Collins has had no tickets or accidents on record for the previous three (3) years. 
+Request for Comments 
+The Missouri Department of Transportation, Motor Carrier Services Division, pursuant to section 622.555, RSMo, and rule 7 CSR 10- 25.010, requests public comment from all interested persons on the applications for issuance of Skill Performance Evaluation Certificates described in this notice. We will consider all comments received before the close of business on the closing date indicated earlier in this notice. 
+Issued on: April 18, 2017 
+Scott Marion, Motor Carrier Services Director, Missouri Department of Transportation. 
+
+878 
+
+June 1, 2017 Vol. 42, No. 11 
+Dissolutions 
+MISSOURI REGISTER 
+
+The Secretary of State is required by sections 347.141 and 359.481, RSMo 2000, to publish dissolutions of limited liability companies and limited partnerships. The content requirements for the one-time publishing of these notices are prescribed by statute. This listing is published pursuant to these statutes. We request that documents submitted for publication in this section be submitted in camera ready 8 1/2" x 11" manuscript by email to adrules.dissolutions@sos.mo.gov. 
+ 
+ 
+879 
+
+Page 880 
+June 1, 2017 Vol. 42, No. 11 
+
+Dissolutions 
+     
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 881 
+    
+
+Page 882 
+June 1, 2017 Vol. 42, No. 11 
+
+Dissolutions 
+   
+
+Rule Changes Since Update to 
+June 1, 2017 Code of State Regulations MISSOURI Vol. 42, No. 11 REGISTER 
+
+This cumulative table gives you the latest status of rules. It contains citations of rulemakings adopted or proposed after deadline for the monthly Update Service to the Code of State Regulations, citations are to volume and page number in the Missouri Register, except for material in this issue. The first number in the table cite refers to the volume number or the publication year—41 (2016) and 42 (2017). MoReg refers to Missouri Register and the numbers refer to a specific Register page, R indicates a rescission, W indicates a withdrawal, S indicates a statement of actual cost, T indicates an order terminating a rule, N.A. indicates not applicable, RAN indicates a rule action notice, RUC indicates a rule under consideration, and F indicates future effective date. 
+Rule Number Agency Emergency Proposed 
+OFFICE OF ADMINISTRATION 
+1 CSR 10 State Officials’ Salary Compensation Schedule 
+Order 
+In Addition 
+41 MoReg 1477 
+1 CSR 20-5.015 Personnel Advisory Board and Division of Personnel 41 MoReg 1538 
+1 CSR 20-5.020 Personnel Advisory Board and Division of Personnel 41 MoReg 1539 
+DEPARTMENT OF AGRICULTURE 
+2 CSR 30-10.010 Animal Health 42 MoReg 709 42 MoReg 712 
+2 CSR 80-5.010 State Milk Board 42 MoReg 712 
+2 CSR 90-1.010 Weights, Measures and Consumer Protection 42 MoReg 5 42 MoReg 733 
+2 CSR 90-10.012 Weights, Measures and Consumer Protection 42 MoReg 713 
+2 CSR 90-10.013 Weights, Measures and Consumer Protection 42 MoReg 713 
+2 CSR 90-10.014 Weights, Measures and Consumer Protection 42 MoReg 714 
+2 CSR 90-10.120 Weights, Measures and Consumer Protection 42 MoReg 716 
+2 CSR 90-60.010 Weights, Measures and Consumer Protection 42 MoReg 6 42 MoReg 733 
+2 CSR 90-60.020 Weights, Measures and Consumer Protection 42 MoReg 7 42 MoReg 733 
+2 CSR 90-60.030 Weights, Measures and Consumer Protection 42 MoReg 7 42 MoReg 733 
+2 CSR 90-60.040 Weights, Measures and Consumer Protection 42 MoReg 9 42 MoReg 734 
+2 CSR 90-60.050 Weights, Measures and Consumer Protection 42 MoReg 9 42 MoReg 734 
+2 CSR 90-60.060 Weights, Measures and Consumer Protection 42 MoReg 9 42 MoReg 734 
+2 CSR 90-60.070 Weights, Measures and Consumer Protection 42 MoReg 10 42 MoReg 734 
+2 CSR 90-61.010 Weights, Measures and Consumer Protection 42 MoReg 22 42 MoReg 734 
+(Changed from 10 CSR 30-3.010) 
+2 CSR 90-61.020 Weights, Measures and Consumer Protection 42 MoReg 23 42 MoReg 734 
+(Changed from 10 CSR 30-3.020) 
+2 CSR 90-61.040 Weights, Measures and Consumer Protection 42 MoReg 23 42 MoReg 734 
+(Changed from 10 CSR 30-3.040) 
+2 CSR 90-61.050 Weights, Measures and Consumer Protection 42 MoReg 24 42 MoReg 735 
+(Changed from 10 CSR 30-3.050) 
+2 CSR 90-61.070 Weights, Measures and Consumer Protection 42 MoReg 25 42 MoReg 735 
+(Changed from 10 CSR 30-3.070) 
+2 CSR 90-61.080 Weights, Measures and Consumer Protection 42 MoReg 25 42 MoReg 735 
+(Changed from 10 CSR 30-3.080) 
+2 CSR 90-62.010 Weights, Measures and Consumer Protection 42 MoReg 26 42 MoReg 735 
+(Changed from 10 CSR 30-4.010) 
+2 CSR 90-62.020 Weights, Measures and Consumer Protection 42 MoReg 26 42 MoReg 735 
+(Changed from 10 CSR 30-4.020) 
+2 CSR 90-62.030 Weights, Measures and Consumer Protection 42 MoReg 27 42 MoReg 735 
+(Changed from 10 CSR 30-4.030) 
+2 CSR 90-62.040 Weights, Measures and Consumer Protection 42 MoReg 27 42 MoReg 736 
+(Changed from 10 CSR 30-4.040) 
+2 CSR 90-62.050 Weights, Measures and Consumer Protection 42 MoReg 28 42 MoReg 736 
+(Changed from 10 CSR 30-4.050) 
+2 CSR 90-62.060 Weights, Measures and Consumer Protection 42 MoReg 29 42 MoReg 736 
+(Changed from 10 CSR 30-4.060) 
+2 CSR 90-63.010 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-5.011) 
+2 CSR 90-63.020 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-5.020) 
+2 CSR 90-64.010 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-6.010) 
+2 CSR 90-64.020 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-6.020) 
+2 CSR 90-64.030 Weights, Measures and Consumer Protection 42 MoReg 57 
+(Changed from 10 CSR 30-6.030) 
+2 CSR 90-65.010 Weights, Measures and Consumer Protection 42 MoReg 10 42 MoReg 736 
+2 CSR 90-65.020 Weights, Measures and Consumer Protection 42 MoReg 11 42 MoReg 736 
+2 CSR 90-65.030 Weights, Measures and Consumer Protection 42 MoReg 11 42 MoReg 736 
+2 CSR 90-65.040 Weights, Measures and Consumer Protection 42 MoReg 12 42 MoReg 737 
+2 CSR 90-65.050 Weights, Measures and Consumer Protection 42 MoReg 12 42 MoReg 737 
+2 CSR 90-65.060 Weights, Measures and Consumer Protection 42 MoReg 13 42 MoReg 737 
+2 CSR 90-65.070 Weights, Measures and Consumer Protection 42 MoReg 13 42 MoReg 737 
+2 CSR 90-65.080 Weights, Measures and Consumer Protection 42 MoReg 14 42 MoReg 737 
+DEPARTMENT OF CONSERVATION 
+3 CSR 10-4.137 Conservation Commission 42 MoReg 381 
+3 CSR 10-4.140 Conservation Commission 42 MoReg 381 
+3 CSR 10-4.200 Conservation Commission 42 MoReg 382 
+3 CSR 10-5.220 Conservation Commission 42 MoReg 382 
+3 CSR 10-6.415 Conservation Commission 42 MoReg 382 
+3 CSR 10-7.440 Conservation Commission N.A. 42 MoReg 805 
+3 CSR 10-7.455 Conservation Commission 42 MoReg 220 
+3 CSR 10-10.715 Conservation Commission 42 MoReg 383 
+3 CSR 10-11.115 Conservation Commission 42 MoReg 384 
+3 CSR 10-11.130 Conservation Commission 42 MoReg 384 
+3 CSR 10-11.155 Conservation Commission 42 MoReg 384 
+3 CSR 10-11.180 Conservation Commission 
+42 MoReg 385 
+883 
+Page 884 
+Rule Changes Since Update 
+June 1, 2017 Vol. 42, No. 11 
+Rule Number Agency Emergency Proposed Order In Addition 
+3 CSR 10-11.186 Conservation Commission 42 MoReg 386 
+3 CSR 10-12.109 Conservation Commission 42 MoReg 387 
+3 CSR 10-12.110 Conservation Commission 42 MoReg 387 
+3 CSR 10-12.115 Conservation Commission 42 MoReg 387 
+3 CSR 10-12.125 Conservation Commission N.A. 42 MoReg 392 
+3 CSR 10-12.130 Conservation Commission 42 MoReg 388 
+3 CSR 10-12.135 Conservation Commission 42 MoReg 388 
+3 CSR 10-12.140 Conservation Commission N.A. 42 MoReg 393 
+DEPARTMENT OF ECONOMIC DEVELOPMENT 
+4 CSR 240-2.135 Public Service Commission 42 MoReg 14 This Issue 
+4 CSR 240-4.015 Public Service Commission 42 MoReg 17 
+4 CSR 240-4.017 Public Service Commission 42 MoReg 18 
+4 CSR 240-4.020 Public Service Commission 42 MoReg 18R 42 MoReg 19 
+4 CSR 240-4.030 Public Service Commission 42 MoReg 19 
+4 CSR 240-4.040 Public Service Commission 42 MoReg 20 
+4 CSR 240-4.050 Public Service Commission 42 MoReg 20 
+4 CSR 240-20.092 Public Service Commission 42 MoReg 160 
+4 CSR 240-20.093 Public Service Commission 42 MoReg 162 
+4 CSR 240-20.094 Public Service Commission 42 MoReg 168 
+4 CSR 240-40.020 Public Service Commission 41 MoReg 1896 42 MoReg 737 
+4 CSR 240-40.030 Public Service Commission 41 MoReg 1898 42 MoReg 738 
+4 CSR 240-40.080 Public Service Commission 41 MoReg 1907 42 MoReg 738 
+4 CSR 265-2.020 Division of Motor Carrier and Railroad Safety 41 MoReg 1660R 
+4 CSR 265-2.030 Division of Motor Carrier and Railroad Safety 41 MoReg 1660 
+(Changed to 7 CSR 265-10.017) 
+4 CSR 265-2.040 Division of Motor Carrier and Railroad Safety 41 MoReg 1661R 
+4 CSR 265-2.050 Division of Motor Carrier and Railroad Safety 41 MoReg 1662 
+(Changed to 7 CSR 265-10.051) 
+4 CSR 265-2.055 Division of Motor Carrier and Railroad Safety 41 MoReg 1662 
+(Changed to 7 CSR 265-10.052) 
+4 CSR 265-2.057 Division of Motor Carrier and Railroad Safety 41 MoReg 1663R 
+4 CSR 265-2.065 Division of Motor Carrier and Railroad Safety 41 MoReg 1663R 
+4 CSR 265-2.067 Division of Motor Carrier and Railroad Safety 41 MoReg 1664R 
+4 CSR 265-2.069 Division of Motor Carrier and Railroad Safety 41 MoReg 1664R 
+4 CSR 265-2.160 Division of Motor Carrier and Railroad Safety 41 MoReg 1664R 
+4 CSR 265-2.170 Division of Motor Carrier and Railroad Safety 41 MoReg 1665R 
+4 CSR 265-2.200 Division of Motor Carrier and Railroad Safety 41 MoReg 1665R 
+4 CSR 265-6.030 Division of Motor Carrier and Railroad Safety 41 MoReg 1665R 
+4 CSR 265-14.010 Division of Motor Carrier and Railroad Safety 41 MoReg 1665R 
+4 CSR 340-2 Division of Energy 41 MoReg 1440 42 MoReg 749 
+4 CSR 340-4.010 Division of Energy 41 MoReg 1895 41 MoReg 1907 
+4 CSR 340-6.010 Division of Energy 41 MoReg 1908 
+DEPARTMENT OF ELEMENTARY AND SECONDARY EDUCATION 
+5 CSR 20-100.260 Division of Learning Services 42 MoReg 85 This Issue 
+5 CSR 20-100.280 Division of Learning Services 42 MoReg 85 This Issue 
+5 CSR 20-100.290 Division of Learning Services 42 MoReg 86 This Issue 
+5 CSR 20-400.380 Division of Learning Services 41 MoReg 1797 42 MoReg 738 
+5 CSR 20-400.385 Division of Learning Services 41 MoReg 1802 42 MoReg 739 
+5 CSR 20-400.640 Division of Learning Services 41 MoReg 1540 42 MoReg 393W 
+5 CSR 30-261.025 Division of Financial and Administrative Services 41 MoReg 1909 42 MoReg 739 
+DEPARTMENT OF HIGHER EDUCATION 
+6 CSR 10-3.010 Commissioner of Higher Education 42 MoReg 174 This Issue 
+6 CSR 10-11.010 Commissioner of Higher Education 42 MoReg 21 42 MoReg 748 
+(Changed to 20 CSR 2200-7.010) 
+DEPARTMENT OF TRANSPORTATION 
+7 CSR Department of Transportation 41 MoReg 845 
+7 CSR 10-1.020 Missouri Highways and Transportation Commission 41 MoReg 1666 
+7 CSR 10-2.030 Missouri Highways and Transportation Commission 41 MoReg 1666R 
+7 CSR 10-10.010 Missouri Highways and Transportation Commission 42 MoReg 86 
+7 CSR 10-10.020 Missouri Highways and Transportation Commission 42 MoReg 86 
+7 CSR 10-10.030 Missouri Highways and Transportation Commission 42 MoReg 87 
+7 CSR 10-10.040 Missouri Highways and Transportation Commission 42 MoReg 87 
+7 CSR 10-10.050 Missouri Highways and Transportation Commission 42 MoReg 87 
+7 CSR 10-10.070 Missouri Highways and Transportation Commission 42 MoReg 88 
+7 CSR 10-15.010 Missouri Highways and Transportation Commission 42 MoReg 88 
+7 CSR 10-18.010 Missouri Highways and Transportation Commission 42 MoReg 90 
+7 CSR 10-18.020 Missouri Highways and Transportation Commission 42 MoReg 91 
+7 CSR 10-18.030 Missouri Highways and Transportation Commission 42 MoReg 91 
+7 CSR 10-18.040 Missouri Highways and Transportation Commission 42 MoReg 91 
+7 CSR 10-18.070 Missouri Highways and Transportation Commission 42 MoReg 92 
+7 CSR 10-18.090 Missouri Highways and Transportation Commission 42 MoReg 92 
+7 CSR 10-19.010 Missouri Highways and Transportation Commission 42 MoReg 93R 
+7 CSR 10-23.010 Missouri Highways and Transportation Commission 42 MoReg 93 
+7 CSR 10-23.020 Missouri Highways and Transportation Commission 42 MoReg 94 
+7 CSR 10-23.030 Missouri Highways and Transportation Commission 42 MoReg 94 
+June 1, 2017 Vol. 42, No. 11 
+Missouri Register Page 885 
+Rule Number Agency Emergency Proposed Order In Addition 
+7 CSR 10-25.010 
+Missouri Highways and Transportation Commission 
+41 MoReg 1666 
+42 MoReg 400 42 MoReg 401 42 MoReg 749 42 MoReg 750 42 MoReg 808 42 MoReg 809 42 MoReg 809 This Issue 
+7 CSR 10-25.020 Missouri Highways and Transportation Commission 41 MoReg 1668 
+7 CSR 10-25.030 Missouri Highways and Transportation Commission 41 MoReg 1680 
+7 CSR 10-25.070 Missouri Highways and Transportation Commission 41 MoReg 1681 
+7 CSR 10-25.072 Missouri Highways and Transportation Commission 41 MoReg 1682 
+7 CSR 10-25.080 Missouri Highways and Transportation Commission 41 MoReg 1683 
+7 CSR 10-26.010 Missouri Highways and Transportation Commission 42 MoReg 95 
+7 CSR 10-26.020 Missouri Highways and Transportation Commission 42 MoReg 95 
+7 CSR 60-1.010 Traffic and Highway Safety Division 41 MoReg 1684 
+7 CSR 60-1.020 Traffic and Highway Safety Division 41 MoReg 1685 
+7 CSR 60-1.030 Traffic and Highway Safety Division 41 MoReg 1686 
+7 CSR 60-1.050 Traffic and Highway Safety Division 41 MoReg 1687 
+7 CSR 60-1.060 Traffic and Highway Safety Division 41 MoReg 1687 
+7 CSR 60-2.010 Traffic and Highway Safety Division 41 MoReg 1688 
+7 CSR 60-2.020 Traffic and Highway Safety Division 41 MoReg 1689 
+7 CSR 60-2.030 Traffic and Highway Safety Division 41 MoReg 1690 
+7 CSR 60-2.040 Traffic and Highway Safety Division 41 MoReg 1695 
+7 CSR 60-2.050 Traffic and Highway Safety Division 41 MoReg 1699 
+7 CSR 60-2.060 Traffic and Highway Safety Division 41 MoReg 1699 
+7 CSR 60-3.010 Traffic and Highway Safety Division 41 MoReg 1721 
+(Changed from 11 CSR 30-3.010) 
+7 CSR 265-10.015 Motor Carrier and Railroad Safety 41 MoReg 1700 
+7 CSR 265-10.017 Motor Carrier and Railroad Safety 41 MoReg 1660 
+(Changed from 4 CSR 265-2.030) 
+7 CSR 265-10.025 Motor Carrier and Railroad Safety 41 MoReg 1701 
+7 CSR 265-10.051 Motor Carrier and Railroad Safety 41 MoReg 1662 
+(Changed from 4 CSR 265-2.050) 
+7 CSR 265-10.052 Motor Carrier and Railroad Safety 41 MoReg 1662 
+(Changed from 4 CSR 265-2.055) 
+7 CSR 265-10.055 Motor Carrier and Railroad Safety 41 MoReg 1701R 
+7 CSR 265-10.090 Motor Carrier and Railroad Safety 41 MoReg 1702R 
+7 CSR 265-10.140 Motor Carrier and Railroad Safety 41 MoReg 1702 
+DEPARTMENT OF LABOR AND INDUSTRIAL RELATIONS 
+8 CSR Department of Labor and Industrial Relations 41 MoReg 845 
+DEPARTMENT OF MENTAL HEALTH 
+9 CSR Department of Mental Health 41 MoReg 845 
+9 CSR 10-31.016 Director, Department of Mental Health 41 MoReg 1909 42 MoReg 806 
+9 CSR 10-31.030 Director, Department of Mental Health 41 MoReg 1910 42 MoReg 806 
+9 CSR 45-3.080 Division of Developmental Disabilities 42 MoReg 177 
+DEPARTMENT OF NATURAL RESOURCES 
+10 CSR Department of Natural Resources 41 MoReg 845 
+10 CSR 10-6.070 Air Conservation Commission 41 MoReg 1703 
+10 CSR 10-6.075 Air Conservation Commission 41 MoReg 1709 
+10 CSR 10-6.080 Air Conservation Commission 41 MoReg 1719 
+10 CSR 10-6.250 Air Conservation Commission 40 MoReg 1023 41 MoReg 37 
+10 CSR 26-2.010 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1133 42 MoReg 434 
+10 CSR 26-2.011 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1134 42 MoReg 444 
+10 CSR 26-2.012 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1135 42 MoReg 453 
+10 CSR 26-2.013 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1138 42 MoReg 465 
+10 CSR 26-2.019 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1139 42 MoReg 475 
+10 CSR 26-2.020 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1147 42 MoReg 487 
+10 CSR 26-2.021 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1150 42 MoReg 498 
+10 CSR 26-2.022 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1159 42 MoReg 511 
+10 CSR 26-2.030 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1159 42 MoReg 519 
+10 CSR 26-2.031 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1161 42 MoReg 529 
+10 CSR 26-2.032 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1162 42 MoReg 538 
+10 CSR 26-2.033 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1162 42 MoReg 547 
+10 CSR 26-2.034 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1164 42 MoReg 556 
+10 CSR 26-2.035 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1165 42 MoReg 566 
+10 CSR 26-2.036 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1165 42 MoReg 575 
+Page 886 
+Rule Changes Since Update 
+June 1, 2017 Vol. 42, No. 11 
+Rule Number Agency Emergency Proposed Order In Addition 
+10 CSR 26-2.040 Petroleum and Hazardous Substance Storage 
+Tanks 41 MoReg 1166 42 MoReg 585 
+10 CSR 26-2.041 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1167 42 MoReg 595 
+10 CSR 26-2.042 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1168 42 MoReg 605 
+10 CSR 26-2.043 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1169 42 MoReg 614 
+10 CSR 26-2.044 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1171 42 MoReg 624 
+10 CSR 26-2.045 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1172 42 MoReg 652 (Changed to 10 CSR 26-2.048) 
+10 CSR 26-2.046 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1172 
+41 MoReg 1308 42 MoReg 634 
+10 CSR 26-2.047 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1173 
+41 MoReg 1309 42 MoReg 643 
+10 CSR 26-2.048 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1172 42 MoReg 652 (Changed from 10 CSR 26-2.045) 
+10 CSR 26-2.050 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1174 42 MoReg 661 
+10 CSR 26-2.052 Petroleum and Hazardous Substance Storage Tanks 41 MoReg 1174 42 MoReg 670 
+10 CSR 30-3.010 Land Survey 42 MoReg 22 42 MoReg 734 
+(Changed to 2 CSR 90-61.010) 
+10 CSR 30-3.020 Land Survey 42 MoReg 23 42 MoReg 734 
+(Changed to 2 CSR 90-61.020) 
+10 CSR 30-3.030 Land Survey 42 MoReg 23R 42 MoReg 740R 
+10 CSR 30-3.040 Land Survey 42 MoReg 23 42 MoReg 734 
+(Changed to 2 CSR 90-61.040) 
+10 CSR 30-3.050 Land Survey 42 MoReg 24 42 MoReg 735 
+(Changed to 2 CSR 90-61.050) 
+10 CSR 30-3.060 Land Survey 42 MoReg 24R 42 MoReg 740R 
+10 CSR 30-3.070 Land Survey 42 MoReg 25 42 MoReg 735 
+(Changed to 2 CSR 90-61.070) 
+10 CSR 30-3.080 Land Survey 42 MoReg 25 42 MoReg 735 
+(Changed to 2 CSR 90-61.080) 
+10 CSR 30-4.010 Land Survey 42 MoReg 26 42 MoReg 735 
+(Changed to 2 CSR 90-62.010) 
+10 CSR 30-4.020 Land Survey 42 MoReg 26 42 MoReg 735 
+(Changed to 2 CSR 90-62.020) 
+10 CSR 30-4.030 Land Survey 42 MoReg 27 42 MoReg 735 
+(Changed to 2 CSR 90-62.030) 
+10 CSR 30-4.040 Land Survey 42 MoReg 27 42 MoReg 736 
+(Changed to 2 CSR 90-62.040) 
+10 CSR 30-4.050 Land Survey 42 MoReg 28 42 MoReg 736 
+(Changed to 2 CSR 90-62.050) 
+10 CSR 30-4.060 Land Survey 42 MoReg 29 42 MoReg 736 
+(Changed to 2 CSR 90-62.060) 
+10 CSR 30-4.070 Land Survey 42 MoReg 30R 42 MoReg 740R 
+DEPARTMENT OF PUBLIC SAFETY 
+11 CSR 30-3.010 Office of the Director 41 MoReg 1721 
+(Changed to 7 CSR 60-3.010) 
+11 CSR 30-16.010 Office of the Director 42 MoReg 180 
+11 CSR 30-16.020 Office of the Director 42 MoReg 182 
+11 CSR 45-4.020 Missouri Gaming Commission 41 MoReg 1543 
+11 CSR 45-5.053 Missouri Gaming Commission 41 MoReg 1543 
+11 CSR 45-5.183 Missouri Gaming Commission 41 MoReg 1804 42 MoReg 740 
+11 CSR 45-5.184 Missouri Gaming Commission 41 MoReg 1804 42 MoReg 740 
+11 CSR 45-9.104 Missouri Gaming Commission 41 MoReg 1804 42 MoReg 741 
+11 CSR 45-9.120 Missouri Gaming Commission 41 MoReg 1544 
+11 CSR 75-13.010 Peace Officer Standards and Training Program 42 MoReg 431 
+11 CSR 75-13.060 Peace Officer Standards and Training Program 42 MoReg 432 
+11 CSR 75-14.030 Peace Officer Standards and Training Program 42 MoReg 432 
+11 CSR 75-15.010 Peace Officer Standards and Training Program 42 MoReg 432 
+11 CSR 75-15.020 Peace Officer Standards and Training Program 42 MoReg 433 
+DEPARTMENT OF REVENUE 
+12 CSR 10-26.010 Director of Revenue 42 MoReg 781 
+12 CSR 30-4.010 State Tax Commission 41 MoReg 160 
+DEPARTMENT OF SOCIAL SERVICES 
+13 CSR 30-1.010 Child Support Enforcement 41 MoReg 1544R 42 MoReg 679R 
+13 CSR 30-2.020 Child Support Enforcement 41 MoReg 1544R 42 MoReg 679R 
+13 CSR 35-32.010 Children’s Division 42 MoReg 182R 
+13 CSR 35-32.050 Children’s Division 42 MoReg 183 
+13 CSR 35-32.060 Children’s Division 42 MoReg 185 
+13 CSR 35-32.070 Children’s Division 42 MoReg 187 
+13 CSR 35-32.080 Children’s Division 42 MoReg 195 
+June 1, 2017 Vol. 42, No. 11 
+Missouri Register Page 887 
+Rule Number Agency Emergency Proposed Order In Addition 
+13 CSR 35-32.090 Children’s Division 42 MoReg 203 
+13 CSR 35-32.100 Children’s Division 42 MoReg 206 
+13 CSR 35-32.110 Children’s Division 42 MoReg 206 
+13 CSR 35-32.120 Children’s Division 42 MoReg 207 
+13 CSR 35-32.130 Children’s Division 42 MoReg 208 
+13 CSR 40-1.010 Family Support Division 41 MoReg 1545 42 MoReg 679 
+13 CSR 40-15.455 Family Support Division 41 MoReg 1546 42 MoReg 393 
+13 CSR 40-19.010 Family Support Division 41 MoReg 1551R 42 MoReg 393R 
+13 CSR 40-19.020 Family Support Division 41 MoReg 1551 42 MoReg 394 
+13 CSR 40-19.030 Family Support Division 41 MoReg 1555R 42 MoReg 394R 
+13 CSR 65-3.050 Missouri Medicaid Audit and Compliance 41 MoReg 1556 42 MoReg 741W 42 MoReg 781 
+13 CSR 70-3.030 MO HealthNet Division 41 MoReg 1557 42 MoReg 679 
+13 CSR 70-3.240 MO HealthNet Division 41 MoReg 1558 42 MoReg 806 
+13 CSR 70-10.016 MO HealthNet Division 41 MoReg 1054 
+13 CSR 70-15.220 MO HealthNet Division 42 MoReg 209 
+13 CSR 110-2.140 Division of Youth Services 42 MoReg 716 
+ELECTED OFFICIALS 
+15 CSR 30-100.010 Secretary of State 42 MoReg 782 
+15 CSR 30-100.015 Secretary of State 42 MoReg 783 
+15 CSR 30-100.020 Secretary of State 42 MoReg 783 
+15 CSR 30-100.030 Secretary of State 42 MoReg 784 
+15 CSR 30-100.040 Secretary of State 42 MoReg 784R 
+15 CSR 30-100.050 Secretary of State 42 MoReg 784R 
+15 CSR 30-100.060 Secretary of State 42 MoReg 785 
+15 CSR 30-100.070 Secretary of State 42 MoReg 785 
+15 CSR 30-100.080 Secretary of State 42 MoReg 786 
+15 CSR 30-110.010 Secretary of State 42 MoReg 155 42 MoReg 211 42 MoReg 807 42 MoReg 255 
+15 CSR 30-110.020 Secretary of State 42 MoReg 156 42 MoReg 211 42 MoReg 807 42 MoReg 256 
+15 CSR 40-1.010 State Auditor 42 MoReg 212 42 MoReg 807 
+15 CSR 60-16.010 Attorney General 42 MoReg 717 
+15 CSR 60-16.020 Attorney General 42 MoReg 718 
+15 CSR 60-16.030 Attorney General 42 MoReg 718 
+15 CSR 60-16.040 Attorney General 42 MoReg 719 
+15 CSR 60-16.050 Attorney General 42 MoReg 719 
+DEPARTMENT OF HEALTH AND SENIOR SERVICES 
+19 CSR 15-8.410 Division of Senior and Disability Services 40 MoReg 131 
+19 CSR 30-1.002 Division of Regulation and Licensure 41 MoReg 1563 42 MoReg 394 
+19 CSR 30-40.309 Division of Regulation and Licensure 42 MoReg 709 42 MoReg 720 
+19 CSR 40-12.010 Division of Maternal, Child and Family Health 42 MoReg 726 
+19 CSR 60-50 Missouri Health Facilities Review Committee 42 MoReg 401 42 MoReg 751 42 MoReg 810 
+DEPARTMENT OF INSURANCE, FINANCIAL INSTITUTIONS AND PROFESSIONAL REGISTRATION 
+20 CSR Applied Behavior Analysis Maximum Benefit 42 MoReg 321 
+20 CSR Construction Claims Binding Arbitration Cap 41 MoReg 1925 
+20 CSR Sovereign Immunity Limits 41 MoReg 1925 
+20 CSR State Legal Expense Fund Cap 41 MoReg 1925 
+20 CSR 400-5.400 Life, Annuities and Health 41 MoReg 1579 42 MoReg 398 
+20 CSR 2015-1.030 Acupuncturist Advisory Committee 42 MoReg 156 
+20 CSR 2030-16.010 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 30 42 MoReg 741 
+20 CSR 2030-16.020 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 31R 42 MoReg 741R 42 MoReg 31 42 MoReg 742 
+20 CSR 2030-16.030 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 32R 42 MoReg 742R 42 MoReg 32 42 MoReg 742 
+20 CSR 2030-16.040 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 33R 42 MoReg 742R 42 MoReg 34 42 MoReg 742 
+20 CSR 2030-16.050 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 34R 42 MoReg 743R 42 MoReg 35 42 MoReg 743 
+20 CSR 2030-16.060 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 35R 42 MoReg 743R 42 MoReg 35 42 MoReg 743 
+20 CSR 2030-16.070 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 36R 42 MoReg 743R 
+20 CSR 2030-16.080 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 36R 42 MoReg 744R 
+20 CSR 2030-16.090 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 37R 42 MoReg 744R 
+Page 888 
+Rule Changes Since Update 
+June 1, 2017 Vol. 42, No. 11 
+Rule Number Agency Emergency Proposed Order In Addition 
+20 CSR 2030-16.100 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 37R 42 MoReg 744R 
+20 CSR 2030-16.110 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 37R 42 MoReg 744R 42 MoReg 38 42 MoReg 744 
+20 CSR 2030-17.010 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 38 42 MoReg 745 
+20 CSR 2030-17.020 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 38 42 MoReg 745 
+20 CSR 2030-17.030 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 39R 42 MoReg 745R 
+20 CSR 2030-17.040 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 39 42 MoReg 745 
+20 CSR 2030-17.050 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 40 42 MoReg 745 
+20 CSR 2030-17.060 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 40R 42 MoReg 746R 
+20 CSR 2030-17.070 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 41 42 MoReg 746 
+20 CSR 2030-17.080 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 41 42 MoReg 746 
+20 CSR 2030-18.010 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 42 42 MoReg 746 
+20 CSR 2030-18.020 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 42 42 MoReg 746 
+20 CSR 2030-18.030 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 43 42 MoReg 747 
+20 CSR 2030-18.040 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 43 42 MoReg 747 
+20 CSR 2030-18.050 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 44 42 MoReg 747 
+20 CSR 2030-18.060 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 45 42 MoReg 747 
+20 CSR 2030-18.070 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 46R 42 MoReg 747R 
+20 CSR 2030-19.020 Missouri Board for Architects, Professional Engineers, Professional Land Surveyors, and 
+Professional Landscape Architects 42 MoReg 46 42 MoReg 748 
+20 CSR 2070-2.090 State Board of Chiropractic Examiners 41 MoReg 1525 
+20 CSR 2120-2.100 State Board of Embalmers and Funeral Directors 41 MoReg 373 41 MoReg 1911 42 MoReg 680 
+20 CSR 2197-1.040 Board of Therapeutic Massage 41 MoReg 825 
+20 CSR 2200-4.020 State Board of Nursing This Issue This Issue 
+20 CSR 2200-7.001 State Board of Nursing 42 MoReg 48 42 MoReg 748 
+20 CSR 2200-7.010 State Board of Nursing 42 MoReg 21 42 MoReg 748 
+(Changed from 6 CSR 10-11.010) 
+20 CSR 2200-8.001 State Board of Nursing 42 MoReg 786 
+20 CSR 2200-8.010 State Board of Nursing 42 MoReg 787 
+20 CSR 2200-8.020 State Board of Nursing 42 MoReg 790 
+20 CSR 2200-8.030 State Board of Nursing 42 MoReg 790 
+20 CSR 2200-8.035 State Board of Nursing 42 MoReg 790 
+20 CSR 2200-8.040 State Board of Nursing 42 MoReg 791 
+20 CSR 2200-8.050 State Board of Nursing 42 MoReg 791 
+20 CSR 2200-8.060 State Board of Nursing 42 MoReg 792 
+20 CSR 2200-8.070 State Board of Nursing 42 MoReg 793 
+20 CSR 2200-8.080 State Board of Nursing 42 MoReg 794 
+20 CSR 2200-8.085 State Board of Nursing 42 MoReg 794 
+20 CSR 2200-8.090 State Board of Nursing 42 MoReg 795 
+20 CSR 2200-8.100 State Board of Nursing 42 MoReg 795 
+20 CSR 2200-8.110 State Board of Nursing 42 MoReg 798 
+20 CSR 2200-8.120 State Board of Nursing 42 MoReg 798 
+20 CSR 2200-8.130 State Board of Nursing 42 MoReg 799 
+20 CSR 2200-8.180 State Board of Nursing 42 MoReg 799 
+20 CSR 2220-4.010 State Board of Pharmacy 42 MoReg 710 42 MoReg 729 
+June 1, 2017 Vol. 42, No. 11 
+Missouri Register Page 889 
+Rule Number Agency Emergency Proposed Order In Addition 
+20 CSR 2230-2.070 State Board of Podiatric Medicine 40 MoReg 1875 42 MoReg 800 
+20 CSR 2235-1.020 State Committee of Psychologists This Issue 
+20 CSR 2270-1.021 Missouri Veterinary Medical Board 42 MoReg 95 42 MoReg 748 
+MISSOURI CONSOLIDATED HEALTH CARE PLAN 
+22 CSR 10-2.010 Health Care Plan 41 MoReg 1755 41 MoReg 1816 42 MoReg 680 
+22 CSR 10-2.020 Health Care Plan 41 MoReg 1758 41 MoReg 1818 42 MoReg 680 
+22 CSR 10-2.025 Health Care Plan 41 MoReg 1819 42 MoReg 680 
+22 CSR 10-2.030 Health Care Plan 41 MoReg 1759 41 MoReg 1820 42 MoReg 680 
+22 CSR 10-2.051 Health Care Plan 41 MoReg 1760 41 MoReg 1820 42 MoReg 681 
+22 CSR 10-2.052 Health Care Plan 41 MoReg 1760 41 MoReg 1821 42 MoReg 681 
+22 CSR 10-2.053 Health Care Plan 41 MoReg 1761 41 MoReg 1821 42 MoReg 681 
+22 CSR 10-2.055 Health Care Plan 41 MoReg 1763 41 MoReg 1823 42 MoReg 681 
+22 CSR 10-2.060 Health Care Plan 41 MoReg 1772 41 MoReg 1831 42 MoReg 682 
+22 CSR 10-2.089 Health Care Plan 41 MoReg 1773 41 MoReg 1833 42 MoReg 682 
+22 CSR 10-2.090 Health Care Plan 41 MoReg 1774 41 MoReg 1834 42 MoReg 682 
+22 CSR 10-2.110 Health Care Plan 41 MoReg 1776 41 MoReg 1836 42 MoReg 682 
+22 CSR 10-2.150 Health Care Plan 41 MoReg 1777R 41 MoReg 1836R 42 MoReg 682R 
+22 CSR 10-3.010 Health Care Plan 41 MoReg 1778 41 MoReg 1837 42 MoReg 683 
+22 CSR 10-3.020 Health Care Plan 41 MoReg 1780 41 MoReg 1839 42 MoReg 683 
+22 CSR 10-3.053 Health Care Plan 41 MoReg 1781 41 MoReg 1839 42 MoReg 683 
+22 CSR 10-3.055 Health Care Plan 41 MoReg 1781 41 MoReg 1840 42 MoReg 683 
+22 CSR 10-3.056 Health Care Plan 41 MoReg 1782 41 MoReg 1841 42 MoReg 683 
+22 CSR 10-3.057 Health Care Plan 41 MoReg 1783 41 MoReg 1841 42 MoReg 684 
+22 CSR 10-3.060 Health Care Plan 41 MoReg 1792 41 MoReg 1851 42 MoReg 684 
+22 CSR 10-3.090 Health Care Plan 41 MoReg 1794 41 MoReg 1852 42 MoReg 684 
+22 CSR 10-3.150 Health Care Plan 41 MoReg 1796R 41 MoReg 1854R 42 MoReg 684R 
+MISSOURI Emergency Rule Table June 1, 2017 REGISTER Vol. 42, No. 11 
+
+Agency 
+Department of Agriculture Animal Health 2 CSR 30-10.010 Inspection of Meat and Poultry 
+Department of Revenue Director of Revenue 
+. . . ............ . 
+Publication Effective 
+. .42 MoReg 709 . . . . .April 3, 2016 
+. .41 MoReg 1755 . . . . .Jan. 1, 2017 
+Expiration 
+. . . . .Jan. 10,2018 
+. . . . .June 29, 2017 
+. . . . .Feb. 22, 2018 . . . . .Feb. 22, 2018 . . . . .Feb. 22, 2018 
+. . . . .Feb. 22, 2018 . . . . .Feb. 22, 2018 
+. . . . .Feb. 22, 2018 . . . . .June 28, 2017 . . . . .June 28, 2017 
+. . . . . .Jan. 3, 2018 
+. . . . .July 11, 2017 . . . . .Feb. 15, 2018 . . . . .Dec. 1, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 . . . . .June 29, 2017 
+12 CSR 10-41.010 
+Elected Officials Secretary of State 15 CSR 30-3.010 15 CSR 30-3.020 
+15 CSR 30-3.030 15 CSR 30-3.040 
+15 CSR 30-3.050 
+15 CSR 30-3.100 
+15 CSR 30-110.010 15 CSR 30-110.020 
+Annual Adjusted Rate of Interest . . . ............ . 
+Voter Identification Affidavit (Res) . ............ . Provisional Ballots and Envelopes for Registered Voters 
+under Voter Identification Law . . . . . . . . . . . . . . . . Procedures for Registered Voters Returning to the Polling Place with Identification . . . . . . . . . . . . . . . . . . . . 
+. .July 3, 2017 Issue . .July 3, 2017 Issue . .July 3, 2017 Issue 
+. . .June 1, 2017 . . .June 1, 2017 . . .June 2, 2017 
+. . .June 1, 2017 
+. . .June 1, 2017 
+22 CSR 10-2.010 22 CSR 10-2.020 22 CSR 10-2.030 22 CSR 10-2.051 22 CSR 10-2.052 22 CSR 10-2.053 
+22 CSR 10-2.055 22 CSR 10-2.060 
+22 CSR 10-2.089 
+22 CSR 10-2.090 22 CSR 10-2.110 22 CSR 10-2.150 
+22 CSR 10-3.010 22 CSR 10-3.020 22 CSR 10-3.053 22 CSR 10-3.055 
+. . . ............. . . . ............. . . .............. 
+. .42 MoReg 710 
+. .41 MoReg 1755 . .41 MoReg 1758 . .41 MoReg 1759 . .41 MoReg 1760 . .41 MoReg 1760 
+. .41 MoReg 1761 . .41 MoReg 1763 
+. .41 MoReg 1772 
+. .41 MoReg 1773 . .41 MoReg 1774 . .41 MoReg 1776 
+. .41 MoReg 1777 . .41 MoReg 1778 . .41 MoReg 1780 . .41 MoReg 1781 
+. . . .April 21, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+Procedures for Identity Verification for Provisional Ballots for Registered Voters under Voter Identification Law, Counting Approved Ballots, and Recordkeeping . . . . . . .July 3, 2017 Issue 
+Voter Inquiries as to Whether Provisional Ballot for Registered Voter was Counted . . . . . . . . . . . . . . . . . . .July 3, 2017 Issue 
+Procedures for Obtaining One (1) Copy of Documents Needed to Obtain Free Personal Identification for Voting .July 3, 2017 Issue 
+Electronic Notary Definitions . . . . . . . . . . . . . . . . . . . .42 MoReg 255 Electronic Signatures and Seals . . . . . . . . . . . . . . . . . .42 MoReg 256 
+Department of Health and Senior Services Division of Regulation and Licensure 19 CSR 30-40.309 Application and Licensure Requirements Standards for the 
+Licensure and Relicensure of Ground Ambulance Services 42 MoReg 709 
+Department of Insurance, Financial Institutions and Professional Registration Acupuncturist Advisory Committee 
+20 CSR 2015-1.030 Fees . . . . . . . . . . . . . . . .. . State Board of Nursing 20 CSR 2200-4.020 Requirements for Licensure .. . State Board of Pharmacy 
+20 CSR 2220-4.010 General Fees . . . . . . . . . .. . 
+Missouri Consolidated Health Care Plan Health Care Plan 
+. . .............. . . .............. . . .............. 
+Definitions . . . . . . . . . . . .. . General Membership Provisions Contributions . . . . . . . . . . . . PPO 300 Plan Benefit Provisions and Covered Charges . PPO 600 Plan Benefit Provisions and Covered Charges . Health Savings Account Plan Benefit Provisions 
+and Covered Charges . . . . . . . . . . . . . . . . . . . . . . . Medical Plan Benefit Provisions and Covered Charges . . PPO 300 Plan, PPO 600 Plan, and Health Savings 
+Account Plan Limitations . . . . . . . . . . . . . . . . . . . . Pharmacy Employer Group Waiver Plan for Medicare 
+Primary Members . . . . . . . . . . . . . . . . . . . . . . . . . Pharmacy Benefit Summary . . . . . . . . . . . . . . . . . . . General Foster Parent Membership Provisions . . . . . . . Disease Management Services Provisions and 
+Limitations (Res) . . . . . . . . . . . . . . . . . . . . . . . . . Definitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . General Membership Provisions . . . . . . . . . . . . . . . . PPO 1000 Plan Benefit Provisions and Covered Charges Health Savings Account Plan Benefit Provisions 
+. . . . .Jan. 13, 2017 
+and Covered Charges . . . . . . . . . . . . . . . . . . . . . . . 
+. .41 MoReg 1781 
+. . . . .Jan. 1, 2017 
+. . . . .June 29, 2017 
+. . .June 1, 2017 . . . .Dec. 31, 2016 . . . .Dec. 31, 2016 
+. . .March 26, 2017 
+. .42 MoReg 156 . .This Issue . . . . . . . .May 9, 2017 
+890 
+ 
+June 1, 2017 Vol. 42, No. 11 
+
+Missouri Register 
+Page 891 
+
+Agency Publication 
+Effective 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 . . . . .Jan. 1, 2017 
+. . . . .Jan. 1, 2017 
+Expiration 
+. . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 . . . . .June 29, 2017 
+. . . . .June 29, 2017 
+22 CSR 10-3.056 22 CSR 10-3.057 22 CSR 10-3.060 
+22 CSR 10-3.090 22 CSR 10-3.150 
+PPO 600 Plan Benefit Provisions and Covered Charges . . .41 MoReg 1782 Medical Plan Benefit Provisions and Covered Charges . . . .41 MoReg 1783 PPO 600 Plan, PPO 1000 Plan, and Health Savings 
+Account Plan Limitations . . . . . . . . . . . . . . . . . . . . . .41 MoReg 1792 Pharmacy Benefit Summary . . . . . . . . . . . . . . . . . . . . .41 MoReg 1794 Disease Management Services Provisions and 
+Limitations (Res) . . . . . . . . . . . . . . . . . . . . . . . . . . .41 MoReg 1796 
+
+MISSOURI Executive Orders June 1, 2017 REGISTER Vol. 42, No. 11 
+
+Executive Orders Subject Matter Filed Date Publication 
+2017 
+17-16 Temporarily grants the Director of the Missouri Department of Revenue discretionary authority to adjust certain rules and regulations. May 11, 2017 Next Issue 
+ 
+17-15 Temporarily grants the Director of the Missouri Department of Health and Senior Services discretionary authority to adjust certain rules and regulations. May 8, 2017 Next Issue 
+17-14 Temporarily grants the Director of the Missouri Department of Natural Resources discretionary authority to adjust certain environmental rules and regulations. May 4, 2017 Next Issue 
+17-13 Activates the state militia in response to severe weather that began on April 28, 2017. April 30, 2017 This Issue 
+17-12 Declares a State of Emergency and activates the Missouri State Emergency Operations Plan due to severe weather beginning on April 28,2017. April 28, 2017 This Issue 
+17-11 Establishes the Boards and Commissions Task Force to recommend comprehensive executive and legislative reform proposals to the governor by October 31, 2017. April 11, 2017 42 MoReg 779 
+17-10 Designates members of the governor’s staff to have supervisory authority over departments, division, and agencies of state government. April 7, 2017 42 MoReg 777 
+17-09 Establishes parental leave for state employees of the executive branch of Missouri state government and encourages other state officials to adopt comparable policies. March 13, 2017 42 MoReg 429 
+17-08 Declares a State of Emergency and activates the Missouri State Emergency Operations Plan due to severe weather that began on March 6. March 7, 2017 42 MoReg 427 
+17-07 Establishes the Governor’s Committee for Simple, Fair, and Low Taxes to recommend proposed reforms to the governor by June 30, 2017. January 25, 2017 42 MoReg 315 
+17-06 Orders that the Missouri State Emergency Operations Plan be activated. Further orders state agencies to provide assistance to the maximum extent practicable and directs the Adjutant General to call into service such portions of the organized militia as he deems necessary. January 12, 2017 42 MoReg 267 
+17-05 Activates the Missouri State Emergency Operation Center due to severe weather expected to begin on Jan. 12, 2017. January 11, 2017 42 MoReg 266 
+17-04 Establishes the position of Chief Operating Officer to report directly to the governor and serve as a member of the governor’s executive team. January 11, 2017 42 MoReg 264 
+17-03 Orders every state agency to immediately suspend all rulemaking until Feb. 28, 2017, and to complete a review of every regulation under its jurisdiction within the Code of State Regulations by May 31, 2018. January 10, 2017 42 MoReg 261 
+17-02 Orders state employees of the executive branch of Missouri state government to follow a specified code of conduct regarding ethics during the Greitens administration. January 9, 2017 42 MoReg 258 
+17-01 Rescinds Executive Orders 07-10, 88-26, 98-15, and 05-40 regarding the Governor’s Advisory Council on Physical Fitness and Health and the Missouri State Park Advisory Board. January 6, 2017 42 MoReg 257 
+2016 
+16-10 Reauthorizes the Governor’s Committee to End Chronic Homelessness until December 31, 2020. December 30, 2016 42 MoReg 159 
+ 
+16-09 Advises that state offices in Cole County will be closed on Monday January 9, 2017. December 23, 2016 42 MoReg 158 
+16-08 Advises that state offices will be closed on Friday, November 25, 2016. October 24, 2016 41 MoReg 1659 
+16-07 Declares that a State of Emergency exists in the State of Missouri and directs that the Missouri State Emergency Operations Plan be activated as a result of storms that began on May 25, 2016. This order shall terminate on June 26, 2016, unless extended. May 27, 2016 41 MoReg 830 
+16-06 Declares that the next Missouri Poet Laureate will be named in June 2016 and directs that a Missouri Poet Laureate be named biennially to serve for two years at the pleasure of the governor. The order also includes qualifications and responsibilities for the post. Additionally the Missouri Poet Laureate Advisory Committee is hereby established. May 27, 2016 41 MoReg 828 
+892 
+June 1, 2017 Vol. 42, No. 11 
+Missouri Register 
+Page 893 
+Executive Orders Subject Matter Filed Date Publication 
+16-05 Directs the Department of Public Safety, with guidance from the Missouri Veteran’s Commission and the Adjutant General of the State of Missouri, to coordinate events with the World War I Centennial Commission that recognize and remember efforts and sacrifices of all Americans during World War I. May 27, 2016 41 MoReg 826 
+16-04 Orders all departments, agencies and boards, and commissions, in the Executive Branch subject to the authority of the governor to take all necessary action to amend initial employment applications by removing questions related to an individual’s criminal history unless a criminal history would render an applicant ineligible for the position. April 11, 2016 41 MoReg 658 
+16-03 Extends Executive Orders 15-10, 15-11, and 16-02 until February 22, 2016, due to severe weather that began on December 22, 2015. Jan. 22, 2016 41 MoReg 299 
+16-02 Gives the director of the Department of Natural Resources the authority to temporarily suspend regulations in the aftermath of severe weather that began on December 22, 2015. Jan. 6, 2016 41 MoReg 235 
+16-01 Designates members of the governor’s staff to have supervisory authority over certain departments, divisions, and agencies. Jan. 4, 2016 41 MoReg 153 
+
+MISSOURI Index June 1, 2017 REGISTER Vol. 42, No. 11 
+
+The rule number and the MoReg publication date follow each entry to this index. 
+ACUPUNCTURIST ADVISORY COMMITTEE 
+fees; 20 CSR 2015-1.030; 2/1/17 
+ADMINISTRATION, OFFICE OF 
+definition of terms; 1 CSR 20-5.015; 11/1/16 leaves of absence; 1 CSR 20-5.020; 11/1/16 state official’s salary compensation schedule; 1 CSR 10; 10/17/16 
+AGRICULTURE, DEPARTMENT OF 
+animal health inspection of meat and poultry; 2 CSR 30-10.010; 5/1/17 
+Missouri agricultural and small business development authority Missouri dairy scholars program; 2 CSR 100-11.020; 5/2/16, 
+8/15/16 state milk board 
+inspection fees; 2 CSR 80-5.010; 5/1/17 weights, measures, and consumer protection 
+acceptance and publication by Missouri Department of Agriculture; 2 CSR 90-62.040; 1/3/17, 5/1/17 
+accuracy standard; 2 CSR 90-65.070; 1/3/17, 5/1/17 accuracy of horizontal controls; 2 CSR 90-62.030; 1/3/17, 
+5/1/17 accuracy standards for property boundary surveys; 2 CSR 90- 
+60.040; 1/3/17, 5/1/17 application of standards 
+2 CSR 90-60.010; 1/3/17, 5/1/17 
+2 CSR 90-65.010; 1/3/17, 5/1/17 approved documents; 2 CSR 90-61.080; 1/3/17, 5/1/17 approved monumentation; 2 CSR 90-60.060; 1/3/17, 5/1/17 authorization for removal or alteration of corners; 2 CSR 90- 
+61.020; 1/3/17, 5/1/17 coordinate system for digital cadastral parcel mapping speci- 
+fied; 2 CSR 90-65.040; 1/3/17, 5/1/17 definitions 
+2 CSR 90-60.020; 1/3/17, 5/1/17 2 CSR 90-61.010; 1/3/17, 5/1/17 2 CSR 90-62.010; 1/3/17, 5/1/17 2 CSR 90-65.030; 1/3/17, 5/1/17 
+digital cadastral parcel mapping requirements pertaining to land parcels; 2 CSR 90-65.060; 1/3/17, 5/1/17 
+digital cadastral parcel mapping requirements pertaining to the United States public land survey system; 2 CSR 90- 65.050; 1/3/17, 5/1/17 
+disclaimer; 2 CSR 90-65.080; 1/3/17, 5/1/17 general land surveying requirements; 2 CSR 90-60.030; 
+1/3/17, 5/1/17 general organization; 2 CSR 90-1.010; 1/3/17, 5/1/17 GPS survey guidelines; 2 CSR 90-62.050; 1/3/17, 5/1/17 horizontal control classification; 2 CSR 90-62.020; 1/3/17, 
+5/1/17 liquefied petroleum gases 
+installation requirements; 2 CSR 90-10.013; 5/1/17 registration–training; 2 CSR 90-10.012; 5/1/17 reporting of odorized LP gas release, fire, or explosion; 
+2 CSR 90-10.120; 5/1/17 storage; 2 CSR 90-10.014; 5/1/17 
+location of improvements and easements; 2 CSR 90-60.070; 1/3/17, 5/1/17 
+Missouri coordinate system of 1983; 2 CSR 90-61.070; 1/3/17, 5/1/17 
+monumentation; 2 CSR 90-61.050; 1/3/17, 5/1/17 organization and description; 2 CSR 90-65.020; 1/3/17, 
+5/1/17 procedure for filing documents; 2 CSR 90-61.040; 1/3/17, 
+5/1/17 traverse survey guidelines; 2 CSR 90-62.060; 1/3/17, 5/1/17 use of Missouri coordinate system of 1983; 2 CSR 90-60.050; 
+1/3/17, 5/1/17 
+AIR CONSERVATION COMMISSION 
+emission standard for hazardous air pollutants; 10 CSR 10-6.080; 11/15/16 
+maximum achievable control technology regulations; 10 CSR 10- 6.075; 11/15/16 
+new source performance regulations; 10 CSR 10-6.070; 11/15/16 
+ARCHITECTS, PROFESSIONAL ENGINEERS, PROFES- SIONAL LAND SURVEYORS, AND PROFESSIONAL LAND- SCAPE ARCHITECTS, MISSOURI BOARD FOR acceptance and publication by Missouri Department of Agriculture; 
+20 CSR 2030-18.040; 1/3/17, 5/1/17 accuracy of horizontal control; 20 CSR 2030-18.030; 1/3/17, 
+5/1/17 accuracy standards for property boundary surveys; 20 CSR 2030- 
+16.040; 1/3/17, 5/1/17 application of schedule; 20 CSR 2030-16.010; 1/3/17, 5/1/17 approved documents; 20 CSR 2030-17.080; 1/3/17, 5/1/17 approved monumentation; 20 CSR 2030-16.060; 1/3/17, 5/1/17 authorization for removal or alteration of corners; 20 CSR 2030- 
+17.020; 1/3/17, 5/1/17 definitions 
+20 CSR 2030-16.020; 1/3/17, 5/1/17 20 CSR 2030-17.010; 1/3/17, 5/1/17 20 CSR 2030-18.010; 1/3/17, 5/1/17 
+detail requirements for condominium surveys; 20 CSR 2030- 16.100; 1/3/17, 5/1/17 
+detail requirements for original surveys; 20 CSR 2030-16.080; 1/3/17, 5/1/17 
+detail requirements for resurveys; 20 CSR 2030-16.070; 1/3/17, 5/1/17 
+detail requirements for subdivision surveys; 20 CSR 2030-16.090; 1/3/17, 5/1/17 
+general land surveying requirements; 20 CSR 2030-16.030; 1/3/17, 5/1/17 
+GPS survey guidelines; 20 CSR 2030-18.050; 1/3/17, 5/1/17 horizontal control classifications; 20 CSR 2030-18.020; 1/3/17, 
+5/1/17 location of improvements and easements; 20 CSR 2030-16.110; 
+1/3/17, 5/1/17 Missouri coordinate system of 1983; 20 CSR 2030-17.070; 1/3/17, 
+5/1/17 monumentation; 20 CSR 2030-17.050; 1/3/17, 5/1/17 monument marking; 20 CSR 2030-17.060; 1/3/17, 5/1/17 procedure for filing documents; 20 CSR 2030-17.040; 1/3/17, 
+5/1/17 reestablished or restored corners; 20 CSR 2030-17.030; 1/3/17, 
+5/1/17 required work order form; 20 CSR 2030-19.020; 1/3/17, 5/1/17 traverse survey guidelines; 20 CSR 2030-18.060; 1/3/17, 5/1/17 use of Missouri coordinate system of 1983; 20 CSR 2030-16.050; 
+1/3/17, 5/1/17 use of Missouri coordinate system, 1983; 20 CSR 2030-16.050; 
+1/3/17, 5/1/17 waiver of 1 KM limitation; 20 CSR 2030-18.070; 1/3/17, 5/1/17 
+ATTORNEY GENERAL 
+human trafficking conducting labor trafficking under false pretenses; 15 CSR 60- 
+16.050; 5/1/17 conducting sex trafficking under false pretenses; 15 CSR 60- 
+16.040; 5/1/17 deceptively inducing participation in commercial sexual conduct 
+or involuntary servitude; 15 CSR 60-16.030; 5/1/17 definitions; 15 CSR 60-16.010; 5/1/17 unlawful debt-bondage relationships; 15 CSR 60-16.020; 5/1/17 
+AUDITOR, STATE 
+function and organization of auditor’s office; 15 CSR 40-1.010; 2/1/17, 5/15/17 
+CERTIFICATE OF NEED PROGRAM 
+application review schedule; 19 CSR 60-50; 4/3/17, 5/1/17, 5/15/17 
+CHILDREN’S DIVISION 
+basis of payment; 13 CSR 35-32.010; 2/1/17 child care provider overpayments; 13 CSR 35-32.110; 2/1/17 
+ 
+
+894 
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 895 
+
+definitions; 13 CSR 35-32.050; 2/1/17 eligibility and authorization for child care subsidy; 13 CSR 35- 
+32.060; 2/1/17 participant overpayments; 13 CSR 35-32.100; 2/1/17 recordkeeping; 13 CSR 35-32.130; 2/1/17 registration requirements for child care facilities that are license 
+exempt; 13 CSR 35-32.080; 2/1/17 registration requirements for child care providers serving four or 
+less unrelated children; 13 CSR 35-32.070; 2/1/17 regulatory and contractual violations of registered child care 
+providers; 13 CSR 35-32.120; 2/1/17 requirements for licensed child care facilities to contract for state or 
+federal child care funds; 13 CSR 35-32.090; 2/1/17 screening and classification of child abuse/neglect hotline reports 
+13 CSR 35-20.010; 10/3/16 13 CSR 35-31.020; 10/3/16 
+CHILD SUPPORT ENFORCEMENT 
+financial performance measures for counties under contract with the Missouri Division of Child Support Enforcement for the provisions of total control child support services in local jurisdictions (Level A counties); 13 CSR 30-2.020; 11/1/16, 4/17/17 
+organization and operation; 13 CSR 30-1.010; 11/1/16, 4/17/17 
+CHIROPRACTIC EXAMINERS, STATE BOARD OF 
+fees; 20 CSR 2070-2.090; 11/1/16 
+CONSERVATION, DEPARTMENT OF 
+bullfrogs and green frogs; 3 CSR 10-12.115; 4/3/17 chronic wasting disease, management zone; 3 CSR 10-4.200; 
+4/3/17 closed hours; 3 CSR 10-12.109; 4/3/17 closings; 3 CSR 10-11.115; 4/3/17 decoys and blinds; 3 CSR 10-11.155; 4/3/17 fishing 
+daily and possession limits; 3 CSR 10-12.140; 4/3/17 general provisions and seasons; 3 CSR 10-12.130; 4/3/17 length limits 
+3 CSR 10-12.145; 10/3/16 methods; 3 CSR 10-12.135; 4/3/17 
+hunting and trapping; 3 CSR 10-12.125; 4/3/17 migratory game bird and waterfowl; seasons, limits; 3 CSR 10- 
+7.440; 5/15/17 hunting, general provisions, and seasons; 3 CSR 10-11.180; 4/3/17 possession, storage, and processing; 3 CSR 10-4.140; 4/3/17 resident and nonresident fur dealers; reports, requirements; 3 CSR 
+10-10.715; 4/3/17 resident and nonresident permits; 3 CSR 10-5.220; 4/3/17 restricted zones; 3 CSR 10-6.415; 4/3/17 use of boats and motors; 3 CSR 10-12.110; 4/3/17 vehicles, bicycles, horses, and horseback riding; 3 CSR 10-11.130; 
+4/3/17 waterfowl hunting; 3 CSR 10-11.186; 4/3/17 wildlife identification; 3 CSR 10-4.137; 4/3/17 
+ECONOMIC DEVELOPMENT, DEPARTMENT OF 
+motor carrier and railroad safety, division of application for approval of corporation to acquire capitol stock 
+of common carrier incorporated under Missouri law pursuant to requirements of section 387.260, RSMo; 4 CSR 265-2.069; 11/15/16 
+applications for interstate motor carrier permits and intrastate regular route passenger certificates issued pursuant to 49 U.S.C. Section 10922(c)(2); 4 CSR 265-2.065; 11/15/16 
+application to issue or create certain debt instruments; 4 CSR 265-2.067; 11/15/16 
+computation of effective dates; 4 CSR 265-2.050; 11/15/16 hearings under rulemaking; 4 CSR 265-2.170; 11/15/16 interpretation of federal preemption under Section 601 of the 
+Federal Aviation Administration Authorization Act of 
+1994; 4 CSR 265-2.057; 11/15/16 motor carrier notice register publications, scope and subscrip- 
+tion orders; 4 CSR 265-2.200; 11/15/16 
+name and address changes for motor carriers; 4 CSR 265- 2.055; 11/15/16 
+practice of attorneys; 4 CSR 265-2.040; 11/15/16 principal offices; 4 CSR 265-2.020; 11/15/16 records of the division; 4 CSR 265-2.030; 11/15/16 rulemaking; 4 CSR 265-2.160; 11/15/16 transportation enforcement inspector I; 4 CSR 265-14.010; 
+11/15/16 utilization of motor carriers in national emergencies; 4 CSR 
+265-6.030; 11/15/16 
+ELEMENTARY AND SECONDARY EDUCATION, DEPART- MENT OF beginning teacher assistance program; 5 CSR 20-400.385; 12/1/16, 
+5/1/17 certification requirements for initial student services certificate; 5 
+CSR 20-400.640; 11/1/16, 4/3/17 charter school expedited renewal application process; 5 CSR 20- 
+100.280; 1/17/17, 6/1/17 charter school expedited replication and expansion application 
+process; 5 CSR 20-100.290; 1/17/17, 6/1/17 mentoring program standards; 5 CSR 20-400.380; 12/15/16, 
+5/1/17 minimum requirements for school bus chassis and body; 5 CSR 30- 
+261.025; 12/15/16, 5/1/17 standards for charter sponsorship; 5 CSR 20-100.260; 1/17/17, 
+6/1/17 
+EMBALMERS AND FUNERAL DIRECTORS, STATE BOARD OF fees; 20 CSR 2120-2.100; 3/15/16, 12/15/16, 4/17/17 
+ENERGY, DIVISION OF 
+definitions and general provisions–membership; 4 CSR 340-6.010; 12/15/16 
+energy set-aside fund ; 4 CSR 340-2; 5/1/17 wood energy credit; 4 CSR 340-4.010; 12/15/16 
+EXECUTIVE ORDERS 
+activates the state militia in response to severe weather that began on April 28, 2017; 17-13; 6/1/17 
+declares a state of emergency and activates the Missouri State Emergency Operations Plan due to severe weather beginning on April 28, 2017; 17-12; 6/1/17 
+declares a state of emergency and activates the Missouri State Emergency Operations Plan due to severe weather that began on March 6, 2017; 17-08; 4/17/17 
+designates members of the governor’s staff to have supervisory authority over departments, divisions, and agencies of state government; 17-10; 5/15/17 
+establishes parental leave for state employees of the executive branch of Missouri state government and encourages other state officials to adopt comparable policies; March 13, 2014;17-09; 4/17/17 
+established the Boards and Commission Task Force to recommend comprehensive executive and legislative reform proposals to the governor by Oct. 31, 2017; 17-11; 5/15/17 
+FAMILY SUPPORT DIVISION 
+eligibility for individuals with a drug felony conviction; 13 CSR 40-15.455; 11/1/16, 4/3/17 
+low income home energy assistance program (LIHEAP) and utili- care; 13 CSR 40-19.020; 11/1/16, 4/3/17 
+organization; 13 CSR 40-1.010; 11/1/16, 4/17/17 summer electric utility service; 13 CSR 40-19.030; 11/1/16, 4/3/17 utilicare program; 13 CSR 40-19.010; 11/1/16, 4/3/17 
+GAMING COMMISSION, MISSOURI 
+application for a class A or class B license; 11 CSR 45-4.030; licenses, restrictions on licenses, licensing authority of the execu- 
+tive director, and other definitions; 11 CSR 45-4.020; 11/1/16 
+  
+Page 896 
+Index 
+June 1, 2017 Vol. 42, No. 11 
+
+minimum internal control standards (MICS)–Chapter D; 11 CSR 45-9.104; 12/1/16, 5/1/17 
+minimum internal control standards (MICS)–Chapter T; 11 CSR 45-9.120; 11/1/16 
+policies; 11 CSR 45-5.053; 11/1/16 table game and poker cards; 11 CSR 45-5.183; 12/1/16, 5/1/17 table game cards–receipt, storage, inspections, and removal from 
+use; 11 CSR 45-5.184; 12/1/16, 5/1/17 
+HEALTH AND SENIOR SERVICES 
+maternal, child and family health, division of critical congenital heart disease screening for newborns; 
+19 CSR 40-12.010; 5/1/17 regulation and licensure 
+application and licensure requirements standards for the licen- sure and relicensure of ground ambulance services; 19 CSR 30-40.309; 5/1/17 
+schedule of controlled substances; 19 CSR 30-1.002; 11/1/16, 4/3/17 
+HIGHER EDUCATION, DEPARTMENT OF 
+determination of student residency; 6 CSR 10-3.010; 2/1/17, 6/1/17 nursing education incentive program; 6 CSR 10-11.010; 1/3/17, 
+5/1/17 
+HIGHWAYS AND TRANSPORTATION COMMISSION, MISSOURI apportion registration pursuant to international registration plan; 7 
+CSR 10-25.030; 11/15/16 arbitration method and selection of arbitrator in arbitration pro- 
+ceeding; 7 CSR 10-26.010; 1/17/17 causes for disqualification; 7 CSR 10-18.020; 1/17/17 certification and certification renewal requirements for qualified 
+sampling and testing technicians and sampling or testing 
+technicians-in-training; 7 CSR 10-23.020; 1/17/17 certification suspension and revocation procedures and the appeal 
+process for technicians and sampling or testing techni- 
+cians-in-training; 7 CSR 10-23.030; 1/17/17 contractor performance project evaluation use for determining con- 
+tractor performance; 7 CSR 10-10.040; 1/17/17 definitions 
+7 CSR 10-10.010;1/17/17 7 CSR 10-18.010; 1/17/17 7 CSR 10-23.010; 1/17/17 7 CSR 10-25.070; 11/15/16 
+explanation of contractor performance rating system; 7 CSR 10- 10.020; 1/17/17 
+fuel tax returns; 7 CSR 10-25.072; 11/15/16 general program requirements; 7 CSR 10-19.010; 1/17/17 investigation and audits; 7 CSR 10-25.080; 11/15/16 mediation; 7 CSR 10-26.020; 1/17/17 notice of proposed qualification; 7 CSR 10-18.030; 1/17/17 opportunity to appeal proposed disqualification and review board 
+proceedings; 7 CSR 10-18.040; 1/17/17 oversight/overweight permits; 7 CSR 10-25.020; 11/15/16 period of disqualification; 7 CSR 10-18.070; 1/17/17 prequalification to bid of certain contractors; 7 CSR 10-15.010; 
+1/17/17 procedure and schedule for completing the contractor performance 
+project evaluation; 7 CSR 10-10.050; 1/17/17 procedure for annual rating of contractors; 7 CSR 10-10.070; 
+1/17/17 procedure for reinstatement of a contractor previously disqualified; 
+7 CSR 10-18.090; 1/17/17 rating categories for evaluating the performance of a contractor; 7 
+CSR 10-10.030; 1/17/17 skill performance evaluation certificates for commercial drivers; 
+7 CSR 10-25.010; 4/3/17, 5/1/17, 5/15/17, 6/1/17 subpoenas; 7 CSR 10-1.020; 11/15/16 
+weight limitation exception; 7 CSR 10-2.030; 11/15/16 
+INSURANCE 
+applied behavior analysis maximum benefit; 20 CSR; 3/1/17 construction claims binding arbitration cap; 20 CSR; 12/15/16 
+life insurance and annuities replacement; 20 CSR 400-5.400; 11/1/16, 4/3/17 
+non-economic damages in medical malpractice cap; 20 CSR; 2/16/16 
+sovereign immunity limits; 20 CSR; 12/15/16 state legal expense fund; 20 CSR; 12/15/16 
+LABOR AND INDUSTRIAL RELATIONS, DEPARTMENT OF Notice of Periodic Rule Review; Title 8; 7/1/16 
+MEDICAID AUDIT AND COMPLIANCE UNIT, MISSOURI 
+electronic signatures for MO HealthNet Program; 13 CSR 65- 3.050; 11/1/16, 5/1/17, 5/15/17 
+MENTAL HEALTH, DEPARTMENT OF 
+determining state of domicile; 9 CSR 10-31.016; 12/15/16, 5/15/17 intermediate care facility for individuals with intellectual disabili- ties federal reimbursement allowance; 9 CSR 10-31.030; 
+12/15/16, 5/15/17 Notice of Periodic Rule Review; Title 9; 7/1/16 self-directed supports; 9 CSR 45-3.080; 2/1/17 
+MISSOURI CONSOLIDATED HEALTH CARE PLAN 
+public entity membership definitions; 22 CSR 10-3.010; 12/1/16, 4/17/17 disease management services provisions and limitations; 22 
+CSR 10-3.150; 12/1/16, 4/17/17 general membership provisions; 22 CSR 10-3.020; 12/1/16, 
+4/17/17 health savings account plan benefit provisions and covered 
+charges; 22 CSR 10-3.055; 12/1/16, 4/17/17 medical plan benefit provisions and covered charges; 22 CSR 
+10-3.057; 12/1/16, 4/17/17 pharmacy benefit summary; 22 CSR 10-3.090; 12/1/16, 
+4/17/17 PPO 600 plan benefit provisions and covered charges; 22 CSR 
+10-3.056; 12/1/16, 4/17/17 PPO 1000 plan benefit provisions and covered charges; 22 
+CSR 10-3.053; 12/1/16, 4/17/17 PPO 600 plan, PPO 1000 plan, and health savings account plan 
+limitations; 22 CSR 10-3.060; 12/1/16, 4/17/17 state health plan 
+contributions; 22 CSR 10-2.030; 12/1/16, 4/17/17 definitions; 22 CSR 10-2.010; 12/1/16, 4/17/17 disease management services provisions and limitations; 22 
+CSR 10-2.150; 12/1/16, 4/17/17 general foster parent membership provisions; 22 CSR 10- 
+2.110; 12/1/16, 4/17/17 general membership provisions; 22 CSR 10-2.020; 12/1/16, 
+4/17/17 health savings account plan benefit provisions and covered 
+charges; 22 CSR 10-2.053; 12/1/16, 4/17/17 medical plan benefit provisions and covered charges; 22 CSR 
+10-2.055; 12/1/16, 4/17/17 pharmacy benefit summary; 22 CSR 10-2.090; 12/1/16, 
+4/17/17 pharmacy employer group waiver plan for medicare primary 
+members; 22 CSR 10-2.089; 12/1/16, 4/17/17 PPO 300 plan benefit provisions and covered charges; 22 CSR 
+10-2.051; 12/1/16, 4/17/17 PPO 600 plan benefit provisions and covered charges; 22 CSR 
+10-2.052; 12/1/16, 4/17/17 PPO 300 plan, PPO 600 plan, and health savings account plan 
+limitations; 22 CSR 10-2.060; 12/1/16, 4/17/17 rule for participating higher education entity entry into the 
+Missouri Consolidated Health Care Plan; 22 CSR 10- 2.025; 12/1/16, 4/17/17 
+ 
+June 1, 2017 Vol. 42, No. 11 
+ 
+Missouri Register 
+Page 897 
+
+MO HEALTHNET 
+disproportionate share hospital payments; 13 CSR 70-15.220; 2/1/17 
+MO HealthNet primary care health homes; 13 CSR 70-3.240; 11/1/16, 5/15/17 
+sanctions for false or fraudulent claims for MO HealthNet services; 13 CSR 70-3.030; 11/1/16, 4/17/17 
+NATURAL RESOURCES, DEPARTMENT OF 
+land survey acceptance and publication and publication by Missouri 
+Department of Agriculture; 10 CSR 30-4.040; 
+1/3/17, 5/1/17 accuracy of horizontal control; 10 CSR 30-4.030; 1/3/17, 
+5/1/17 approved documents; 10 CSR 30-3.080; 1/3/17, 5/1/17 authorization for removal or alteration of corners; 10 CSR 30- 
+3.020; 1/3/17, 5/1/17 definitions 
+10 CSR 30-3.010; 1/3/17, 5/1/17 
+10 CSR 30-4.010; 1/3/17, 5/1/17 GPS survey guidelines; 10 CSR 30-4.050; 1/3/17, 5/1/17 horizontal control classification; 10 CSR 30-4.020; 1/3/17, 
+5/1/17 Missouri coordinate system of 1983; 10 CSR 30-3.070;1/3/17, 
+5/1/17 monumentation; 10 CSR 30-3.050; 1/3/17, 5/1/17 monument marking; 10 CSR 30-3.060; 1/3/17, 5/1/17 procedure for filing documents; 10 CSR 30-3.040; 1/3/17, 
+5/1/17 reestablished or re-stored corners; 10 CSR 30-3.030; 1/3/17, 
+5/1/17 traverse survey guidelines; 10 CSR 30-4.060; 1/3/17, 5/1/17 waiver of 1 KM limitation; 10 CSR 30-4.070; 1/3/17, 5/1/17 
+Notice of Periodic Rule Review; Title 10; 7/1/16 
+NOTARY 
+appeal; 15 CSR 30-100.080; 5/15/17 electronic notary definitions; 15 CSR 30-110.010; 2/1/17, 2/15/17, 
+5/15/17 electronic signatures and seals; 15 CSR 30-110.020; 2/1/17, 2/15/17, 
+5/15/17 hearings; 15 CSR 30-100.060; 5/15/17 
+notice of revocation and request for a hearing; 15 CSR 30-100.020; 5/15/17 
+prehearing conference; 15 CSR 30-100.040; 5/15/17 request for hearing on suspension; 15 CSR 30-100.015; 5/15/17 response to notice of revocation; 15 CSR 30-100.030; 5/15/17 revocation and/or suspension of notary commission; 15 CSR 30- 
+100.010; 5/15/17 subpoenas; 5 CSR 30-100.050; 5/15/17 surrender of commission; 5 CSR 30-100.070; 5/15/17 
+NURSING, STATE BOARD OF 
+administrator/faculty; 20 CSR 2200-8.060; 5/15/17 approval; 20 CSR 2200-8.010; 5/15/17 change in sponsorship; 20 CSR 2200-8.030; 5/15/17 clinical experiences; 20 CSR 2200-8.080; 5/15/17 definitions 
+20 CSR 2200-7.001; 1/3/17, 5/1/17 
+20 CSR 2200-8.001; 5/15/17 discontinuing and reopening programs; 20 CSR 2200-8.020; 
+5/15/17 educational program; 20 CSR 2200-8.100; 5/15/17 licensure examination performance; 20 CSR 2200-8.180; 5/15/17 multiple campuses; 20 CSR 2200-8.035; 5/15/17 nursing education incentive program; 20 CSR 2200-7.010; 1/3/17, 
+5/1/17 organization and administration of an approved program of practical 
+physical facilities and instructional resources; 20 CSR 2200-8.070; 5/15/17 
+preceptors; 20 CSR 2200-8.085; 5/15/17 program changes requiring board approval, notification, or both; 
+20 CSR 2200-8.040; 5/15/17 program evaluation; 20 CSR 2200-8.130; 5/15/17 publications; 20 CSR 2200-8.120; 5/15/17 records; 20 CSR 2200-8.110; 5/15/17 requirements for licensure; 20 CSR 2200-4.020; 6/1/17 students; 20 CSR 2200-8.090; 5/15/17 
+PEACE OFFICER STANDARDS AND TRAINING PROGRAM 
+classification of peace officer licenses; 11 CSR 75-13.010; 4/17/17 continuing education requirement; 11 CSR 75-15.010; 4/17/17 minimum standards for continuing education training; 11 CSR 75- 
+15.020; 4/17/17 standard basic training curricula and objectives; 11 CSR 75-14.030; 
+4/17/17 veteran peace officer point scale; 11 CSR 75-13.060; 4/17/17 
+PETROLEUM AND HAZARDOUS SUBSTANCE STORAGE TANKS alternative methods of release detection for bulk underground pip- 
+ing; 10 CSR 26-2.047; 9/15/16, 10/3/16, 4/17/17 alternative methods of release detection for field-constructed tanks; 
+10 CSR 26-2.046; 9/15/16, 10/3/16, 4/17/17 applicability; 10 CSR 26-2.010; 9/15/16, 4/17/17 compatibility; 10 CSR 26-2.032; 9/15/1, 4/17/176 definitions; 10 CSR 26-2.012; 9/15/16, 4/17/17 general requirements for release detection for all underground stor- 
+age tank systems; 10 CSR 26-2.040; 9/15/16, 4/17/17 interim prohibition for deferred underground storage tank systems; 
+10 CSR 26-2.011; 9/15/15, 4/17/17 methods of release detection for piping; 10 CSR 26-2.044; 9/15/16, 
+4/17/17 methods of release detection for tanks; 10 CSR 26-2.043; 9/15/16, 
+4/17/17 new installation requirements; 10 CSR 26-2.019; 9/15/16, 4/17/17 notification requirements; 10 CSR 26-2.022; 9/15/16, 4/17/17 operation and maintenance of corrosion protection; 10 CSR 26- 
+2.031; 9/15/16, 4/17/17 operation and maintenance walk-through inspections; 10 CSR 26- 
+2.036; 9/15/16, 4/17/17 performance standards for new underground storage tank systems; 
+10 CSR 26-2.020; 9/15/16, 4/17/17 release detection record keeping 
+10 CSR 26-2.045; 9/15/16, 4/17/17 
+10 CSR 26-2.048; 9/15/16, 4/17/17 release investigation and confirmation steps; 10 CSR 26-2.052; 
+9/15/16, 4/17/17 repairs allowed; 10 CSR 26-2.033; 9/15/16, 4/17/17, 4/17/17 reporting and record keeping; 10 CSR 26-2.034; 9/15/16, 4/17/17 reporting of suspected releases; 10 CSR 26-2.050; 9/15/16, 
+4/17/17 requirements for petroleum underground storage tank systems; 
+10 CSR 26-2.041; 9/15/16, 4/17/17 requirements for hazardous substance underground storage tank 
+systems; 10 CSR 26-2.042; 9/15/16, 4/17/17 spill and overfill control for in-use underground storage tank sys- 
+tems; 10 CSR 26-2.030; 9/15/1, 4/17/17 testing of containment sumps; 10 CSR 26-2.035; 9/15/16, 4/17/17 upgraded underground storage tank systems; 10 CSR 26-2.021; 
+9/15/16, 4/17/17 UST systems with field-constructed tanks and airport hydrant fuel 
+distribution systems; 10 CSR 26-2.013; 9/15/16, 4/17/17 
+PHARMACY, STATE BOARD OF 
+general fees; 20 CSR 2220-4.010; 5/1/17 
+nursing; 20 CSR 2200-8.050; 5/15/17 
+  
+Page 898 
+Index 
+June 1, 2017 Vol. 42, No. 11 
+
+PODIATRIC MEDICINE, STATE BOARD OF 
+fees; 20 CSR 2230-2.070; 5/15/17 
+PROPANE SAFETY COMMISSION, MISSOURI 
+fiscal year July 1, 2016–June 30, 2017 budget plan; 2 CSR 90; 8/15/16 
+PSYCHOLOGISTS, STATE COMMITTEE OF 
+fees; 20 CSR 2235-1.020; 6/1/17 
+PUBLIC SAFETY, DEPARTMENT OF 
+appeals procedure and time limits for victims of crime act grant applications; 11 CSR 30-16.020; 2/1/17 
+approval; 11 CSR 30-3.010; 11/15/16 eligibility criteria and application procedures for VOCA grants pro- 
+gram; 11 CSR 30-16.010; 2/1/17 
+PUBLIC SERVICE COMMISSION 
+communications that are not ex parte or extra-record communi- cations; 4 CSR 240-4.040; 1/3/17 
+confidential information; 4 CSR 240-2.135; 1/3/17, 6/1/17 definitions for demand-side programs and demand-side programs 
+investment mechanisms; 4 CSR 240-20.092; 2/1/17 demand-side programs; 4 CSR 240-20.094; 2/1/17 demand-side programs investment mechanisms; 4 CSR 240-20.093; 
+2/1/17 drug and alcohol testing; 4 CSR 240-40.080; 12/15/16, 5/1/17 ex parte and extra-record communications; 4 CSR 240-4.020; 
+1/3/17 ex parte communications; 4 CSR 240-4.020; 1/3/17 extra-record communications; 4 CSR 240-4.030; 1/3/17 general definitions; 4 CSR 240-4.015; 1/3/17 general provisions; 4 CSR 240-4.017; 1/3/17 incident, annual and safety-related condition reporting require- 
+ments; 4 CSR 240-40.020; 12/15/16, 5/1/17 limitations of appearance before commission; 4 CSR 240-4.050; 
+1/3/17 safety standards–transportation of gas by pipeline; 4 CSR 240- 
+40.030; 12/15/16, 5/1/17 
+TAX 
+bona fide established place of business; 12 CSR 10-26.010; 5/15/17 
+THERAPEUTIC MASSAGE, BOARD OF 
+fees; 20 CSR 2197-1.040; 7/1/16 
+TRANSPORTATION, DEPARTMENT OF 
+motor carrier and railroad safety application requirements for the issuance and transfer of 
+intrastate motor carrier authority; 7 CSR 265-10.015; 
+11/15/16 computation of effective dates; 7 CSR 265-10.051; 11/15/16 discontinuance of service; suspension and revocation of certifi- 
+cates, permits, and property carrier registrations; 7 
+CSR 265-10.140; 11/15/16 marking of vehicles; 7 CSR 265-10.025; 11/15/16 merger of duplicated or overlapping motor carrier operating 
+authority; 7 CSR 265-10.090; 11/15/16 name and address changes for motor carriers; 7 CSR 265- 
+10.052; 11/15/16 passenger tariffs; 7 CSR 265-10.055; 11/15/16 records of the division; 7 CSR 265-10.017; 11/15/16 
+Notice of Periodic Rule Review; Title 7; 7/1/16 traffic and highway safety division 
+approval; 7 CSR 60-3.010; 11/15/16 approval procedure; 7 CSR 60-2.020; 11/15/16 approved motorcycle training course; 7 CSR 60-1.060; 
+breath alcohol ignition interlock device security; 7 CSR 60- 2.050; 11/15/16 
+definitions 7 CSR 60-1.010; 11/15/16 7 CSR 60-2.010; 11/15/16 
+motorcycle instructor; 7 CSR 60-1.030; 11/15/16 program sponsor; 7 CSR 60-1.020; 11/15/16 responsibilities of authorized service providers; 7 CSR 60- 
+2.040; 11/15/16 standards and specifications; 7 CSR 60-2.030; 11/15/16 suspension or revocation of approval of a device; 7 CSR 60- 
+2.060; 1/15/16 verification of course completion; 7 CSR 265-1.050; 11/15/16 
+VETERINARY MEDICAL BOARD, MISSOURI 
+fees; 20 CSR 2270-1.021; 1/17/17, 5/1/17 
+YOUTH SERVICES, DIVISION OF 
+confidentiality of case records; 13 CSR 110-2.140; 5/1/17 
+11/15/16 
+To Subscribe to the Missouri Register 
+SALUS POPULI SUPREMA LEX ESTO “The welfare of the people shall be the supreme law.” 
+John R. Ashcroft Secretary of State 
+MISSOURI REGISTER 
+ 
+Contact us at: phone: (573) 751-4015 or email: rules@sos.mo.gov 
+ORDER FORM 
+Enclosed is my check for $56 as payment in advance for one year of the Missouri Register Please start my subscription with the _________________________________________issue. 
+Please make checks payable to: Secretary of State or alternatively call us to charge your credit card. 
+
+Mail to: John R. Ashcroft Secretary of State 
+Administrative Rules Division PO Box 1767 Jefferson City, MO 65102 
+Name or Firm (Please Type or Print) Address 
+Attn: 
+  
+City 
+State 
+Zip Code 
+John R. Ashcroft 
+Secretary of State PO Box 1767 Jefferson City, MO 65102 
+Rulemaking Classes 
+Are you new to rulemaking or in need of a refresher course to assist you in filing rules or understanding the rulemaking process? 
+The Administrative Rules Division offers group and individual classes for rule drafting and preparation of rule packets. Please call Curtis at (573) 751-2022 or email curtis.treat@sos.mo.gov to schedule a class. 
+Periodical Postage Paid at Jefferson City, MO 
+
+6/1/17 
+ 

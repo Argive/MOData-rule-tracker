@@ -1,0 +1,5 @@
+/lib/rule_tracker/testing/config.rb
+/lib/rule_tracker/testing
+/lib/rule_tracker/config.rb
+/lib/rule_tracker/lib/rule_tracker/config.rb
+*.env
