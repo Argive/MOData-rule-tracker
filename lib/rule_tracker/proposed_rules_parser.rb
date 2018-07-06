@@ -29,11 +29,11 @@ def proposed_rules_parser(file)
         end
 
         action = line.include?("AMENDMENT") ? "Amend" : "Rescind"
-        regexp = key_line.match(/^\D*(?<CODE>\d+\s+CSR\s+[-.\d\s]+)\s*(?<DESCRIPTION>.*?)(?=\. .+$)/)
+        regexp = key_line.match(/^*(?<CODE>\d+\s+CSR\s+[-.\d\s]+)\s*(?<DESCRIPTION>.*?)(?=\. .+$)/)
         raise "!-- MANUAL REVIEW REQUIRED: RegExp Returned nil --!" if regexp.nil?
 
         rule_citation, rule_description = regexp.captures
-        
+
         add_to_airtable(Rule.new(rule_citation, rule_description, action, "Proposed (Formal)", file_name))
 
       # rescue errors that require manual review

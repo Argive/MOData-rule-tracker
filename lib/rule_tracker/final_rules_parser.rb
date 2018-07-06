@@ -28,7 +28,7 @@ def final_rules_parser(file)
         end
 
         action = line.include?("amended") ? "Amend" : "Rescind"
-        regexp = key_line.match(/^.*(?<CODE>\d+\s+CSR\s+[-.\d\s]+)\s*(?<DESCRIPTION>.*?)(?=\s+is #{action.downcase}ed.+$)/)
+        regexp = key_line.match(/^(s||D)*(?<CODE>\d+\s+CSR\s+[-.\d\s]+)\s*(?<DESCRIPTION>.*?)(?=\s+is #{action.downcase}ed.+$)/)
         raise "!-- MANUAL REVIEW REQUIRED: RegExp Returned nil --!" if regexp.nil?
 
         rule_citation, rule_description = regexp.captures
